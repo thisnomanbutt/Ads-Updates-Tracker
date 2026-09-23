@@ -1,0 +1,18 @@
+{
+  "name": "ads-updates-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automatically fetches Google Ads and Meta Ads product news, summarizes it with Claude, and publishes a static site + RSS feed.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "update": "node scripts/update.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest",
+    "rss-parser": "^3.13.0",
+    "zod": "^3.25.0"
+  }
+}

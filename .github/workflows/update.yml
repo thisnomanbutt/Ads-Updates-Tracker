@@ -1,0 +1,52 @@
+name: Update ads news
+
+on:
+  schedule:
+    # Every 6 hours (UTC). Change to "0 13 * * 1-5" for one weekday run at 13:00 UTC.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ads-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Fetch, classify and summarize new items
+        run: node scripts/update.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          MAX_ITEM_AGE_DAYS: ${{ vars.MAX_ITEM_AGE_DAYS }}
+          MAX_NEW_PER_RUN: ${{ vars.MAX_NEW_PER_RUN }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A docs state
+          if git diff --cached --quiet; then
+            echo "No new items."
+            exit 0
+          fi
+          git commit -m "chore: update ads news $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

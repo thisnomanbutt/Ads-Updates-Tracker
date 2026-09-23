@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ads Updates Tracker</title>
+<meta name="description" content="Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads, updated automatically." />
+<link rel="alternate" type="application/rss+xml" title="Google Ads & Meta Ads updates" href="feed.xml" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%232563eb'/%3E%3Ccircle cx='16' cy='16' r='6' fill='white'/%3E%3C/svg%3E" />
+<style>
+  :root {
+    --bg: #f6f7f9;
+    --surface: #ffffff;
+    --text: #15181e;
+    --muted: #5b6270;
+    --border: #e3e6eb;
+    --accent: #2563eb;
+    --accent-soft: #e8efff;
+    --google: #1a73e8;
+    --google-soft: #e8f0fe;
+    --meta: #7c3aed;
+    --meta-soft: #f1e9ff;
+    --both: #0f766e;
+    --both-soft: #e0f2f0;
+    --high: #dc2626;
+    --medium: #d97706;
+    --low: #6b7280;
+    --new: #16a34a;
+    --shadow: 0 1px 2px rgba(15, 24, 40, 0.06), 0 4px 16px rgba(15, 24, 40, 0.05);
+    --radius: 12px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f1218;
+      --surface: #171b23;
+      --text: #e8eaee;
+      --muted: #9aa3b2;
+      --border: #262c37;
+      --accent: #5b8def;
+      --accent-soft: #1b2740;
+      --google: #78a9f5;
+      --google-soft: #16233a;
+      --meta: #b08cf6;
+      --meta-soft: #261c3d;
+      --both: #4fb3a9;
+      --both-soft: #12302d;
+      --high: #f87171;
+      --medium: #fbbf24;
+      --low: #9ca3af;
+      --new: #4ade80;
+      --shadow: 0 1px 2px rgba(0,0,0,0.4);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f1218; --surface: #171b23; --text: #e8eaee; --muted: #9aa3b2; --border: #262c37;
+    --accent: #5b8def; --accent-soft: #1b2740; --google: #78a9f5; --google-soft: #16233a;
+    --meta: #b08cf6; --meta-soft: #261c3d; --both: #4fb3a9; --both-soft: #12302d;
+    --high: #f87171; --medium: #fbbf24; --low: #9ca3af; --new: #4ade80; --shadow: 0 1px 2px rgba(0,0,0,0.4);
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font: 15px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .wrap { max-width: 900px; margin: 0 auto; padding: 0 16px 64px; }
+
+  header { padding: 28px 0 12px; }
+  .title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  h1 { font-size: 24px; margin: 0 0 4px; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); margin: 0; }
+  .meta-links { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+  .meta-links a { display: inline-flex; align-items: center; gap: 6px; padding: 6px 10px; border: 1px solid var(--border); border-radius: 999px; background: var(--surface); color: var(--text); }
+  .meta-links a:hover { text-decoration: none; border-color: var(--accent); }
+
+  .banner {
+    margin: 14px 0 0; padding: 10px 14px; border-radius: 10px; font-size: 14px;
+    background: var(--accent-soft); color: var(--text); display: flex; justify-content: space-between; gap: 12px; align-items: center;
+  }
+  .banner button { background: none; border: 0; color: var(--accent); cursor: pointer; font: inherit; }
+
+  .controls {
+    position: sticky; top: 0; z-index: 5;
+    background: var(--bg); padding: 12px 0 10px; border-bottom: 1px solid var(--border);
+    display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+  }
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 999px; overflow: hidden; background: var(--surface); }
+  .seg button {
+    border: 0; background: transparent; color: var(--muted); padding: 7px 12px; font: inherit; font-size: 13px; cursor: pointer;
+  }
+  .seg button[aria-pressed="true"] { background: var(--text); color: var(--bg); }
+  select, input[type="search"] {
+    font: inherit; font-size: 13px; padding: 7px 10px; border-radius: 999px; border: 1px solid var(--border);
+    background: var(--surface); color: var(--text);
+  }
+  input[type="search"] { flex: 1 1 160px; min-width: 140px; }
+  label.check { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); cursor: pointer; }
+  .count { font-size: 13px; color: var(--muted); margin-left: auto; }
+
+  .day { margin: 26px 0 10px; font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow);
+    padding: 16px 18px; margin-bottom: 12px; position: relative;
+  }
+  .card.followup { opacity: 0.85; }
+  .card.followup::before { content: "Also covered"; position: absolute; top: -9px; right: 14px; font-size: 11px; background: var(--bg); color: var(--muted); padding: 0 6px; border-radius: 4px; }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px; font-size: 12px; }
+  .pill { padding: 2px 9px; border-radius: 999px; font-weight: 600; }
+  .pill.google { background: var(--google-soft); color: var(--google); }
+  .pill.meta { background: var(--meta-soft); color: var(--meta); }
+  .pill.both { background: var(--both-soft); color: var(--both); }
+  .pill.cat { background: var(--bg); color: var(--muted); border: 1px solid var(--border); font-weight: 500; }
+  .impact { display: inline-flex; align-items: center; gap: 5px; color: var(--muted); }
+  .impact::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--low); }
+  .impact.High::before { background: var(--high); }
+  .impact.Medium::before { background: var(--medium); }
+  .newdot { color: var(--new); font-weight: 700; }
+  .official { color: var(--muted); }
+  .official::before { content: "✓ "; color: var(--new); }
+
+  h2 { font-size: 17px; margin: 0 0 6px; line-height: 1.35; }
+  h2 a { color: var(--text); }
+  .src { font-size: 13px; color: var(--muted); margin-bottom: 8px; }
+  .summary { margin: 0 0 8px; }
+  details { border-top: 1px dashed var(--border); margin-top: 10px; padding-top: 8px; }
+  summary { cursor: pointer; font-size: 13px; color: var(--accent); list-style: none; }
+  summary::-webkit-details-marker { display: none; }
+  summary::before { content: "▸ "; }
+  details[open] summary::before { content: "▾ "; }
+  dl { margin: 10px 0 0; display: grid; grid-template-columns: max-content 1fr; gap: 6px 14px; font-size: 14px; }
+  dt { font-weight: 600; color: var(--muted); }
+  dd { margin: 0; }
+  .products { margin-top: 8px; font-size: 12px; color: var(--muted); }
+  .products span { display: inline-block; margin: 2px 6px 0 0; padding: 1px 7px; border: 1px solid var(--border); border-radius: 6px; }
+
+  .empty { text-align: center; color: var(--muted); padding: 60px 16px; border: 1px dashed var(--border); border-radius: var(--radius); margin-top: 24px; }
+  .empty code { background: var(--surface); padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border); }
+
+  footer { margin-top: 40px; font-size: 12px; color: var(--muted); text-align: center; }
+
+  @media (max-width: 560px) {
+    dl { grid-template-columns: 1fr; gap: 2px; }
+    dt { margin-top: 6px; }
+    .count { width: 100%; margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="title-row">
+      <div>
+        <h1>Google Ads &amp; Meta Ads updates</h1>
+        <p class="sub">New features, renames, deprecations and policy changes, summarized in plain English. <span id="updated"></span></p>
+      </div>
+      <div class="meta-links">
+        <a href="feed.xml" title="Subscribe in Outlook, Slack, Feedly, etc.">RSS feed</a>
+        <a href="data/items.json" title="Raw data">JSON</a>
+        <button type="button" id="theme" class="pill cat" style="cursor:pointer;font:inherit;font-size:13px;padding:6px 10px;border-radius:999px" title="Toggle light/dark">◐</button>
+      </div>
+    </div>
+    <div class="banner" id="banner" hidden>
+      <span id="banner-text"></span>
+      <button type="button" id="mark-read">Mark all as read</button>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="seg" id="platform" role="group" aria-label="Platform">
+      <button type="button" data-v="all" aria-pressed="true">All</button>
+      <button type="button" data-v="Google Ads" aria-pressed="false">Google Ads</button>
+      <button type="button" data-v="Meta Ads" aria-pressed="false">Meta Ads</button>
+    </div>
+    <select id="category" aria-label="Category">
+      <option value="all">All categories</option>
+      <option>New feature</option>
+      <option>Feature update</option>
+      <option>Rename or rebrand</option>
+      <option>Deprecation or removal</option>
+      <option>Policy or compliance</option>
+      <option>API or developer</option>
+      <option>Reporting or measurement</option>
+      <option>Other</option>
+    </select>
+    <select id="impact" aria-label="Impact">
+      <option value="all">Any impact</option>
+      <option value="High">High only</option>
+      <option value="High,Medium">High + Medium</option>
+    </select>
+    <label class="check"><input type="checkbox" id="official" /> Official sources only</label>
+    <label class="check"><input type="checkbox" id="hide-followups" checked /> Hide duplicate coverage</label>
+    <input type="search" id="q" placeholder="Search…" aria-label="Search" />
+    <span class="count" id="count"></span>
+  </div>
+
+  <main id="list" aria-live="polite"></main>
+
+  <footer>
+    Built from official Google and Meta blogs plus trade press. Summaries are AI-generated; always check the linked source before acting.
+  </footer>
+</div>
+
+<script>
+(function () {
+  const $ = (s) => document.querySelector(s);
+  const state = { platform: "all", category: "all", impact: "all", official: false, hideFollowups: true, q: "" };
+  let items = [];
+  let lastVisit = 0;
+  const LS_VISIT = "ads-tracker:lastVisit";
+  const LS_THEME = "ads-tracker:theme";
+
+  // ---- theme (per-viewer convenience) ----
+  try {
+    const t = localStorage.getItem(LS_THEME);
+    if (t) document.documentElement.dataset.theme = t;
+  } catch (e) {}
+  $("#theme").addEventListener("click", () => {
+    const cur = document.documentElement.dataset.theme;
+    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const next = cur ? (cur === "dark" ? "light" : "dark") : (prefersDark ? "light" : "dark");
+    document.documentElement.dataset.theme = next;
+    try { localStorage.setItem(LS_THEME, next); } catch (e) {}
+  });
+
+  // ---- restore filters from URL ----
+  const params = new URLSearchParams(location.search);
+  for (const k of ["platform", "category", "impact", "q"]) if (params.get(k)) state[k] = params.get(k);
+  if (params.get("official") === "1") state.official = true;
+  if (params.get("all") === "1") state.hideFollowups = false;
+
+  function syncControls() {
+    for (const b of document.querySelectorAll("#platform button")) b.setAttribute("aria-pressed", String(b.dataset.v === state.platform));
+    $("#category").value = state.category;
+    $("#impact").value = state.impact;
+    $("#official").checked = state.official;
+    $("#hide-followups").checked = state.hideFollowups;
+    $("#q").value = state.q;
+  }
+  function pushUrl() {
+    const p = new URLSearchParams();
+    if (state.platform !== "all") p.set("platform", state.platform);
+    if (state.category !== "all") p.set("category", state.category);
+    if (state.impact !== "all") p.set("impact", state.impact);
+    if (state.official) p.set("official", "1");
+    if (!state.hideFollowups) p.set("all", "1");
+    if (state.q) p.set("q", state.q);
+    history.replaceState(null, "", p.toString() ? "?" + p : location.pathname);
+  }
+
+  $("#platform").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.platform = b.dataset.v; render();
+  });
+  $("#category").addEventListener("change", (e) => { state.category = e.target.value; render(); });
+  $("#impact").addEventListener("change", (e) => { state.impact = e.target.value; render(); });
+  $("#official").addEventListener("change", (e) => { state.official = e.target.checked; render(); });
+  $("#hide-followups").addEventListener("change", (e) => { state.hideFollowups = e.target.checked; render(); });
+  $("#q").addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
+  $("#mark-read").addEventListener("click", () => {
+    lastVisit = Date.now();
+    try { localStorage.setItem(LS_VISIT, String(lastVisit)); } catch (e) {}
+    render();
+  });
+
+  // ---- helpers ----
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const fmtDay = (iso) => {
+    const d = new Date(iso);
+    const today = new Date(); today.setHours(0,0,0,0);
+    const diff = Math.round((today - new Date(d.getFullYear(), d.getMonth(), d.getDate())) / 86400000);
+    if (diff === 0) return "Today";
+    if (diff === 1) return "Yesterday";
+    return d.toLocaleDateString(undefined, { weekday: "long", year: "numeric", month: "long", day: "numeric" });
+  };
+  const fmtTime = (iso) => new Date(iso).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+  const platformClass = (p) => p === "Google Ads" ? "google" : p === "Meta Ads" ? "meta" : "both";
+
+  function matches(it) {
+    if (state.platform !== "all" && it.platform !== state.platform && it.platform !== "Both") return false;
+    if (state.category !== "all" && it.category !== state.category) return false;
+    if (state.impact !== "all" && !state.impact.split(",").includes(it.impact)) return false;
+    if (state.official && it.sourceType !== "official") return false;
+    if (state.hideFollowups && it.followUp) return false;
+    if (state.q) {
+      const hay = [it.headline, it.title, it.summary, it.whatChanged, it.whyItMatters, it.action, it.sourceName, ...(it.products || [])].join(" ").toLowerCase();
+      for (const term of state.q.toLowerCase().split(/\s+/)) if (term && !hay.includes(term)) return false;
+    }
+    return true;
+  }
+
+  function card(it) {
+    const isNew = lastVisit && Date.parse(it.fetchedAt || it.published) > lastVisit;
+    const products = (it.products || []).filter(Boolean).slice(0, 6);
+    return `
+    <article class="card ${it.followUp ? "followup" : ""}" id="i-${esc(it.id)}">
+      <div class="tags">
+        ${isNew ? '<span class="newdot">● New</span>' : ""}
+        <span class="pill ${platformClass(it.platform)}">${esc(it.platform)}</span>
+        <span class="pill cat">${esc(it.category)}</span>
+        <span class="impact ${esc(it.impact)}">${esc(it.impact)} impact</span>
+        ${it.sourceType === "official" ? '<span class="official">Official source</span>' : ""}
+      </div>
+      <h2><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.headline || it.title)}</a></h2>
+      <div class="src">${esc(it.sourceName)} · ${esc(fmtTime(it.published))}${it.effectiveDate ? " · Effective: " + esc(it.effectiveDate) : ""}</div>
+      <p class="summary">${esc(it.summary)}</p>
+      <details>
+        <summary>What changed, why it matters, what to do</summary>
+        <dl>
+          <dt>What changed</dt><dd>${esc(it.whatChanged)}</dd>
+          <dt>Why it matters</dt><dd>${esc(it.whyItMatters)}</dd>
+          <dt>What to do</dt><dd>${esc(it.action)}</dd>
+          <dt>Original title</dt><dd><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></dd>
+        </dl>
+        ${products.length ? `<div class="products">${products.map((p) => `<span>${esc(p)}</span>`).join("")}</div>` : ""}
+      </details>
+    </article>`;
+  }
+
+  function render() {
+    syncControls(); pushUrl();
+    const list = $("#list");
+    const visible = items.filter(matches);
+    $("#count").textContent = items.length ? `${visible.length} of ${items.length} updates` : "";
+
+    if (!items.length) {
+      list.innerHTML = `<div class="empty"><p><strong>No updates yet.</strong></p>
+        <p>Run the <code>Update ads news</code> workflow in GitHub Actions (or wait for the next scheduled run). Items appear here automatically.</p></div>`;
+      return;
+    }
+    if (!visible.length) {
+      list.innerHTML = `<div class="empty"><p>Nothing matches these filters.</p></div>`;
+      return;
+    }
+    let html = "", currentDay = "";
+    for (const it of visible) {
+      const day = fmtDay(it.published);
+      if (day !== currentDay) { currentDay = day; html += `<div class="day">${esc(day)}</div>`; }
+      html += card(it);
+    }
+    list.innerHTML = html;
+
+    const newCount = lastVisit ? items.filter((it) => Date.parse(it.fetchedAt || it.published) > lastVisit).length : 0;
+    $("#banner").hidden = !newCount;
+    $("#banner-text").textContent = `${newCount} new update${newCount === 1 ? "" : "s"} since your last visit.`;
+  }
+
+  // ---- load ----
+  try { lastVisit = Number(localStorage.getItem(LS_VISIT)) || 0; } catch (e) {}
+
+  fetch("data/items.json", { cache: "no-cache" })
+    .then((r) => r.json())
+    .then((data) => {
+      items = (data.items || []).slice().sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
+      $("#updated").textContent = data.updatedAt ? `Last checked ${fmtTime(data.updatedAt)}.` : "";
+      render();
+      if (!lastVisit) {
+        // First visit: everything is "old"; from now on, track what's new.
+        try { localStorage.setItem(LS_VISIT, String(Date.now())); } catch (e) {}
+      }
+    })
+    .catch(() => { $("#list").innerHTML = `<div class="empty">Could not load data/items.json.</div>`; });
+})();
+</script>
+</body>
+</html>

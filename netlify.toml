@@ -1,0 +1,16 @@
+# Netlify: no build step. The GitHub Action commits the generated files into docs/,
+# and Netlify simply serves that folder on every push.
+[build]
+  publish = "docs"
+  command = ""
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300"
+
+[[headers]]
+  for = "/feed.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml; charset=utf-8"
+    Cache-Control = "public, max-age=300"

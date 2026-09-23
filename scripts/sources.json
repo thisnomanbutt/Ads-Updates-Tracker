@@ -1,0 +1,82 @@
+[
+  {
+    "id": "google-ads-dev-blog",
+    "name": "Google Ads Developer Blog",
+    "url": "https://ads-developers.googleblog.com/feeds/posts/default",
+    "platform": "Google Ads",
+    "type": "official",
+    "filter": "none"
+  },
+  {
+    "id": "google-ads-commerce-blog",
+    "name": "Google Ads & Commerce Blog",
+    "url": "https://blog.google/products/ads-commerce/rss/",
+    "platform": "Google Ads",
+    "type": "official",
+    "filter": "none"
+  },
+  {
+    "id": "google-marketing-platform-blog",
+    "name": "Google Marketing Platform Blog",
+    "url": "https://blog.google/products/marketingplatform/rss/",
+    "platform": "Google Ads",
+    "type": "official",
+    "filter": "keywords"
+  },
+  {
+    "id": "meta-developers-blog",
+    "name": "Meta for Developers Blog",
+    "url": "https://developers.facebook.com/blog/feed/",
+    "platform": "Meta Ads",
+    "type": "official",
+    "filter": "keywords"
+  },
+  {
+    "id": "meta-newsroom",
+    "name": "Meta Newsroom",
+    "url": "https://about.fb.com/news/feed/",
+    "platform": "Meta Ads",
+    "type": "official",
+    "filter": "keywords"
+  },
+  {
+    "id": "ppc-land",
+    "name": "PPC Land",
+    "url": "https://ppc.land/rss/",
+    "platform": null,
+    "type": "press",
+    "filter": "keywords"
+  },
+  {
+    "id": "search-engine-land",
+    "name": "Search Engine Land",
+    "url": "https://searchengineland.com/feed",
+    "platform": null,
+    "type": "press",
+    "filter": "keywords"
+  },
+  {
+    "id": "seroundtable",
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/index.rdf",
+    "platform": null,
+    "type": "press",
+    "filter": "keywords"
+  },
+  {
+    "id": "jon-loomer",
+    "name": "Jon Loomer Digital",
+    "url": "https://www.jonloomer.com/feed/",
+    "platform": "Meta Ads",
+    "type": "press",
+    "filter": "keywords"
+  },
+  {
+    "id": "social-media-today",
+    "name": "Social Media Today",
+    "url": "https://www.socialmediatoday.com/feeds/news/",
+    "platform": null,
+    "type": "press",
+    "filter": "keywords"
+  }
+]

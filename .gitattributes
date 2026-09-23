@@ -1,0 +1,2 @@
+# Normalize line endings so commits from the GitHub Action (Linux) and from Windows agree.
+* text=auto eol=lf

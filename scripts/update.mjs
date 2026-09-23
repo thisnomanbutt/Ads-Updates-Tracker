@@ -32,6 +32,8 @@ const MAX_AGE_DAYS = toInt(process.env.MAX_ITEM_AGE_DAYS, 30); // ignore feed it
 const MAX_NEW_PER_RUN = toInt(process.env.MAX_NEW_PER_RUN, 40); // cost guard
 const MAX_ITEMS_KEPT = 600;
 const CONCURRENCY = 4;
+const FEED_TIMEOUT_MS = 20000; // hard per-feed deadline, including reading the body
+const ARTICLE_TIMEOUT_MS = 20000;
 const SITE_URL = (process.env.SITE_URL || "").replace(/\/+$/, "");
 const DRY_RUN = process.env.DRY_RUN === "1"; // fetch + filter only, no API calls, no writes
 const HAS_API_KEY = Boolean(process.env.ANTHROPIC_API_KEY?.trim());
@@ -154,11 +156,20 @@ async function writeJson(file, value) {
   await fs.writeFile(file, JSON.stringify(value, null, 2) + "\n", "utf8");
 }
 
-async function fetchWithTimeout(url, ms = 20000) {
+// A hard deadline that covers connecting, headers AND reading the body. `fetch` alone will
+// happily hang on a server that trickles bytes, so the abort signal is what actually saves us.
+async function fetchWithTimeout(url, ms = 20000, extraHeaders = {}) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), ms);
   try {
-    return await fetch(url, { signal: ctrl.signal, headers: { "User-Agent": USER_AGENT, Accept: "text/html,*/*" } });
+    const res = await fetch(url, {
+      signal: ctrl.signal,
+      redirect: "follow",
+      headers: { "User-Agent": USER_AGENT, Accept: "text/html,*/*", ...extraHeaders },
+    });
+    // Read the body while the same deadline is still armed.
+    const text = await res.text();
+    return { ok: res.ok, status: res.status, text: () => text };
   } finally {
     clearTimeout(t);
   }
@@ -167,7 +178,7 @@ async function fetchWithTimeout(url, ms = 20000) {
 // If a feed only gives a teaser, pull the article body so the summary has something to work with.
 async function fetchArticleText(url) {
   try {
-    const res = await fetchWithTimeout(url);
+    const res = await fetchWithTimeout(url, ARTICLE_TIMEOUT_MS);
     if (!res.ok) return "";
     const html = await res.text();
     const main =
@@ -199,9 +210,10 @@ async function mapWithConcurrency(items, limit, fn) {
 // ---------------------------------------------------------------------------
 
 async function fetchCandidates(seenIds) {
+  // We download the feed ourselves with a hard AbortController deadline rather than letting
+  // rss-parser do it: a server that accepts the connection and then trickles bytes can hang
+  // the parser's own timeout indefinitely, which stalls the whole job.
   const parser = new Parser({
-    timeout: 25000,
-    headers: { "User-Agent": USER_AGENT, Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml, */*" },
     customFields: { item: [["content:encoded", "contentEncoded"], "summary", "description"] },
   });
 
@@ -209,12 +221,25 @@ async function fetchCandidates(seenIds) {
   const candidates = [];
   const report = [];
 
-  for (const source of SOURCES) {
-    let feed;
-    try {
-      feed = await parser.parseURL(source.url);
-    } catch (err) {
-      report.push(`  ${source.name}: FAILED (${err.message})`);
+  const fetched = await mapWithConcurrency(SOURCES, 5, async (source) => {
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      try {
+        const res = await fetchWithTimeout(source.url, FEED_TIMEOUT_MS, {
+          Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        // Strip a BOM or leading whitespace; either makes the XML parser reject the document.
+        const xml = (await res.text()).replace(/^﻿/, "").trimStart();
+        return { source, feed: await parser.parseString(xml), error: null };
+      } catch (err) {
+        if (attempt === 2) return { source, feed: null, error: err.message };
+      }
+    }
+  });
+
+  for (const { source, feed, error } of fetched.filter(Boolean)) {
+    if (!feed) {
+      report.push(`  ${source.name}: FAILED (${error})`);
       continue;
     }
     let kept = 0;

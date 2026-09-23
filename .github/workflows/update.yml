@@ -11,11 +11,14 @@ permissions:
 
 concurrency:
   group: update-ads-news
-  cancel-in-progress: false
+  # A new run supersedes an older one. Safe here: a cancelled run simply commits nothing,
+  # and its unprocessed items are picked up by the next run.
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -29,6 +32,7 @@ jobs:
         run: npm install --no-audit --no-fund
 
       - name: Fetch, classify and summarize new items
+        timeout-minutes: 12
         run: node scripts/update.mjs
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

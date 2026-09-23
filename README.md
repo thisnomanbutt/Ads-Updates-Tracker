@@ -27,7 +27,13 @@ git remote add origin https://github.com/<your-user>/ads-updates-tracker.git
 git push -u origin main
 ```
 
-### 2. Add the API key
+### 2. Add the API key (optional, but recommended)
+
+Without a key the tracker still runs: items are classified by keyword rules and shown with the source's own
+excerpt. With a key, each item gets a plain-English AI summary plus "what changed / why it matters / what to do".
+
+To get a key: sign up at https://console.anthropic.com, add a payment method under Billing (a $5 prepaid
+credit lasts months at this volume), then API Keys → Create Key. Then:
 
 GitHub repo → **Settings → Secrets and variables → Actions → New repository secret**
 

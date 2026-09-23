@@ -34,6 +34,9 @@ const MAX_ITEMS_KEPT = 600;
 const CONCURRENCY = 4;
 const SITE_URL = (process.env.SITE_URL || "").replace(/\/+$/, "");
 const DRY_RUN = process.env.DRY_RUN === "1"; // fetch + filter only, no API calls, no writes
+const HAS_API_KEY = Boolean(process.env.ANTHROPIC_API_KEY?.trim());
+// Without an API key the tracker still works: items are classified with simple keyword rules and shown with the
+// source's own excerpt instead of an AI summary. Add the ANTHROPIC_API_KEY secret to switch summaries on.
 const USER_AGENT = "ads-updates-tracker/1.0 (+https://github.com)";
 
 // Items from "keywords"-filtered sources must match this before we spend an API call.
@@ -300,6 +303,52 @@ async function analyze(client, candidate, recentHeadlines) {
   return response.parsed_output;
 }
 
+// Fallback used when no API key is configured: keyword rules + the feed's own excerpt.
+function analyzeHeuristic(candidate) {
+  const text = `${candidate.title}\n${candidate.body.slice(0, 4000)}`;
+  const mentionsGoogle =
+    /\b(google|adwords|performance max|pmax|demand gen|youtube|merchant center|dv360|display\s?&\s?video 360|search ads 360|smart bidding)\b/i.test(text);
+  const mentionsMeta =
+    /\b(meta|facebook|instagram|whatsapp|threads|messenger|advantage\+|ads manager|marketing api|conversions api|meta pixel)\b/i.test(text);
+  const platform =
+    mentionsGoogle && mentionsMeta ? "Both" : mentionsGoogle ? "Google Ads" : mentionsMeta ? "Meta Ads" : candidate.sourcePlatformHint || "Other";
+
+  const t = candidate.title.toLowerCase();
+  const category = /deprecat|sunset|remov|retir|shut(ting)? down|end of life|discontinu/.test(t)
+    ? "Deprecation or removal"
+    : /renam|rebrand|now called|becomes|new name/.test(t)
+      ? "Rename or rebrand"
+      : /polic|complian|privacy|restrict|\bban\b|enforc/.test(t)
+        ? "Policy or compliance"
+        : /\bapi\b|\bsdk\b|developer|\bv\d+(\.\d+)?\b/.test(t)
+          ? "API or developer"
+          : /report|measur|attribution|analytics|insight|conversion/.test(t)
+            ? "Reporting or measurement"
+            : /introduc|launch|\bnew\b|announc|now available|roll(s|ing)? out|expand|adds?\b/.test(t)
+              ? "New feature"
+              : "Feature update";
+
+  const excerpt = candidate.body.replace(/\s+/g, " ").trim();
+  const summary = excerpt
+    ? excerpt.slice(0, 320) + (excerpt.length > 320 ? "…" : "")
+    : "No excerpt available in the feed. Open the source for details.";
+
+  return {
+    relevant: platform !== "Other",
+    platform,
+    category,
+    impact: candidate.sourceType === "official" ? "Medium" : "Low",
+    headline: candidate.title,
+    summary,
+    what_changed: "",
+    why_it_matters: "",
+    action: "",
+    products: [],
+    effective_date: "",
+    duplicate_of_recent: false,
+  };
+}
+
 // ---------------------------------------------------------------------------
 // Step 3: outputs
 // ---------------------------------------------------------------------------
@@ -312,9 +361,9 @@ function buildFeedXml(items) {
       const desc = [
         `<p><strong>${escapeXml(it.platform)}</strong> · ${escapeXml(it.category)} · Impact: ${escapeXml(it.impact)}</p>`,
         `<p>${escapeXml(it.summary)}</p>`,
-        `<p><strong>What changed:</strong> ${escapeXml(it.whatChanged)}</p>`,
-        `<p><strong>Why it matters:</strong> ${escapeXml(it.whyItMatters)}</p>`,
-        `<p><strong>What to do:</strong> ${escapeXml(it.action)}</p>`,
+        it.whatChanged ? `<p><strong>What changed:</strong> ${escapeXml(it.whatChanged)}</p>` : "",
+        it.whyItMatters ? `<p><strong>Why it matters:</strong> ${escapeXml(it.whyItMatters)}</p>` : "",
+        it.action ? `<p><strong>What to do:</strong> ${escapeXml(it.action)}</p>` : "",
         `<p>Source: <a href="${escapeXml(it.link)}">${escapeXml(it.sourceName)}</a></p>`,
       ].join("");
       return `    <item>
@@ -418,16 +467,16 @@ async function main() {
     console.log("Nothing to do.");
     return;
   }
-  if (!process.env.ANTHROPIC_API_KEY) {
-    throw new Error("ANTHROPIC_API_KEY is not set. Add it as a repository secret.");
+  if (!HAS_API_KEY) {
+    console.log("ANTHROPIC_API_KEY is not set: using keyword rules and feed excerpts instead of AI summaries.");
   }
 
-  const batch = candidates.slice(0, MAX_NEW_PER_RUN);
+  const batch = HAS_API_KEY ? candidates.slice(0, MAX_NEW_PER_RUN) : candidates;
   if (candidates.length > batch.length) {
     console.log(`Processing the newest ${batch.length}; the rest will be picked up on the next run.`);
   }
 
-  const client = new Anthropic();
+  const client = HAS_API_KEY ? new Anthropic() : null;
   const recentHeadlines = data.items.slice(0, 40).map((it) => it.headline);
   const nowIso = new Date().toISOString();
   const accepted = [];
@@ -436,7 +485,7 @@ async function main() {
 
   await mapWithConcurrency(batch, CONCURRENCY, async (candidate) => {
     try {
-      const a = await analyze(client, candidate, recentHeadlines);
+      const a = client ? await analyze(client, candidate, recentHeadlines) : analyzeHeuristic(candidate);
       seen.ids[candidate.id] = nowIso;
       if (!a.relevant || a.platform === "Other") {
         dropped++;
@@ -463,6 +512,7 @@ async function main() {
         products: a.products,
         effectiveDate: a.effective_date,
         followUp: a.duplicate_of_recent,
+        aiSummary: Boolean(client),
       });
       console.log(`  keep   [${a.platform} · ${a.category}] ${a.headline}`);
     } catch (err) {
@@ -485,7 +535,7 @@ async function main() {
     if (Date.parse(when) < pruneBefore) delete seen.ids[id];
   }
 
-  await writeJson(DATA_FILE, { updatedAt: nowIso, model: MODEL, count: merged.length, items: merged });
+  await writeJson(DATA_FILE, { updatedAt: nowIso, model: HAS_API_KEY ? MODEL : null, count: merged.length, items: merged });
   await writeJson(SEEN_FILE, seen);
   await fs.writeFile(FEED_FILE, buildFeedXml(merged), "utf8");
 

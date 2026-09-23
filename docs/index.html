@@ -310,6 +310,7 @@
       <h2><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.headline || it.title)}</a></h2>
       <div class="src">${esc(it.sourceName)} · ${esc(fmtTime(it.published))}${it.effectiveDate ? " · Effective: " + esc(it.effectiveDate) : ""}</div>
       <p class="summary">${esc(it.summary)}</p>
+      ${it.aiSummary === false ? '<div class="src">Excerpt from the source. Add an API key to get plain-English AI summaries.</div>' : `
       <details>
         <summary>What changed, why it matters, what to do</summary>
         <dl>
@@ -319,7 +320,7 @@
           <dt>Original title</dt><dd><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></dd>
         </dl>
         ${products.length ? `<div class="products">${products.map((p) => `<span>${esc(p)}</span>`).join("")}</div>` : ""}
-      </details>
+      </details>`}
     </article>`;
   }
 

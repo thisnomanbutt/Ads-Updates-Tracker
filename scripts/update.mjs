@@ -45,9 +45,55 @@ const USER_AGENT = "ads-updates-tracker/1.0 (+https://github.com)";
 const KEYWORDS =
   /\b(google ads|adwords|performance max|pmax|demand gen|smart bidding|search ads|shopping ads|merchant center|youtube ads|display ads|discovery ads|google ads api|ads editor|ads liaison|google marketing platform|display\s?&\s?video 360|dv360|search ads 360|campaign manager 360|meta ads|facebook ads|instagram ads|whatsapp ads|threads ads|messenger ads|reels ads|ads manager|advantage\+|advantage plus|marketing api|conversions api|capi|meta business suite|business manager|meta pixel|lead ads|catalog ads|dynamic ads|ad(s)? (policy|policies|format|placement|auction|attribution)|paid (search|social|media)|ppc|advertis\w*|ad campaign|ad spend|cpc|cpm|roas)(?![a-z0-9])/i;
 
+// Always dropped, whoever the source is: glossary/explainer posts and localized reprints.
+const GLOSSARY = /^(explaining|what is|explained:)\b/i;
+
+// Court cases, fines, antitrust and corporate news are about the platforms, not about the ad
+// products, so they are noise for this tracker. Only used by the keyword fallback; the model
+// judges these case by case.
+const OFF_TOPIC =
+  // Deliberately excludes words that are ordinary ads vocabulary ("shares", "acquisition",
+  // "stock"), which would otherwise throw away real product news.
+  /\b(fine[sd]?|lawsuit|sued|suing|court|judge|antitrust|monopol\w*|regulator\w*|settlement|\bCMA\b|\bDOJ\b|\bFTC\b|\bEU\b probe|investigation|ruling|verdict|lobby\w*|choice screen|earnings|layoffs?|\bIPO\b)\b/i;
+
+// For trade press in fallback mode the headline itself must carry two signals: a platform and
+// something to do with advertising. One alone lets general Google/Meta tech news through.
+const TITLE_PLATFORM =
+  /\b(google|adwords|meta|facebook|instagram|youtube|whatsapp|threads|messenger|pmax|performance max|demand gen|ai max|merchant center|dv360|advantage\+)\b/i;
+const TITLE_ADS_WORD =
+  /(\bads?\b|advertis\w*|campaign|bidding|\bbids?\b|budget|audience|keyword|creative|pixel|conversion|shopping|merchant|placement|targeting|retarget\w*|remarket\w*|exclusion|\bevents?\b|attribution|impression|\broas\b|\bcpc\b|\bcpm\b|\bctr\b|\bppc\b)/i;
+
 function toInt(value, fallback) {
   const n = Number.parseInt(value ?? "", 10);
   return Number.isFinite(n) && n > 0 ? n : fallback;
+}
+
+// Localized reprints (Meta Newsroom posts in Polish, Spanish, German...) would otherwise land
+// on the page unreadable. Detect them by script and by letters English does not use, rather
+// than by looking for English words: plenty of real headlines ("Rethink 2026") contain none.
+const NON_LATIN_SCRIPT = /[Ͱ-ϿЀ-ӿ֐-׿؀-ۿ฀-๿぀-ヿ一-鿿가-힯]/;
+const NON_ENGLISH_LETTER = /[ąćęłńśźżğışčďěňřšťůžăâîțşţåæøœßÿ]/i;
+
+function looksEnglish(title = "") {
+  return !NON_LATIN_SCRIPT.test(title) && !NON_ENGLISH_LETTER.test(title);
+}
+
+// Rough overlap of meaningful words, used to spot the same story filed three times.
+function titleSimilarity(a = "", b = "") {
+  const tokens = (s) =>
+    new Set(
+      s
+        .toLowerCase()
+        .replace(/[^a-z0-9€$%\s]/g, " ")
+        .split(/\s+/)
+        .filter((w) => w.length > 3 && !/^(with|from|that|this|they|their|have|will|after|over|into|about|than|then|when|what|your|more|most|been|were|also|said)$/.test(w)),
+    );
+  const A = tokens(a);
+  const B = tokens(b);
+  if (!A.size || !B.size) return 0;
+  let shared = 0;
+  for (const w of A) if (B.has(w)) shared++;
+  return shared / Math.min(A.size, B.size);
 }
 
 // ---------------------------------------------------------------------------
@@ -257,6 +303,7 @@ async function fetchCandidates(seenIds) {
       const rawBody = entry.contentEncoded || entry.content || entry.summary || entry.description || entry.contentSnippet || "";
       const body = stripHtml(rawBody);
 
+      if (GLOSSARY.test(title) || !looksEnglish(title)) continue;
       if (source.filter === "keywords" && !KEYWORDS.test(`${title}\n${body.slice(0, 3000)}`)) continue;
 
       candidates.push({
@@ -338,6 +385,16 @@ function analyzeHeuristic(candidate) {
   const platform =
     mentionsGoogle && mentionsMeta ? "Both" : mentionsGoogle ? "Google Ads" : mentionsMeta ? "Meta Ads" : candidate.sourcePlatformHint || "Other";
 
+  // Without the model to judge, be strict with trade press: the headline must point at a
+  // platform (or come from a single-platform blog) and mention something advertising-related.
+  // Legal and corporate stories are dropped outright. Official sources are trusted as-is.
+  const title = candidate.title;
+  const platformInTitle = TITLE_PLATFORM.test(title) || Boolean(candidate.sourcePlatformHint);
+  const relevant =
+    platform !== "Other" &&
+    !OFF_TOPIC.test(title) &&
+    (candidate.sourceType === "official" || (platformInTitle && TITLE_ADS_WORD.test(title)));
+
   const t = candidate.title.toLowerCase();
   const category = /deprecat|sunset|remov|retir|shut(ting)? down|end of life|discontinu/.test(t)
     ? "Deprecation or removal"
@@ -359,7 +416,7 @@ function analyzeHeuristic(candidate) {
     : "No excerpt available in the feed. Open the source for details.";
 
   return {
-    relevant: platform !== "Other",
+    relevant,
     platform,
     category,
     impact: candidate.sourceType === "official" ? "Medium" : "Low",
@@ -548,6 +605,17 @@ async function main() {
       else console.warn(`  error ${candidate.title}: ${err.message}`);
     }
   });
+
+  // The same story often arrives from several outlets within a day or two. Keep the first
+  // one we saw and flag the rest as follow-ups, which the page hides unless asked for.
+  const anchors = data.items.slice(0, 120); // stories already on the site
+  const oldestFirst = [...accepted].sort((x, y) => Date.parse(x.published) - Date.parse(y.published));
+  for (const item of oldestFirst) {
+    if (item.followUp) continue; // the model already called it a follow-up
+    const text = item.headline || item.title;
+    if (anchors.some((o) => titleSimilarity(text, o.headline || o.title) >= 0.6)) item.followUp = true;
+    else anchors.push(item); // first telling of this story wins
+  }
 
   // Merge, newest first, cap size.
   const merged = [...accepted, ...data.items]

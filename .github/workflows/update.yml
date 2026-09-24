@@ -5,6 +5,15 @@ on:
     # Every 6 hours (UTC). Change to "0 13 * * 1-5" for one weekday run at 13:00 UTC.
     - cron: "17 */6 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    # Run after a change to the code or the feed list, so fixes take effect immediately.
+    # The generated files are excluded; a push made by this job would be ignored anyway,
+    # because GitHub does not re-trigger workflows for commits pushed with GITHUB_TOKEN.
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update.yml"
+      - "package.json"
 
 permissions:
   contents: write

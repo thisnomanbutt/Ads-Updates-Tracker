@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 18:31:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:34:31 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads API Version 25.1 Now Available</title>
+      <link>https://www.seroundtable.com/google-ads-api-version-25-2-42154.html</link>
+      <guid isPermaLink="false">f32e2afd7f9d3b8d</guid>
+      <pubDate>Wed, 23 Sep 2026 23:42:00 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google has released version 25.2 of the Google Ads API, this is a minor release with several of updates. This update includes competitive benchmarks percentile metrics, the ability to generate Performance Max drafts from Smart campaigns, asset group URL options, Search bid adjustment recommendations, and more.</p><p>Source: <a href="https://www.seroundtable.com/google-ads-api-version-25-2-42154.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Announcing v25.2 of the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/09/announcing-v252-of-google-ads-api.html</link>
+      <guid isPermaLink="false">48efebce758533f3</guid>
+      <pubDate>Wed, 23 Sep 2026 23:12:17 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we are announcing the release of v25.2 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in our Google Ads API Release Highlights ev…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/09/announcing-v252-of-google-ads-api.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Gemini gains 14 third-party apps including Experian and Adobe</title>
+      <link>https://ppc.land/gemini-gains-14-third-party-apps-including-experian-and-adobe/</link>
+      <guid isPermaLink="false">68fdaa27e339672e</guid>
+      <pubDate>Wed, 23 Sep 2026 18:40:31 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Squarespace, Webflow, apartments.com and SeatGeek take Google's named partners to 27 in 42 days, yet no markets, accounts or tiers are listed. Who can connect? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/gemini-gains-14-third-party-apps-including-experian-and-adobe/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google raises security to level 2+ for 3 types of dangerous AI capability</title>
+      <link>https://ppc.land/google-raises-security-to-level-2-for-3-types-of-dangerous-ai-capability/</link>
+      <guid isPermaLink="false">51be258c0780f1dd</guid>
+      <pubDate>Wed, 23 Sep 2026 18:31:41 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Gemini, the model family writing AI Max ad copy, gains tracked tiers below Google's CBRN and misalignment red lines. What must a model now clear before release? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-raises-security-to-level-2-for-3-types-of-dangerous-ai-capability/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google faces 12-slot UK search choice screen open to AI assistants</title>
       <link>https://ppc.land/google-faces-12-slot-uk-search-choice-screen-open-to-ai-assistants/</link>
@@ -373,38 +405,6 @@
       <pubDate>Mon, 31 Aug 2026 13:30:59 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>What’s going on here? Meta introduced Customer Lifecycle Strategy a few months ago. It allows you to define whether you want to get conversions from all audiences or only acquire new customers. When you choose to acquire new customers, you’ll need to define the custom audiences you want to exclude. But Meta is doing so…</p><p>Source: <a href="https://www.jonloomer.com/qvt/existing-customer-exclusions/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] October 2026 changes to the Display &amp; Video 360 API and Structured Data Files</title>
-      <link>http://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html</link>
-      <guid isPermaLink="false">3c0a50c9ba75a3c8</guid>
-      <pubDate>Thu, 27 Aug 2026 23:21:44 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we’re announcing three unversioned changes to the Display &amp; Video 360 API and Structured Data Files that will take effect in October 2026 and may impact your existing integrations. These changes will take place on the following dates and have been fully detailed on our Announced Deprecations page: Starting Octobe…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Reach your audience in new ways with August’s Demand Gen Drop.</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/</link>
-      <guid isPermaLink="false">85e97ca397b82ead</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Drive high-quality leads and acquire customers with new messaging, travel, and creative features in YouTube’s August Demand Gen Drop.</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads API Developer Assistant v4.0.0</title>
-      <link>http://ads-developers.googleblog.com/2026/08/google-ads-api-developer-assistant-v400.html</link>
-      <guid isPermaLink="false">092848271359f76c</guid>
-      <pubDate>Tue, 25 Aug 2026 19:21:15 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>A major release of the Google Ads API Developer Assistant is now available. This release transitions the assistant from a standalone project setup to a unified plugin architecture designed to bring specialized Google Ads API capabilities directly into AI agent workflows. What is it? The Google Ads API Developer Assista…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/08/google-ads-api-developer-assistant-v400.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Reply to Keywords Meta Ads Feature</title>
-      <link>https://www.jonloomer.com/reply-to-keywords-meta-ads-feature/</link>
-      <guid isPermaLink="false">8aa58c7c7a611044</guid>
-      <pubDate>Tue, 25 Aug 2026 11:30:41 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Some advertisers are seeing a new Conversations box for “Reply to Keywords” when creating an ad. Let’s take a closer look at what this is and how you might use it… What Is It? Meta says that you can use this feature to “save time by automatically sending a private message when people comment with a keyword.” Click the …</p><p>Source: <a href="https://www.jonloomer.com/reply-to-keywords-meta-ads-feature/">Jon Loomer Digital</a></p>]]></description>
     </item>
   </channel>
 </rss>

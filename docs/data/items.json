@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-09-24T00:34:31.208Z",
+  "updatedAt": "2026-09-24T06:33:35.252Z",
   "model": null,
-  "count": 54,
+  "count": 55,
   "items": [
+    {
+      "id": "47ce2f71fdddd970",
+      "title": "CMA would put AI assistants on a 12-slot Google choice screen",
+      "link": "https://ppc.land/cma-would-put-ai-assistants-on-a-12-slot-google-choice-screen/",
+      "published": "2026-09-24T06:28:26.000Z",
+      "fetchedAt": "2026-09-24T06:33:35.252Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "CMA would put AI assistants on a 12-slot Google choice screen",
+      "summary": "The CMA's revised plan gives Android and Chrome users a 12-slot search choice screen, adds AI assistants, and requires clear attribution of publisher sources. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "f32e2afd7f9d3b8d",
       "title": "Google Ads API Version 25.1 Now Available",

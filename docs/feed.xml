@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 00:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:33:35 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] CMA would put AI assistants on a 12-slot Google choice screen</title>
+      <link>https://ppc.land/cma-would-put-ai-assistants-on-a-12-slot-google-choice-screen/</link>
+      <guid isPermaLink="false">47ce2f71fdddd970</guid>
+      <pubDate>Thu, 24 Sep 2026 06:28:26 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>The CMA's revised plan gives Android and Chrome users a 12-slot search choice screen, adds AI assistants, and requires clear attribution of publisher sources. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/cma-would-put-ai-assistants-on-a-12-slot-google-choice-screen/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads API Version 25.1 Now Available</title>
       <link>https://www.seroundtable.com/google-ads-api-version-25-2-42154.html</link>
@@ -397,14 +405,6 @@
       <pubDate>Mon, 31 Aug 2026 22:03:49 GMT</pubDate>
       <category>Policy or compliance</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Medium</p><p>We are updating our Google Ads Developer Policies formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the advertising industry. These updates establish clear frameworks for emerging technologies that are more secure and drive…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/08/making-google-ads-more-secure-with.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Check Your Existing Customer Exclusions</title>
-      <link>https://www.jonloomer.com/qvt/existing-customer-exclusions/</link>
-      <guid isPermaLink="false">48dbf37e3c41e7f6</guid>
-      <pubDate>Mon, 31 Aug 2026 13:30:59 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>What’s going on here? Meta introduced Customer Lifecycle Strategy a few months ago. It allows you to define whether you want to get conversions from all audiences or only acquire new customers. When you choose to acquire new customers, you’ll need to define the custom audiences you want to exclude. But Meta is doing so…</p><p>Source: <a href="https://www.jonloomer.com/qvt/existing-customer-exclusions/">Jon Loomer Digital</a></p>]]></description>
     </item>
   </channel>
 </rss>

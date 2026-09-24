@@ -93,7 +93,11 @@ function titleSimilarity(a = "", b = "") {
   if (!A.size || !B.size) return 0;
   let shared = 0;
   for (const w of A) if (B.has(w)) shared++;
-  return shared / Math.min(A.size, B.size);
+  // Two words in common is a coincidence between short headlines, not the same story.
+  if (shared < 3) return 0;
+  // Overlap against the combined vocabulary, not the shorter title: dividing by the shorter
+  // one makes any brief headline look like a duplicate of a longer one that repeats a word.
+  return shared / (A.size + B.size - shared);
 }
 
 // ---------------------------------------------------------------------------
@@ -613,7 +617,7 @@ async function main() {
   for (const item of oldestFirst) {
     if (item.followUp) continue; // the model already called it a follow-up
     const text = item.headline || item.title;
-    if (anchors.some((o) => titleSimilarity(text, o.headline || o.title) >= 0.6)) item.followUp = true;
+    if (anchors.some((o) => titleSimilarity(text, o.headline || o.title) >= 0.5)) item.followUp = true;
     else anchors.push(item); // first telling of this story wins
   }
 

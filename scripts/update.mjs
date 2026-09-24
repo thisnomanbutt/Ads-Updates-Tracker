@@ -379,8 +379,12 @@ async function analyze(client, candidate, recentHeadlines) {
   return response.parsed_output;
 }
 
-// Fallback used when no API key is configured: keyword rules + the feed's own excerpt.
-function analyzeHeuristic(candidate) {
+// Feed footers that add nothing to a summary.
+const BOILERPLATE =
+  /(continue reading this article[^.]*\.|sign up (for )?the [^.]*newsletter[^.]*\.|the post .{0,120} appeared first on .{0,80}\.|read more( on| at)? [^.]*\.|subscribe to [^.]*\.|share this post[^.]*\.)/gi;
+
+// Fallback used when no API key is configured: keyword rules + the article's own text.
+async function analyzeHeuristic(candidate) {
   const text = `${candidate.title}\n${candidate.body.slice(0, 4000)}`;
   const mentionsGoogle =
     /\b(google|adwords|performance max|pmax|demand gen|youtube|merchant center|dv360|display\s?&\s?video 360|search ads 360|smart bidding)\b/i.test(text);
@@ -414,10 +418,18 @@ function analyzeHeuristic(candidate) {
               ? "New feature"
               : "Feature update";
 
-  const excerpt = candidate.body.replace(/\s+/g, " ").trim();
-  const summary = excerpt
-    ? excerpt.slice(0, 320) + (excerpt.length > 320 ? "…" : "")
-    : "No excerpt available in the feed. Open the source for details.";
+  // Many feeds publish only a teaser ("Continue reading this article on..."), so pull the
+  // article itself when the feed text is thin. Worth the request: with no model to write a
+  // summary, this excerpt is all the reader gets.
+  let source = candidate.body;
+  if (relevant && source.replace(/\s+/g, " ").trim().length < 600) {
+    const full = await fetchArticleText(candidate.link);
+    if (full.length > source.length) source = full;
+  }
+
+  const excerpt = source.replace(BOILERPLATE, " ").replace(/\s+/g, " ").trim();
+  const cut = (s, n) => (s.length > n ? s.slice(0, s.lastIndexOf(" ", n) > 0 ? s.lastIndexOf(" ", n) : n) + "…" : s);
+  const summary = excerpt ? cut(excerpt, 320) : "No excerpt available in the feed. Open the source for details.";
 
   return {
     relevant,
@@ -426,6 +438,8 @@ function analyzeHeuristic(candidate) {
     impact: candidate.sourceType === "official" ? "Medium" : "Low",
     headline: candidate.title,
     summary,
+    // A longer passage for the expandable panel, so there is something to read without the model.
+    excerpt: cut(excerpt, 1200),
     what_changed: "",
     why_it_matters: "",
     action: "",
@@ -571,7 +585,7 @@ async function main() {
 
   await mapWithConcurrency(batch, CONCURRENCY, async (candidate) => {
     try {
-      const a = client ? await analyze(client, candidate, recentHeadlines) : analyzeHeuristic(candidate);
+      const a = client ? await analyze(client, candidate, recentHeadlines) : await analyzeHeuristic(candidate);
       seen.ids[candidate.id] = nowIso;
       if (!a.relevant || a.platform === "Other") {
         dropped++;
@@ -592,6 +606,7 @@ async function main() {
         impact: a.impact,
         headline: a.headline,
         summary: a.summary,
+        excerpt: a.excerpt || "",
         whatChanged: a.what_changed,
         whyItMatters: a.why_it_matters,
         action: a.action,

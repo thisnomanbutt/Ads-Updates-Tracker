@@ -310,7 +310,14 @@
       <h2><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.headline || it.title)}</a></h2>
       <div class="src">${esc(it.sourceName)} · ${esc(fmtTime(it.published))}${it.effectiveDate ? " · Effective: " + esc(it.effectiveDate) : ""}</div>
       <p class="summary">${esc(it.summary)}</p>
-      ${it.aiSummary === false ? '<div class="src">Excerpt from the source. Add an API key to get plain-English AI summaries.</div>' : `
+      ${it.aiSummary === false ? `
+      ${it.excerpt && it.excerpt.length > (it.summary || "").length ? `
+      <details>
+        <summary>Read more from the source</summary>
+        <p class="summary" style="margin-top:10px">${esc(it.excerpt)}</p>
+        <dl><dt>Original title</dt><dd><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></dd></dl>
+      </details>` : ""}
+      <div class="src" style="margin-top:8px">Source excerpt. Add an API key for plain-English summaries with what changed, why it matters and what to do.</div>` : `
       <details>
         <summary>What changed, why it matters, what to do</summary>
         <dl>

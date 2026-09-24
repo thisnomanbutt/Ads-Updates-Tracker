@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 06:33:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:33:54 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads Budget Recommendation Change With Forecast</title>
+      <link>https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html</link>
+      <guid isPermaLink="false">71e352a5bb64217f</guid>
+      <pubDate>Thu, 24 Sep 2026 11:31:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is showing some advertisers not just a recommendation with the ability to make a change on that recommendation but it is tied to the advertiser's forecast. It shows your projected weekly conversion value and adds that your campaign is limited by budget, and that you should spend more to hit the forecast.</p><p>Source: <a href="https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Investment Strategy New Holistic &amp; Growth Modes</title>
+      <link>https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html</link>
+      <guid isPermaLink="false">14be4430d0326af3</guid>
+      <pubDate>Thu, 24 Sep 2026 11:05:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads updated its Recommended Investment Strategy tab on the Recommendations page with Strategic budget allocation using Holistic and Growth modes. Holistic mode reallocates spend from underperforming campaigns to top performers for maximum efficiency, while Growth mode adds fresh budget to top performers without …</p><p>Source: <a href="https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] CMA would put AI assistants on a 12-slot Google choice screen</title>
       <link>https://ppc.land/cma-would-put-ai-assistants-on-a-12-slot-google-choice-screen/</link>
@@ -389,22 +405,6 @@
       <pubDate>Wed, 02 Sep 2026 17:00:00 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>In this Ads Decoded episode, we discuss how to assess marketing campaigns with attribution, incrementality, and media mix models.</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Introduces a New Automatic Events Feature</title>
-      <link>https://www.jonloomer.com/meta-automatic-events-feature/</link>
-      <guid isPermaLink="false">edb30b6f42fdd0ad</guid>
-      <pubDate>Tue, 01 Sep 2026 11:30:55 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>Advertisers have spotted a new Automatic Events option in the Settings tab of Events Manager. If you’re a good Meta advertiser who pays attention, this should look at least vaguely familiar to you. There is an old feature that’s described in almost the same way. I assure you there are differences. But if you’re confuse…</p><p>Source: <a href="https://www.jonloomer.com/meta-automatic-events-feature/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Making Google Ads More Secure with Updates to Developer Policies</title>
-      <link>http://ads-developers.googleblog.com/2026/08/making-google-ads-more-secure-with.html</link>
-      <guid isPermaLink="false">830209d391badc23</guid>
-      <pubDate>Mon, 31 Aug 2026 22:03:49 GMT</pubDate>
-      <category>Policy or compliance</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Medium</p><p>We are updating our Google Ads Developer Policies formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the advertising industry. These updates establish clear frameworks for emerging technologies that are more secure and drive…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/08/making-google-ads-more-secure-with.html">Google Ads Developer Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

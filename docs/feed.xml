@@ -5,14 +5,14 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:13:44 GMT</lastBuildDate>
     <item>
       <title>[Google Ads] Google Ads Budget Recommendation Change With Forecast</title>
       <link>https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html</link>
       <guid isPermaLink="false">71e352a5bb64217f</guid>
       <pubDate>Thu, 24 Sep 2026 11:31:00 GMT</pubDate>
       <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Bing Algorithm Updates Maps Ads Search Subscribe More Menu The Pulse of the search community Follow Subscribe Subscribe Options Browse By Browse by Date Find by Category Discover by Author Scan Most Recent See Comments Weekly Stats View Tag Cloud Light / Dark Mode Settings Light Dark Use Device Settings…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html">Search Engine Roundtable</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is showing some advertisers not just a recommendation with the ability to make a change on that recommendation but it is tied to the advertiser's forecast. It shows your projected weekly conversion value and adds that your campaign is limited by budget, and that you should spend more to hit the forecast.…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html">Search Engine Roundtable</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Google Ads Investment Strategy New Holistic &amp; Growth Modes</title>
@@ -20,7 +20,7 @@
       <guid isPermaLink="false">14be4430d0326af3</guid>
       <pubDate>Thu, 24 Sep 2026 11:05:00 GMT</pubDate>
       <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Bing Algorithm Updates Maps Ads Search Subscribe More Menu The Pulse of the search community Follow Subscribe Subscribe Options Browse By Browse by Date Find by Category Discover by Author Scan Most Recent See Comments Weekly Stats View Tag Cloud Light / Dark Mode Settings Light Dark Use Device Settings…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html">Search Engine Roundtable</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads updated its Recommended Investment Strategy tab on the Recommendations page with Strategic budget allocation using Holistic and Growth modes. Holistic mode reallocates spend from underperforming campaigns to top performers for maximum efficiency, while Growth mode adds fresh budget to top performers without…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html">Search Engine Roundtable</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Google Ads API Version 25.2 Now Available</title>
@@ -28,7 +28,7 @@
       <guid isPermaLink="false">f32e2afd7f9d3b8d</guid>
       <pubDate>Wed, 23 Sep 2026 23:42:00 GMT</pubDate>
       <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google Bing Algorithm Updates Maps Ads Search Subscribe More Menu The Pulse of the search community Follow Subscribe Subscribe Options Browse By Browse by Date Find by Category Discover by Author Scan Most Recent See Comments Weekly Stats View Tag Cloud Light / Dark Mode Settings Light Dark Use Device Settings…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-api-version-25-2-42154.html">Search Engine Roundtable</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google has released version 25.2 of the Google Ads API, this is a minor release with several of updates. This update includes competitive benchmarks percentile metrics, the ability to generate Performance Max drafts from Smart campaigns, asset group URL options, Search bid adjustment recommendations, and more. Google…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-api-version-25-2-42154.html">Search Engine Roundtable</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Announcing v25.2 of the Google Ads API</title>
@@ -44,7 +44,7 @@
       <guid isPermaLink="false">f29c595b5bd0b39f</guid>
       <pubDate>Wed, 23 Sep 2026 11:51:00 GMT</pubDate>
       <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Bing Algorithm Updates Maps Ads Search Subscribe More Menu The Pulse of the search community Follow Subscribe Subscribe Options Browse By Browse by Date Find by Category Discover by Author Scan Most Recent See Comments Weekly Stats View Tag Cloud Light / Dark Mode Settings Light Dark Use Device Settings…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-max-vs-dynamic-search-ads-42142.html">Search Engine Roundtable</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads added new help documentation on how to test AI Max against Dynamic Search Ads (DSAs) by using experiments. Google posted two options within Google Ads experiments including (1) custom experiments and (2) the experiment template. Google added this to the second section of the about Dynamic Search Ads help…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-max-vs-dynamic-search-ads-42142.html">Search Engine Roundtable</a></p>]]></description>
     </item>
     <item>
       <title>[Meta Ads] Meta drops 250-ad Page cap in some accounts as 286 ads keep running</title>
@@ -52,7 +52,7 @@
       <guid isPermaLink="false">ac6649d4803768af</guid>
       <pubDate>Wed, 23 Sep 2026 10:32:04 GMT</pubDate>
       <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Ad cards surge through a raised Meta dam gate past a red gauge line, 36 ads beyond the limit News Meta drops 250-ad Page cap in some accounts as 286 ads keep running Four spend tiers in force since 2021 held Pages to at most 20,000 live ads. One account 36 over its limit still publishes new ones. Will Meta confirm a…</p><p>Source: <a href="https://ppc.land/meta-drops-250-ad-page-cap-in-some-accounts-as-286-ads-keep-running/">PPC Land</a></p>]]></description>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Four spend tiers in force since 2021 held Pages to at most 20,000 live ads. One account 36 over its limit still publishes new ones. Will Meta confirm a rollout? Some Meta advertisers are seeing a new message in Ads Manager stating that the number of ads a Page can run is no longer limited, according to a LinkedIn post…</p><p>Source: <a href="https://ppc.land/meta-drops-250-ad-page-cap-in-some-accounts-as-286-ads-keep-running/">PPC Land</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.</title>
@@ -60,7 +60,7 @@
       <guid isPermaLink="false">007ebac07c4c0871</guid>
       <pubDate>Wed, 23 Sep 2026 08:30:00 GMT</pubDate>
       <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>Google Ads We’re bringing AI Brief to more languages and adding a new AI Max reporting feature. Sep 23, 2026 We’re rolling out new AI Max features that provide advertisers with greater control and new reporting to understand performance. First, we’re bringing the closed beta of AI Brief to more languages: Dutch,…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ai-max-language-reporting-features/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>We’re rolling out new AI Max features that provide advertisers with greater control and new reporting to understand performance. First, we’re bringing the closed beta of AI Brief to more languages: Dutch, French, German, Italian, Japanese, Portuguese, and Spanish. AI Brief lets you guide AI Max in your own words with…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ai-max-language-reporting-features/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Google Ads filters miss fake leads, so advertisers must add 3 form checks</title>
@@ -68,7 +68,7 @@
       <guid isPermaLink="false">1e1b0450a54cffbc</guid>
       <pubDate>Sun, 20 Sep 2026 15:22:01 GMT</pubDate>
       <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads lead spam slips past post-serve checks; three sieves sift bogus entries before the CRM News Google Ads filters miss fake leads, so advertisers must add 3 form checks Most traffic screening runs after an ad serves, letting bots reach lead forms. Google wants server-side email validation. Does a billing credit…</p><p>Source: <a href="https://ppc.land/google-ads-filters-miss-fake-leads-so-advertisers-must-add-3-form-checks/">PPC Land</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Most traffic screening runs after an ad serves, letting bots reach lead forms. Google wants server-side email validation. Does a billing credit cover the rest? Google has published a Google Ads Help Centre page stating that its invalid traffic filters do not, by themselves, stop bogus submissions from reaching…</p><p>Source: <a href="https://ppc.land/google-ads-filters-miss-fake-leads-so-advertisers-must-add-3-form-checks/">PPC Land</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Google drops free shopping listings across Europe in two days</title>
@@ -76,7 +76,7 @@
       <guid isPermaLink="false">325333fe58bb5869</guid>
       <pubDate>Sat, 19 Sep 2026 07:37:01 GMT</pubDate>
       <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Bold graphic of shopping carts blocked by a giant scanner gate, symbolizing lost free listings. News Google drops free shopping listings across Europe in two days Google dropped free shopping listings across the EEA under the DMA, Ezoic cut 25% of its display impressions, and Infillion acquired Foursquare&amp;#x27;s…</p><p>Source: <a href="https://ppc.land/google-drops-free-shopping-listings-across-europe-in-two-days/">PPC Land</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google dropped free shopping listings across the EEA under the DMA, Ezoic cut 25% of its display impressions, and Infillion acquired Foursquare&amp;#x27;s location data. Advertising businesses tend to grow by addition. More impressions, more surfaces, more data, more units on the page. The two days covered here ran the…</p><p>Source: <a href="https://ppc.land/google-drops-free-shopping-listings-across-europe-in-two-days/">PPC Land</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Build campaigns that drive high-converting, sales-ready leads.</title>
@@ -84,7 +84,7 @@
       <guid isPermaLink="false">f83fc48a3bb3bafc</guid>
       <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
       <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Google Ads Build campaigns that drive high-converting, sales-ready leads. Sep 18, 2026 Tracking the ROI on your lead gen campaigns has never been tougher. Sales cycles are longer, and unless customers fill out a contact form, it’s hard to tell what’s driving your conversions. In this episode of Ads Decoded, recorded…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Tracking the ROI on your lead gen campaigns has never been tougher. Sales cycles are longer, and unless customers fill out a contact form, it’s hard to tell what’s driving your conversions. In this episode of Ads Decoded, recorded live at Rethink ROI in New York City, Senior Product Manager Stephen Chang, Product…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Rethink your strategy to drive sales this holiday season.</title>
@@ -92,7 +92,7 @@
       <guid isPermaLink="false">d8eb794307cf9658</guid>
       <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
       <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Google Ads Rethink your strategy to drive sales this holiday season. Sep 16, 2026 Fresh off Google’s Rethink Retail event in New York City, Ads Product Liaison Ginny Marvin sits down with Enric Durany, Group Product Manager for retail ad experiences for the Ads Decoded podcast. Together, they break down the actionable…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Fresh off Google’s Rethink Retail event in New York City, Ads Product Liaison Ginny Marvin sits down with Enric Durany, Group Product Manager for retail ad experiences for the Ads Decoded podcast. Together, they break down the actionable strategies and high-impact optimizations merchants can implement now to drive…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Boost your holiday sales with these agentic commerce updates</title>
@@ -100,7 +100,7 @@
       <guid isPermaLink="false">dd00b8482f903b02</guid>
       <pubDate>Wed, 16 Sep 2026 14:00:00 GMT</pubDate>
       <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Breadcrumb Home Products &amp; Platforms Products Shopping Boost your holiday sales with these agentic commerce updates Sep 16, 2026 | x.com Facebook LinkedIn Mail Copy link The latest agentic commerce updates are designed to help businesses capture holiday shoppers&amp;#x27; attention in a new era. Ashish Gupta VP/GM,…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>The latest agentic commerce updates are designed to help businesses capture holiday shoppers&amp;#x27; attention in a new era. Your browser does not support the audio element. You can now use new artificial intelligence tools to boost your holiday sales. Check your performance insights in Merchant Center, join the Business…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Rethink 2026</title>
@@ -108,7 +108,7 @@
       <guid isPermaLink="false">1f30947c306f5ea1</guid>
       <pubDate>Wed, 16 Sep 2026 14:00:00 GMT</pubDate>
       <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Breadcrumb Home Products Google Ads &amp; Commerce Collection Share x.com Facebook LinkedIn Mail Copy link Rethink 2026 Sep 16, 2026 · 4 articles 16 Sep, 2026 articles 4 Sep 16, 2026 4 articles 16 Sep, 2026 articles 4 To help marketers thrive during the upcoming AI-powered holiday season, we’re sharing product updates and…</p><p>Source: <a href="https://blog.google/products/ads-commerce/rethink-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>To help marketers thrive during the upcoming AI-powered holiday season, we’re sharing product updates and practical ways to engage customers and boost ROI. Check out our posts ahead of — and at — Rethink 2026 to learn more about what’s new. Boost your holiday sales with these agentic commerce updates Help boost holiday…</p><p>Source: <a href="https://blog.google/products/ads-commerce/rethink-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Meta Ads] Text Customization ChatGPT Ads AI Enhancement</title>
@@ -124,7 +124,7 @@
       <guid isPermaLink="false">94ad36d7ed05c224</guid>
       <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
       <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Breadcrumb Home Products &amp; Platforms Products Search 3 ways to prep for your next big race with Search Sep 10, 2026 | x.com Facebook LinkedIn Mail Copy link Search can help you get race-day ready with tailored training plans, custom playlists, and more. Peter Schottenfels Contributor Share x.com Facebook LinkedIn Mail…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/search/running-race-training-tips/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Search can help you get race-day ready with tailored training plans, custom playlists, and more. Your browser does not support the audio element. Running is surging in popularity, and you can use Google Search’s artificial intelligence tools to simplify your race preparation. Use the Canvas tool to build a personalized…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/search/running-race-training-tips/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Both] A new onboarding experience for Google Ads API developers</title>
@@ -140,7 +140,7 @@
       <guid isPermaLink="false">1a04562e9ae9f5f4</guid>
       <pubDate>Thu, 10 Sep 2026 13:00:00 GMT</pubDate>
       <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>Google Ads Drive profitable growth with new data and measurement tools Sep 10, 2026 | x.com Facebook LinkedIn Mail Copy link We’re giving you new ways to improve your measurement stack for the AI era. Learn how to strengthen your data foundation and use new Meridian improvements to grow your business. Nipoon Malhotra…</p><p>Source: <a href="https://blog.google/products/ads-commerce/data-strength-updates/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>We’re giving you new ways to improve your measurement stack for the AI era. Learn how to strengthen your data foundation and use new Meridian improvements to grow your business. VP, Ads Analytics, Insights, and Measurement Your browser does not support the audio element. Google is launching new measurement tools to…</p><p>Source: <a href="https://blog.google/products/ads-commerce/data-strength-updates/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Meta Ads] How to Approach Meta Advertising Control</title>
@@ -172,7 +172,7 @@
       <guid isPermaLink="false">b01622e98ee09c56</guid>
       <pubDate>Wed, 02 Sep 2026 17:00:00 GMT</pubDate>
       <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>Google Ads Build a measurement stack you can rely on to steer your campaigns. Sep 02, 2026 It can be tough to evaluate your media strategy when key measurement tools — like real-time attribution, periodic incrementality tests, and media mix models (MMM) — conflict. In this Ads Decoded episode, Ginny Marvin, Ads Product…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>It can be tough to evaluate your media strategy when key measurement tools — like real-time attribution, periodic incrementality tests, and media mix models (MMM) — conflict. In this Ads Decoded episode, Ginny Marvin, Ads Product Liaison, sits down with John Chen, Senior Director of Product Management for Ads…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Meta Ads] Meta Introduces a New Automatic Events Feature</title>
@@ -212,7 +212,7 @@
       <guid isPermaLink="false">85e97ca397b82ead</guid>
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
       <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Google Ads Reach your audience in new ways with August’s Demand Gen Drop. Aug 27, 2026 In the second half of 2025, we introduced hundreds of improvements to Demand Gen campaigns that, on average, are driving a 30% increase in conversions or conversion value for advertisers. 1 We’re now unveiling new tools to help…</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>In the second half of 2025, we introduced hundreds of improvements to Demand Gen campaigns that, on average, are driving a 30% increase in conversions or conversion value for advertisers. 1 We’re now unveiling new tools to help advertisers drive high-quality leads and acquire customers on YouTube and beyond. Ready to…</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Google Ads API Developer Assistant v4.0.0</title>

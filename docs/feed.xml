@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:33:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:02:12 GMT</lastBuildDate>
     <item>
       <title>[Google Ads] Google Ads Budget Recommendation Change With Forecast</title>
       <link>https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html</link>
@@ -23,15 +23,7 @@
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads updated its Recommended Investment Strategy tab on the Recommendations page with Strategic budget allocation using Holistic and Growth modes. Holistic mode reallocates spend from underperforming campaigns to top performers for maximum efficiency, while Growth mode adds fresh budget to top performers without …</p><p>Source: <a href="https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html">Search Engine Roundtable</a></p>]]></description>
     </item>
     <item>
-      <title>[Google Ads] CMA would put AI assistants on a 12-slot Google choice screen</title>
-      <link>https://ppc.land/cma-would-put-ai-assistants-on-a-12-slot-google-choice-screen/</link>
-      <guid isPermaLink="false">47ce2f71fdddd970</guid>
-      <pubDate>Thu, 24 Sep 2026 06:28:26 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>The CMA's revised plan gives Android and Chrome users a 12-slot search choice screen, adds AI assistants, and requires clear attribution of publisher sources. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/cma-would-put-ai-assistants-on-a-12-slot-google-choice-screen/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads API Version 25.1 Now Available</title>
+      <title>[Google Ads] Google Ads API Version 25.2 Now Available</title>
       <link>https://www.seroundtable.com/google-ads-api-version-25-2-42154.html</link>
       <guid isPermaLink="false">f32e2afd7f9d3b8d</guid>
       <pubDate>Wed, 23 Sep 2026 23:42:00 GMT</pubDate>
@@ -45,30 +37,6 @@
       <pubDate>Wed, 23 Sep 2026 23:12:17 GMT</pubDate>
       <category>API or developer</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we are announcing the release of v25.2 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in our Google Ads API Release Highlights ev…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/09/announcing-v252-of-google-ads-api.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Gemini gains 14 third-party apps including Experian and Adobe</title>
-      <link>https://ppc.land/gemini-gains-14-third-party-apps-including-experian-and-adobe/</link>
-      <guid isPermaLink="false">68fdaa27e339672e</guid>
-      <pubDate>Wed, 23 Sep 2026 18:40:31 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Squarespace, Webflow, apartments.com and SeatGeek take Google's named partners to 27 in 42 days, yet no markets, accounts or tiers are listed. Who can connect? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/gemini-gains-14-third-party-apps-including-experian-and-adobe/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google raises security to level 2+ for 3 types of dangerous AI capability</title>
-      <link>https://ppc.land/google-raises-security-to-level-2-for-3-types-of-dangerous-ai-capability/</link>
-      <guid isPermaLink="false">51be258c0780f1dd</guid>
-      <pubDate>Wed, 23 Sep 2026 18:31:41 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Gemini, the model family writing AI Max ad copy, gains tracked tiers below Google's CBRN and misalignment red lines. What must a model now clear before release? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-raises-security-to-level-2-for-3-types-of-dangerous-ai-capability/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google faces 12-slot UK search choice screen open to AI assistants</title>
-      <link>https://ppc.land/google-faces-12-slot-uk-search-choice-screen-open-to-ai-assistants/</link>
-      <guid isPermaLink="false">ac436f42d2792ab6</guid>
-      <pubDate>Wed, 23 Sep 2026 16:48:51 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Chrome on desktop and iOS would get a non-skippable screen and a test-drive of at least a week. Comments close on 9 October - will AI rivals win UK defaults? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-faces-12-slot-uk-search-choice-screen-open-to-ai-assistants/">PPC Land</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Test Google Ads AI Max Against Dynamic Search Ads</title>
@@ -87,124 +55,12 @@
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Four spend tiers in force since 2021 held Pages to at most 20,000 live ads. One account 36 over its limit still publishes new ones. Will Meta confirm a rollout? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/meta-drops-250-ad-page-cap-in-some-accounts-as-286-ads-keep-running/">PPC Land</a></p>]]></description>
     </item>
     <item>
-      <title>[Google Ads] Google switched on AI Mode checkout for Shopify stores without asking</title>
-      <link>https://ppc.land/google-switched-on-ai-mode-checkout-for-shopify-stores-without-asking/</link>
-      <guid isPermaLink="false">cfbc8d09676aa9d2</guid>
-      <pubDate>Wed, 23 Sep 2026 10:16:13 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google enabled native checkout in AI Mode and Gemini for Shopify merchants automatically, as LLM citations shift to YouTube and publishers rebuild around shows. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-switched-on-ai-mode-checkout-for-shopify-stores-without-asking/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
       <title>[Google Ads] We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.</title>
       <link>https://blog.google/products/ads-commerce/ai-max-language-reporting-features/</link>
       <guid isPermaLink="false">007ebac07c4c0871</guid>
       <pubDate>Wed, 23 Sep 2026 08:30:00 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>We’re making it easier to create great AI Max campaigns by adding a new reporting feature and bringing AI Brief to more languages.</p><p>Source: <a href="https://blog.google/products/ads-commerce/ai-max-language-reporting-features/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads New AI Max Reporting &amp; AI Brief Expands To More Countries</title>
-      <link>https://www.seroundtable.com/google-ads-ai-max-reporting-countries-42144.html</link>
-      <guid isPermaLink="false">6bcbb1ef283e7f0b</guid>
-      <pubDate>Wed, 23 Sep 2026 08:30:00 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads is expanding access to AI Briefs and also added new AI Max reporting. Google said AI Brief audience targeting works now in Dutch, French, German, Italian, Japanese, Portuguese, and Spanish. Plus, there is a new AI Max reporting feature for looking at the Search Ads journey.</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-max-reporting-countries-42144.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta adds Threads-specific permissions for businesses</title>
-      <link>https://www.socialmediatoday.com/news/meta-adds-threads-specific-permissions-for-businesses/831087/</link>
-      <guid isPermaLink="false">b8a7f1bac96f1274</guid>
-      <pubDate>Tue, 22 Sep 2026 21:10:43 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>As part of a larger decoupling from Instagram, the app is allowing advertisers to assign Threads-specific controls to marketing teams.</p><p>Source: <a href="https://www.socialmediatoday.com/news/meta-adds-threads-specific-permissions-for-businesses/831087/">Social Media Today</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Merchant Center Auto Enables Native Checkout: Buy On AI Mode &amp; Gemini</title>
-      <link>https://www.seroundtable.com/google-native-checkout-emails-42140.html</link>
-      <guid isPermaLink="false">b31ccbe8e07c32f0</guid>
-      <pubDate>Tue, 22 Sep 2026 15:20:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google is sending email notifications to Google Merchant Center users if their e-commerce platform supports Universal Commerce Protocol (UCP) and if so, telling them that &quot;your products are now eligible for native checkout.&quot; This means that your eligible products are automatically included, so if you don't want people …</p><p>Source: <a href="https://www.seroundtable.com/google-native-checkout-emails-42140.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Merchant Center Updates Requirements For Google Store Ratings</title>
-      <link>https://www.seroundtable.com/google-merchant-center-google-store-ratings-42125.html</link>
-      <guid isPermaLink="false">b9c6680e7c66a907</guid>
-      <pubDate>Tue, 22 Sep 2026 11:41:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google added a new section to the Google Store ratings: An overview for Merchants within Google Merchant Center detailing the requirements for Google Store ratings. This was added a week or so ago, and it says you need at least 100 reviews, an average star rating of 3.5 to 5, a 24-hour timeframe and the ratings are geo…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-google-store-ratings-42125.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Ireland fines Google €403m over location data flagged in 2018</title>
-      <link>https://ppc.land/ireland-fines-google-eur403m-over-location-data-flagged-in-2018/</link>
-      <guid isPermaLink="false">7d8d44389707c915</guid>
-      <pubDate>Tue, 22 Sep 2026 06:46:06 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Ireland's DPC fined Google €403m over location data used in ads, as the EU Council drafts a legitimate-interest basis for AI training with no right to object. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/ireland-fines-google-eur403m-over-location-data-flagged-in-2018/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Analytics filter blocks data from domains not on an approved list</title>
-      <link>https://ppc.land/google-analytics-filter-blocks-data-from-domains-not-on-an-approved-list/</link>
-      <guid isPermaLink="false">5d32769a9c8db84f</guid>
-      <pubDate>Mon, 21 Sep 2026 23:15:05 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Analytics admins get an Include mode that discards empty-hostname events but exempts Measurement Protocol hits. How Data Manager API events fare is unclear. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-analytics-filter-blocks-data-from-domains-not-on-an-approved-list/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google faces €403m fine over location tracking flagged in 2018</title>
-      <link>https://ppc.land/google-faces-eur403m-fine-over-location-tracking-flagged-in-2018/</link>
-      <guid isPermaLink="false">b1eefb8c6efca12c</guid>
-      <pubDate>Mon, 21 Sep 2026 19:42:03 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Android users had to refuse Location History at least four times, a consumer complaint said. It never named Location Accuracy. Which claims did Dublin uphold? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-faces-eur403m-fine-over-location-tracking-flagged-in-2018/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] What is the Landing Page Experience Enhancement?</title>
-      <link>https://www.jonloomer.com/qvt/landing-page-experience-enhancement/</link>
-      <guid isPermaLink="false">8273b577362e76b6</guid>
-      <pubDate>Mon, 21 Sep 2026 13:30:56 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>If you’ve enabled the option to test new AI generation features in Advertising Settings , you may see a new enhancement. I’ve had these test features enabled for a few years now, but there haven’t been many changes in a while. But of the eleven features that can currently be tested on my account, I’m seeing a new one: …</p><p>Source: <a href="https://www.jonloomer.com/qvt/landing-page-experience-enhancement/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Irish regulator fines Google €403 million over location data processing</title>
-      <link>https://ppc.land/irish-regulator-fines-google-eur403-million-over-location-data-processing/</link>
-      <guid isPermaLink="false">51623661278001e1</guid>
-      <pubDate>Mon, 21 Sep 2026 11:10:24 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Three features used by Android owners and Google account holders broke EU privacy law in 2018-2020. A six-month compliance clock starts, unless courts pause it. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/irish-regulator-fines-google-eur403-million-over-location-data-processing/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Explaining Glenn Gabe</title>
-      <link>https://ppc.land/glenn-gabe/</link>
-      <guid isPermaLink="false">a09c64b93c5578c9</guid>
-      <pubDate>Sun, 20 Sep 2026 19:32:22 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Glenn Gabe is the independent analyst the search industry reads first on Google algorithm updates. How the method works, what it has found, and where it fails. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/glenn-gabe/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] £260m Google settlement halts UK app developer trial 12 days early</title>
-      <link>https://ppc.land/260m-google-settlement-halts-uk-app-developer-trial-12-days-early/</link>
-      <guid isPermaLink="false">5a5d806162b214d7</guid>
-      <pubDate>Sun, 20 Sep 2026 18:26:16 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Under £7,500 in Play Store revenue means a flat £200 payment; larger developers split £160m by assessed damages. Claims open six to ten weeks after approval. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/260m-google-settlement-halts-uk-app-developer-trial-12-days-early/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Explaining lead journey mapping</title>
-      <link>https://ppc.land/lead-journey-mapping/</link>
-      <guid isPermaLink="false">4d54a9b05ea221eb</guid>
-      <pubDate>Sun, 20 Sep 2026 15:57:54 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Lead journey mapping is a Google Ads tool that charts each stage from first enquiry to closed sale, linking conversion actions and offline CRM data to each. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/lead-journey-mapping/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] What ad tech left unsaid this month: courts, platforms, metrics, deals</title>
-      <link>https://ppc.land/what-ad-tech-left-unsaid-this-month-courts-platforms-metrics-deals/</link>
-      <guid isPermaLink="false">c8cbda136d691a35</guid>
-      <pubDate>Sun, 20 Sep 2026 15:33:12 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Redacted lawsuits, a sealed monopoly opinion and unaudited measures marked September, from Amazon's blacked-out surcharge to YouTube data no brand can verify. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/what-ad-tech-left-unsaid-this-month-courts-platforms-metrics-deals/">PPC Land</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Google Ads filters miss fake leads, so advertisers must add 3 form checks</title>
@@ -215,46 +71,6 @@
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Most traffic screening runs after an ad serves, letting bots reach lead forms. Google wants server-side email validation. Does a billing credit cover the rest? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-ads-filters-miss-fake-leads-so-advertisers-must-add-3-form-checks/">PPC Land</a></p>]]></description>
     </item>
     <item>
-      <title>[Meta Ads] German court ends Meta&amp;#x27;s hosting shield, 250,000 euros per fake ad</title>
-      <link>https://ppc.land/german-court-ends-metas-hosting-shield-250-000-euros-per-fake-ad/</link>
-      <guid isPermaLink="false">c4ab1b7603f69e03</guid>
-      <pubDate>Sun, 20 Sep 2026 05:04:54 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Frankfurt ruled Meta's ad auction ends its hosting defence at 250,000 euros per breach, LinkedIn faces antitrust class action, and streamers built a D.C. lobby. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/german-court-ends-metas-hosting-shield-250-000-euros-per-fake-ad/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta faces up to 250,000 euro fine per fake Finanzfluss ad after court loss</title>
-      <link>https://ppc.land/meta-faces-up-to-250-000-euro-fine-per-fake-finanzfluss-ad-after-court-loss/</link>
-      <guid isPermaLink="false">f5ef8b25a119c3e4</guid>
-      <pubDate>Sat, 19 Sep 2026 19:24:37 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Frankfurt judges held that Meta's ad auction and feed ranking amount to control over content, removing hosting protection. Which ranked platforms come next? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/meta-faces-up-to-250-000-euro-fine-per-fake-finanzfluss-ad-after-court-loss/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Explaining Google Discover</title>
-      <link>https://ppc.land/google-discover/</link>
-      <guid isPermaLink="false">ad6a1048f7594499</guid>
-      <pubDate>Sat, 19 Sep 2026 12:29:59 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Discover is the query-free, personalised feed in the Google app and on mobile Google.com: how it picks stories, its 2012 roots, traffic and disputes. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-discover/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Discover test button sends readers to AI overview, not publisher</title>
-      <link>https://ppc.land/google-discover-test-button-sends-readers-to-ai-overview-not-publisher/</link>
-      <guid isPermaLink="false">83aee6dcea414f87</guid>
-      <pubDate>Sat, 19 Sep 2026 11:44:13 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Four code flags stretch the trial from YouTube summary cards to article cards, per 1492.vision's Damien Andell. Will links on Google's new screen earn clicks? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-discover-test-button-sends-readers-to-ai-overview-not-publisher/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Netflix, Amazon and YouTube form D.C. lobby as sports paywalls draw fire</title>
-      <link>https://ppc.land/netflix-amazon-and-youtube-form-d-c-lobby-as-sports-paywalls-draw-fire/</link>
-      <guid isPermaLink="false">4b729d1999c58f03</guid>
-      <pubDate>Sat, 19 Sep 2026 11:33:13 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>TechNet, a 106-member trade group, runs SACA as Congress reviews a 1961 antitrust exemption for leagues. What changes for live-game ad inventory and pricing? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/netflix-amazon-and-youtube-form-d-c-lobby-as-sports-paywalls-draw-fire/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
       <title>[Google Ads] Google drops free shopping listings across Europe in two days</title>
       <link>https://ppc.land/google-drops-free-shopping-listings-across-europe-in-two-days/</link>
       <guid isPermaLink="false">325333fe58bb5869</guid>
@@ -263,60 +79,12 @@
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google dropped free shopping listings across the EEA under the DMA, Ezoic cut 25% of its display impressions, and Infillion acquired Foursquare's location data. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/google-drops-free-shopping-listings-across-europe-in-two-days/">PPC Land</a></p>]]></description>
     </item>
     <item>
-      <title>[Meta Ads] Prostujemy: fakty o walce z oszukańczymi reklamami w Polsce</title>
-      <link>https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/</link>
-      <guid isPermaLink="false">54e7f01ec24bdd64</guid>
-      <pubDate>Fri, 18 Sep 2026 14:55:13 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Medium</p><p>Na początku tego tygodnia fundacja Instrat opublikowała raport dotyczący jednego z najtrudniejszych wyzwań, z jakimi mierzy się cała branża – reklam o charakterze oszukańczym. To poważne i złożone wyzwanie, które dotyczy firm technologicznych, banków i całego społeczeństwa. Ciężko pracujemy, by przeciwdziałać działanio…</p><p>Source: <a href="https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/">Meta Newsroom</a></p>]]></description>
-    </item>
-    <item>
       <title>[Google Ads] Build campaigns that drive high-converting, sales-ready leads.</title>
       <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/</link>
       <guid isPermaLink="false">f83fc48a3bb3bafc</guid>
       <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Ezoic cuts 25% of display impressions to push viewability to 87%</title>
-      <link>https://ppc.land/ezoic-cuts-25-of-display-impressions-to-push-viewability-to-87/</link>
-      <guid isPermaLink="false">c7b185aa284058fd</guid>
-      <pubDate>Fri, 18 Sep 2026 05:18:27 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Prebid win CPM rose about 54% for Ezoic publishers after the August 4 change. Can those vendor-reported results survive Google's stricter February 2027 count? Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/ezoic-cuts-25-of-display-impressions-to-push-viewability-to-87/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Explaining Quest</title>
-      <link>https://ppc.land/quest/</link>
-      <guid isPermaLink="false">9019f911914726ad</guid>
-      <pubDate>Fri, 18 Sep 2026 04:58:49 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Quest is Meta's line of standalone virtual reality headsets, sold as Oculus Quest until 2022, reached by advertisers via app ads, in-app formats and data rules. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/quest/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Explaining Orion</title>
-      <link>https://ppc.land/orion/</link>
-      <guid isPermaLink="false">778543592214c4e8</guid>
-      <pubDate>Fri, 18 Sep 2026 04:57:21 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Orion is Meta's prototype augmented reality glasses, shown in September 2024 with a 70-degree display. How the system works, its cost and what it means for ads. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/orion/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Explaining DFP</title>
-      <link>https://ppc.land/dfp/</link>
-      <guid isPermaLink="false">89d97a687ed1f29d</guid>
-      <pubDate>Fri, 18 Sep 2026 04:36:36 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>DFP, DoubleClick for Publishers, is the ad server deciding which advertisement fills a slot. Renamed Google Ad Manager in 2018, the acronym outlived the brand. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/dfp/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Explaining functional equivalence</title>
-      <link>https://ppc.land/functional-equivalence/</link>
-      <guid isPermaLink="false">653188ff14c6f4c4</guid>
-      <pubDate>Fri, 18 Sep 2026 04:24:32 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Functional equivalence requires that access a platform grants a rival perform as well as the access it grants itself, the standard now binding Google's ad tech. Continue reading this article on ppc.land . Sign up the PPC Land newsletter to get the latest marketing news.</p><p>Source: <a href="https://ppc.land/functional-equivalence/">PPC Land</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Rethink your strategy to drive sales this holiday season.</title>
@@ -405,6 +173,54 @@
       <pubDate>Wed, 02 Sep 2026 17:00:00 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>In this Ads Decoded episode, we discuss how to assess marketing campaigns with attribution, incrementality, and media mix models.</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta Introduces a New Automatic Events Feature</title>
+      <link>https://www.jonloomer.com/meta-automatic-events-feature/</link>
+      <guid isPermaLink="false">edb30b6f42fdd0ad</guid>
+      <pubDate>Tue, 01 Sep 2026 11:30:55 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>Advertisers have spotted a new Automatic Events option in the Settings tab of Events Manager. If you’re a good Meta advertiser who pays attention, this should look at least vaguely familiar to you. There is an old feature that’s described in almost the same way. I assure you there are differences. But if you’re confuse…</p><p>Source: <a href="https://www.jonloomer.com/meta-automatic-events-feature/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Making Google Ads More Secure with Updates to Developer Policies</title>
+      <link>http://ads-developers.googleblog.com/2026/08/making-google-ads-more-secure-with.html</link>
+      <guid isPermaLink="false">830209d391badc23</guid>
+      <pubDate>Mon, 31 Aug 2026 22:03:49 GMT</pubDate>
+      <category>Policy or compliance</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Medium</p><p>We are updating our Google Ads Developer Policies formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the advertising industry. These updates establish clear frameworks for emerging technologies that are more secure and drive…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/08/making-google-ads-more-secure-with.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Check Your Existing Customer Exclusions</title>
+      <link>https://www.jonloomer.com/qvt/existing-customer-exclusions/</link>
+      <guid isPermaLink="false">48dbf37e3c41e7f6</guid>
+      <pubDate>Mon, 31 Aug 2026 13:30:59 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>What’s going on here? Meta introduced Customer Lifecycle Strategy a few months ago. It allows you to define whether you want to get conversions from all audiences or only acquire new customers. When you choose to acquire new customers, you’ll need to define the custom audiences you want to exclude. But Meta is doing so…</p><p>Source: <a href="https://www.jonloomer.com/qvt/existing-customer-exclusions/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] October 2026 changes to the Display &amp; Video 360 API and Structured Data Files</title>
+      <link>http://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html</link>
+      <guid isPermaLink="false">3c0a50c9ba75a3c8</guid>
+      <pubDate>Thu, 27 Aug 2026 23:21:44 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we’re announcing three unversioned changes to the Display &amp; Video 360 API and Structured Data Files that will take effect in October 2026 and may impact your existing integrations. These changes will take place on the following dates and have been fully detailed on our Announced Deprecations page: Starting Octobe…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Reach your audience in new ways with August’s Demand Gen Drop.</title>
+      <link>https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/</link>
+      <guid isPermaLink="false">85e97ca397b82ead</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Drive high-quality leads and acquire customers with new messaging, travel, and creative features in YouTube’s August Demand Gen Drop.</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API Developer Assistant v4.0.0</title>
+      <link>http://ads-developers.googleblog.com/2026/08/google-ads-api-developer-assistant-v400.html</link>
+      <guid isPermaLink="false">092848271359f76c</guid>
+      <pubDate>Tue, 25 Aug 2026 19:21:15 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>A major release of the Google Ads API Developer Assistant is now available. This release transitions the assistant from a standalone project setup to a unified plugin architecture designed to bring specialized Google Ads API capabilities directly into AI agent workflows. What is it? The Google Ads API Developer Assista…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/08/google-ads-api-developer-assistant-v400.html">Google Ads Developer Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

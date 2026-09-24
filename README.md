@@ -1,5 +1,10 @@
 # Ads Updates Tracker
 
+**Live site:** https://thisnomanbutt.github.io/Ads-Updates-Tracker/ · **RSS:** `/feed.xml`
+
+> Note: some corporate networks (including CureMD's) block `*.github.io`. If the page will not
+> load at the office, publish the same `docs/` folder on Netlify as well and use that URL.
+
 A self-updating page that collects **Google Ads** and **Meta Ads** product news (new features, renamed or
 re-branded features, functionality changes, deprecations, policy changes) and rewrites each item in plain English
 with "what changed / why it matters / what to do".

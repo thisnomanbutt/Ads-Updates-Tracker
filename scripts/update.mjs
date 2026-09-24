@@ -231,12 +231,19 @@ async function fetchArticleText(url) {
     const res = await fetchWithTimeout(url, ARTICLE_TIMEOUT_MS);
     if (!res.ok) return "";
     const html = await res.text();
-    const main =
+    const region =
       html.match(/<article[\s\S]*?<\/article>/i)?.[0] ||
       html.match(/<main[\s\S]*?<\/main>/i)?.[0] ||
       html.match(/<body[\s\S]*?<\/body>/i)?.[0] ||
       html;
-    return stripHtml(main);
+    // Take real paragraphs only. Navigation, share buttons, related-story lists and image
+    // captions are almost never inside <p>, so this drops the page furniture that otherwise
+    // opens every excerpt with "Share on X Copy link".
+    const paragraphs = [...region.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)]
+      .map((m) => stripHtml(m[1]))
+      .filter((t) => t.length > 40);
+    const prose = paragraphs.join("\n\n");
+    return prose.length > 200 ? prose : stripHtml(region);
   } catch {
     return "";
   }
@@ -381,7 +388,7 @@ async function analyze(client, candidate, recentHeadlines) {
 
 // Feed footers that add nothing to a summary.
 const BOILERPLATE =
-  /(continue reading this article[^.]*\.|sign up (for )?the [^.]*newsletter[^.]*\.|the post .{0,120} appeared first on .{0,80}\.|read more( on| at)? [^.]*\.|subscribe to [^.]*\.|share this post[^.]*\.)/gi;
+  /(continue reading this article[^.]*\.|sign up (for )?the [^.]*newsletter[^.]*\.|the post .{0,120} appeared first on .{0,80}\.|read more( on| at)? [^.]*\.|subscribe to [^.]*\.|share this post[^.]*\.|(share on (x|twitter|facebook|linkedin|pinterest|reddit|whatsapp)\s*)+|copy link|email this|\bcomments?\s+share\b)/gi;
 
 // Fallback used when no API key is configured: keyword rules + the article's own text.
 async function analyzeHeuristic(candidate) {

@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-09-24T18:31:05.958Z",
+  "updatedAt": "2026-09-25T00:35:29.345Z",
   "model": null,
-  "count": 28,
+  "count": 29,
   "items": [
+    {
+      "id": "c03fe65747d1ad93",
+      "title": "YouTube creators in 35 markets to earn shopping commissions by year-end",
+      "link": "https://ppc.land/youtube-creators-in-35-markets-to-earn-shopping-commissions-by-year-end/",
+      "published": "2026-09-24T20:53:58.000Z",
+      "fetchedAt": "2026-09-25T00:35:29.345Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "YouTube creators in 35 markets to earn shopping commissions by year-end",
+      "summary": "Brands get a one-click code to boost creator videos, with Creator Partnerships in 20 countries among 30-plus changes. Which of them reach ad buyers before 2027? YouTube intends to run its affiliate scheme for creators in 35 countries before the end of December, more than twice the 15 it had reached by early August,…",
+      "excerpt": "Brands get a one-click code to boost creator videos, with Creator Partnerships in 20 countries among 30-plus changes. Which of them reach ad buyers before 2027? YouTube intends to run its affiliate scheme for creators in 35 countries before the end of December, more than twice the 15 it had reached by early August, according to a creator briefing the company posted on September 23, 2026, the day of its annual Made on YouTube event. YouTube held its yearly product event on September 23, 2026 and posted a long list of new tools for creators, from AI video editing to more ways of making money from products shown in videos. It matters to brands and agencies because several of the changes alter how advertisers find creators, pay them and put ad budgets behind their videos. Most of the features arrive in stages between now and 2027, and what you get depends on the country you are in and the feature in question. The document is a forum post on the YouTube Help Community, signed by JJ of TeamYouTube and marked on the page as written by a Google employee. It describes itself as a creator-specific deep dive into a subset of the more than 30 product changes YouTube presented that day. In its…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "926fc025b163f257",
       "title": "Turn discovery into action with September’s Demand Gen Drop.",

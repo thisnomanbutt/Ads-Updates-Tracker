@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-09-25T06:33:58.543Z",
+  "updatedAt": "2026-09-25T12:33:40.380Z",
   "model": null,
-  "count": 30,
+  "count": 31,
   "items": [
+    {
+      "id": "7ec9ad03798bdc0f",
+      "title": "Google Ads Disables Editing Target ROAS While Promotion Mode Is Active",
+      "link": "https://www.seroundtable.com/google-ads-target-roas-promotion-mode-42150.html",
+      "published": "2026-09-25T11:21:00.000Z",
+      "fetchedAt": "2026-09-25T12:33:40.380Z",
+      "sourceId": "seroundtable",
+      "sourceName": "Search Engine Roundtable",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google Ads Disables Editing Target ROAS While Promotion Mode Is Active",
+      "summary": "Did you know that you cannot edit your Target ROAS while promotion mode is active in Google Ads? Google will display a notification that reads, \"You can't edit your Target ROAS while promotion mode is active\" and then gives you the option to edit the ROAS tolerance instead. This was spotted by Arpan Banerjee who shared…",
+      "excerpt": "Did you know that you cannot edit your Target ROAS while promotion mode is active in Google Ads? Google will display a notification that reads, \"You can't edit your Target ROAS while promotion mode is active\" and then gives you the option to edit the ROAS tolerance instead. This was spotted by Arpan Banerjee who shared this screenshot with me a few days ago. Adrian Dekker also posted about it on LinkedIn : The content at the Search Engine Roundtable are the sole opinion of the authors and in no way reflect views of RustyBrick &reg;, Inc Copyright &copy; 1994-2026 RustyBrick &reg; , Inc. Web Development All Rights Reserved. This work by Search Engine Roundtable is licensed under a Creative Commons Attribution 3.0 United States License. Creative Commons License and YouTube videos under YouTube's ToS .",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "c03fe65747d1ad93",
       "title": "YouTube creators in 35 markets to earn shopping commissions by year-end",

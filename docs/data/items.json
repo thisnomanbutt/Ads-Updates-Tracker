@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-09-26T18:30:36.463Z",
+  "updatedAt": "2026-09-27T05:19:57.034Z",
   "model": null,
-  "count": 33,
+  "count": 34,
   "items": [
+    {
+      "id": "2d4ebf4b912792cd",
+      "title": "Facebook&#x27;s own tests show standard ad measurement often off by 3x, Dhir says",
+      "link": "https://ppc.land/facebooks-own-tests-show-standard-ad-measurement-often-off-by-3x-dhir-says/",
+      "published": "2026-09-26T18:34:52.000Z",
+      "fetchedAt": "2026-09-27T05:19:57.034Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Reporting or measurement",
+      "impact": "Low",
+      "headline": "Facebook&#x27;s own tests show standard ad measurement often off by 3x, Dhir says",
+      "summary": "For ad buyers, 663 experiments put machine-learning estimates of upper-funnel lift at a median 83%, against a randomized 29%. Which lift figures count as proof? Karan Dhir, a marketing measurement product lead at Genentech who previously held senior product roles at Amazon and Walmart, argued in a Substack essay…",
+      "excerpt": "For ad buyers, 663 experiments put machine-learning estimates of upper-funnel lift at a median 83%, against a randomized 29%. Which lift figures count as proof? Karan Dhir, a marketing measurement product lead at Genentech who previously held senior product roles at Amazon and Walmart, argued in a Substack essay published on September 9, 2026 that advertising platforms deliver two incompatible kinds of numbers through the same interface. One kind, he wrote, is causal evidence. The other is operational telemetry, and peer-reviewed research built on Facebook's experimentation infrastructure measured the distance between them years ago. A measurement specialist wrote that the ad results platforms show you mix two very different things: real experiments and statistical guesses. Research run on Facebook's data found that the guessing methods often landed far from the experimental answer, frequently several times too high and sometimes too low. What changes is the question asked of every lift number before it moves a budget: did a genuine experiment produce it, or did a model? The essay carries the title \"Facebook Proved Its Own Ad Measurement Wrong\" and sits on Dhir's personal Substack,…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "a64e65e31c1af04c",
       "title": "Google LSA advertisers face missed-call charges from October 1",

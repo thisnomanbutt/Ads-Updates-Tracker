@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-09-27T05:19:57.034Z",
+  "updatedAt": "2026-09-27T12:04:15.477Z",
   "model": null,
-  "count": 34,
+  "count": 35,
   "items": [
+    {
+      "id": "0eef7c2a773bb6e0",
+      "title": "Google&#x27;s Heiko Hotz pitches 60 billion listings as fuel for shopping agents",
+      "link": "https://ppc.land/googles-heiko-hotz-pitches-60-billion-listings-as-fuel-for-shopping-agents/",
+      "published": "2026-09-27T11:24:23.000Z",
+      "fetchedAt": "2026-09-27T12:04:15.477Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google&#x27;s Heiko Hotz pitches 60 billion listings as fuel for shopping agents",
+      "summary": "Productrise found 95% fewer products in AI Mode than standard search in July, a gap for retailers as the catalogue is offered to AI builders. Which claims hold? Heiko Hotz, who works on AI strategy and transformation at Google, argued in a LinkedIn post published on September 22 or 23, 2026 that the company's Shopping…",
+      "excerpt": "Productrise found 95% fewer products in AI Mode than standard search in July, a gap for retailers as the catalogue is offered to AI builders. Which claims hold? Heiko Hotz, who works on AI strategy and transformation at Google, argued in a LinkedIn post published on September 22 or 23, 2026 that the company's Shopping Graph, which he put at more than 60 billion product listings, makes Google a natural foundation for agentic commerce - the AI assistants that search, compare and buy on a shopper's behalf. A Google employee who advises companies on AI wrote on LinkedIn that Google holds one of the biggest catalogues of things for sale anywhere, more than 60 billion product listings, and that AI shopping assistants need exactly that kind of data to work. It matters to shops and advertisers because an assistant that picks products for you can only choose from what its data knows about, and whether that data is fresh and complete decides who gets picked. Independent studies and earlier PPC Land reporting show large gaps between the size of Google's catalogue and what shoppers actually see or pay, so the post describes Google's reach rather than any single merchant's visibility. LinkedIn…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "2d4ebf4b912792cd",
       "title": "Facebook&#x27;s own tests show standard ad measurement often off by 3x, Dhir says",

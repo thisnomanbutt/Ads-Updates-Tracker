@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-09-28T23:22:21.345Z",
+  "updatedAt": "2026-09-29T05:45:14.473Z",
   "model": null,
-  "count": 43,
+  "count": 44,
   "items": [
+    {
+      "id": "fe1bc7b56ad05bbc",
+      "title": "Google drops unrendered ads from DV360 and CM360 billing in February 2027",
+      "link": "https://ppc.land/google-drops-unrendered-ads-from-dv360-and-cm360-billing-in-february-2027/",
+      "published": "2026-09-29T05:09:51.000Z",
+      "fetchedAt": "2026-09-29T05:45:14.473Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google drops unrendered ads from DV360 and CM360 billing in February 2027",
+      "summary": "Advertisers heard of the same switch for September 2025; AdSense publishers move February 17, 2027. Google puts no figure on the fall - what will invoices show? Google will change the rule that decides which display impressions advertisers are billed for in Campaign Manager 360 and Display & Video 360 in February 2027,…",
+      "excerpt": "Advertisers heard of the same switch for September 2025; AdSense publishers move February 17, 2027. Google puts no figure on the fall - what will invoices show? Google will change the rule that decides which display impressions advertisers are billed for in Campaign Manager 360 and Display & Video 360 in February 2027, replacing an \"on-download\" trigger with \"begin to render,\" according to the Display & Video 360 Help Center page listing the platform's upcoming changes, last updated on August 21, 2026. Google is changing the moment at which a display ad bought or served through its advertiser tools becomes something an advertiser pays for: from February 2027, the ad's files have to finish arriving in the browser, rather than the ad's code merely starting to run. That touches every advertiser buying display through Display & Video 360 or serving it through Campaign Manager 360, and Google expects the number of billed impressions to fall slightly. Google described a nearly identical switch for September 2025, and the new notice does not say what became of that earlier timetable. No settings need changing, according to Google, but invoices and reports from February 2027 onwards will…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "cdc4106a377abcf5",
       "title": "Meta Ads for Local Businesses",

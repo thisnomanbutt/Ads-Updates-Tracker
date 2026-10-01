@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:42:14 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Turn your existing social assets into high-impact YouTube ads.</title>
+      <link>https://blog.google/products/ads-commerce/creating-assets-youtube-ads/</link>
+      <guid isPermaLink="false">c1f46bfdd01fc5f0</guid>
+      <pubDate>Thu, 01 Oct 2026 20:30:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>We're tackling Demand Gen campaigns and the make-or-break role of creative. And if producing high-impact assets for YouTube feels overwhelming — or if you're not sure how to test them — this episode of Ads Decoded is for you. Ads Product Liaison Ginny Marvin sits down with Alejandro Osio, a Product Manager for Demand…</p><p>Source: <a href="https://blog.google/products/ads-commerce/creating-assets-youtube-ads/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Local Service Ads Bug Serving Wrong Locations</title>
       <link>https://www.seroundtable.com/google-local-service-ads-bug-42208.html</link>
@@ -397,14 +405,6 @@
       <pubDate>Thu, 27 Aug 2026 23:21:44 GMT</pubDate>
       <category>API or developer</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we’re announcing three unversioned changes to the Display &amp; Video 360 API and Structured Data Files that will take effect in October 2026 and may impact your existing integrations. These changes will take place on the following dates and have been fully detailed on our Announced Deprecations page: Starting…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Reach your audience in new ways with August’s Demand Gen Drop.</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/</link>
-      <guid isPermaLink="false">85e97ca397b82ead</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>In the second half of 2025, we introduced hundreds of improvements to Demand Gen campaigns that, on average, are driving a 30% increase in conversions or conversion value for advertisers. 1 We’re now unveiling new tools to help advertisers drive high-quality leads and acquire customers on YouTube and beyond. Ready to…</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

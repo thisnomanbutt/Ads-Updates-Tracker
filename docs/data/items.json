@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-01T13:17:00.791Z",
+  "updatedAt": "2026-10-01T22:42:14.499Z",
   "model": null,
-  "count": 51,
+  "count": 52,
   "items": [
+    {
+      "id": "c1f46bfdd01fc5f0",
+      "title": "Turn your existing social assets into high-impact YouTube ads.",
+      "link": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+      "published": "2026-10-01T20:30:00.000Z",
+      "fetchedAt": "2026-10-01T22:42:14.499Z",
+      "sourceId": "google-ads-commerce-blog",
+      "sourceName": "Google Ads & Commerce Blog",
+      "sourceType": "official",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Medium",
+      "headline": "Turn your existing social assets into high-impact YouTube ads.",
+      "summary": "We're tackling Demand Gen campaigns and the make-or-break role of creative. And if producing high-impact assets for YouTube feels overwhelming — or if you're not sure how to test them — this episode of Ads Decoded is for you. Ads Product Liaison Ginny Marvin sits down with Alejandro Osio, a Product Manager for Demand…",
+      "excerpt": "We're tackling Demand Gen campaigns and the make-or-break role of creative. And if producing high-impact assets for YouTube feels overwhelming — or if you're not sure how to test them — this episode of Ads Decoded is for you. Ads Product Liaison Ginny Marvin sits down with Alejandro Osio, a Product Manager for Demand Gen and YouTube performance ads to bust a few myths about asset testing and fatigue, and share new tools that can simplify the creative process.",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "a54e3504d84067ef",
       "title": "Google Local Service Ads Bug Serving Wrong Locations",

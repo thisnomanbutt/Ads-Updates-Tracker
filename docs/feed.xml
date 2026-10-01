@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:55:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:17:01 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Local Service Ads Bug Serving Wrong Locations</title>
+      <link>https://www.seroundtable.com/google-local-service-ads-bug-42208.html</link>
+      <guid isPermaLink="false">a54e3504d84067ef</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>There seems to be a bug with Google Local Service Ads showing ads from advertisers who are not targeting specific locations. With Local Service Ads, an advertiser can say they serve a specific city or location, but Google seems to be showing ads from advertisers who do not serve in those locations. Len Raleigh first…</p><p>Source: <a href="https://www.seroundtable.com/google-local-service-ads-bug-42208.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads: Have At Least One Asset Group To Avoid Invalid Final URL Error</title>
+      <link>https://www.seroundtable.com/google-ads-asset-groupinvalid-final-url-42204.html</link>
+      <guid isPermaLink="false">1bbe09c4e13b25fc</guid>
+      <pubDate>Thu, 01 Oct 2026 11:05:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads updated its destination not working policy document to &quot;provide additional examples for destination issues for advertisers,&quot; the company said . But Google also added a new line that says &quot;Make sure your campaign has at least one asset group configured. If an asset group is missing, you may receive an…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-asset-groupinvalid-final-url-42204.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta Names Dhruv Vohra to Lead Southeast Asia Business</title>
       <link>https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/</link>
@@ -389,14 +405,6 @@
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>In the second half of 2025, we introduced hundreds of improvements to Demand Gen campaigns that, on average, are driving a 30% increase in conversions or conversion value for advertisers. 1 We’re now unveiling new tools to help advertisers drive high-quality leads and acquire customers on YouTube and beyond. Ready to…</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads API Developer Assistant v4.0.0</title>
-      <link>http://ads-developers.googleblog.com/2026/08/google-ads-api-developer-assistant-v400.html</link>
-      <guid isPermaLink="false">092848271359f76c</guid>
-      <pubDate>Tue, 25 Aug 2026 19:21:15 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>A major release of the Google Ads API Developer Assistant is now available. This release transitions the assistant from a standalone project setup to a unified plugin architecture designed to bring specialized Google Ads API capabilities directly into AI agent workflows. What is it? The Google Ads API Developer…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/08/google-ads-api-developer-assistant-v400.html">Google Ads Developer Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

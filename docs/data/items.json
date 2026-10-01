@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-09-30T22:17:14.563Z",
+  "updatedAt": "2026-10-01T05:55:50.642Z",
   "model": null,
-  "count": 48,
+  "count": 49,
   "items": [
+    {
+      "id": "932286402e02d0f2",
+      "title": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
+      "link": "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
+      "published": "2026-09-30T23:15:43.000Z",
+      "fetchedAt": "2026-10-01T05:55:50.642Z",
+      "sourceId": "meta-newsroom",
+      "sourceName": "Meta Newsroom",
+      "sourceType": "official",
+      "platform": "Meta Ads",
+      "category": "Feature update",
+      "impact": "Medium",
+      "headline": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
+      "summary": "Today we’re announcing that Dhruv Vohra is stepping into the role of Managing Director, Global Business Group, Southeast Asia. Dhruv will lead Meta’s commercial strategy across Indonesia, Malaysia, the Philippines, Singapore, Thailand and Vietnam, reporting to Benjamin Joe, Vice President for Asia Pacific. He will lead…",
+      "excerpt": "Today we’re announcing that Dhruv Vohra is stepping into the role of Managing Director, Global Business Group, Southeast Asia. Dhruv will lead Meta’s commercial strategy across Indonesia, Malaysia, the Philippines, Singapore, Thailand and Vietnam, reporting to Benjamin Joe, Vice President for Asia Pacific. He will lead the teams that partner with the region’s advertisers and agencies, helping businesses of every size innovate with AI and accelerate growth through Meta’s family of apps. He will also work to deepen Meta’s partnerships across the region. “Southeast Asia is one of Meta’s fastest-growing business regions, and the work ahead is helping businesses leverage AI and messaging at the pace their customers already expect,” said Benjamin Joe. “Dhruv has spent seven years close to those businesses, and he has built the teams that support millions of them. He is the right person for this next phase.” About Dhruv: Dhruv brings seven years at Meta and deep experience across e-commerce, digital business, and commercial leadership in Asia Pacific. He joined Meta in 2019 as Director for e-commerce and digital natives, working with the platforms that reshaped how the region shops. He…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "842bcd8c6f02cf94",
       "title": "Meta loses Nigerian privacy suit over behavioural ads, must pay $100,000",

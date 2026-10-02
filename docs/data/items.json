@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-02T12:36:37.636Z",
+  "updatedAt": "2026-10-02T22:15:05.439Z",
   "model": null,
-  "count": 55,
+  "count": 56,
   "items": [
+    {
+      "id": "559c8fd41846d217",
+      "title": "Google loses bid to end $1.5bn Gannett and Daily Mail ad tech suits",
+      "link": "https://ppc.land/google-loses-bid-to-end-1-5bn-gannett-and-daily-mail-ad-tech-suits/",
+      "published": "2026-10-02T18:51:33.000Z",
+      "fetchedAt": "2026-10-02T22:15:05.439Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google loses bid to end $1.5bn Gannett and Daily Mail ad tech suits",
+      "summary": "Publishers in the AdX class keep a $1.72bn overcharge claim, while Inform&#x27;s $479m video case falls. Project Bernanke and EDA evidence now heads toward a jury. Judge P. Kevin Castel of the Southern District of New York on September 30, 2026 denied most of Google's motion for summary judgment against Gannett and the…",
+      "excerpt": "Publishers in the AdX class keep a $1.72bn overcharge claim, while Inform&#x27;s $479m video case falls. Project Bernanke and EDA evidence now heads toward a jury. Judge P. Kevin Castel of the Southern District of New York on September 30, 2026 denied most of Google's motion for summary judgment against Gannett and the publishers of the Daily Mail, leaving claims about Project Bernanke, Enhanced Dynamic Allocation and Project Poirot for a jury to weigh, while dismissing both publishers' New York consumer protection claims and every federal antitrust claim brought by the defunct video company Inform. The 88-page opinion, Document 2041 in the multidistrict litigation 21-md-3010, rules on summary judgment motions and expert-exclusion motions, known as Daubert motions, in four coordinated cases. Ali Hortacsu, a University of Chicago economist retained by the two publishers, calculated damages of $599,955,198 for the Daily Mail and $900,771,489 for Gannett, plus interest. Einer Elhauge, the economist for a certified class of publishers that sold through Google's AdX exchange, puts class-wide damages at $1.72 billion through March 31, 2024. Google asked the court to set aside all of that…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "b8f1e0c12ab2aabe",
       "title": "Google Ads Sponsored Products Results Missing Images",

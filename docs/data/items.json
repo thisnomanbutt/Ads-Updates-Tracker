@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-04T05:54:39.520Z",
+  "updatedAt": "2026-10-04T12:23:07.579Z",
   "model": null,
-  "count": 56,
+  "count": 57,
   "items": [
+    {
+      "id": "9c755e7a9a0f209e",
+      "title": "Low-quality content never dented Meta&#x27;s ad numbers, Horwitz tells BBC",
+      "link": "https://ppc.land/low-quality-content-never-dented-metas-ad-numbers-horwitz-tells-bbc/",
+      "published": "2026-10-04T07:26:41.000Z",
+      "fetchedAt": "2026-10-04T12:23:07.579Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Low-quality content never dented Meta&#x27;s ad numbers, Horwitz tells BBC",
+      "summary": "Meta users distrusted the firm yet kept logging in, per an internal memo cited by the reporter behind The Social Reckoning. Can teen caps and AI bets move that? Jeff Horwitz, the Reuters technology reporter whose 2021 Wall Street Journal investigation into Facebook inspired the film The Social Reckoning, told the BBC's…",
+      "excerpt": "Meta users distrusted the firm yet kept logging in, per an internal memo cited by the reporter behind The Social Reckoning. Can teen caps and AI bets move that? Jeff Horwitz, the Reuters technology reporter whose 2021 Wall Street Journal investigation into Facebook inspired the film The Social Reckoning, told the BBC's The Global Story on September 30, 2026 that a decade of misinformation, teen-safety scandals and cheap AI video has not cost Meta its users or its advertising business - and that the company, when forced to choose, has consistently picked growth. A reporter whose stories about Facebook inspired a new Hollywood film told the BBC that Meta keeps choosing growth over making its apps healthier, and that people keep using those apps even when they think badly of the company. That matters to anyone who buys ads on Facebook or Instagram, because it helps explain why Meta's ad sales kept rising through scandals, lawsuits and a teen-safety settlement worth up to about $17 billion. What changes next is mostly about teenagers and AI: Meta must now cap teen use at two hours a day, but only where it can tell who is a teen, and it is pouring money into AI products such as its new…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "559c8fd41846d217",
       "title": "Google loses bid to end $1.5bn Gannett and Daily Mail ad tech suits",

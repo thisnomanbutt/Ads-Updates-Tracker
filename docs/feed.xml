@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:23:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:26:37 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Meta&amp;#x27;s Muse can skip ads yet still shape Instagram ads, MBI argues</title>
+      <link>https://ppc.land/metas-muse-can-skip-ads-yet-still-shape-instagram-ads-mbi-argues/</link>
+      <guid isPermaLink="false">2e02db4d95253285</guid>
+      <pubDate>Sun, 04 Oct 2026 20:01:27 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>DoorDash&amp;#x27;s text-ordering agent reportedly serves 20,000 US iOS users while Amazon blocks Muse. Can merchant fees alone fund Meta&amp;#x27;s shopping agent for years? MBI Deep Dives, a subscription newsletter on business and technology, published an analysis on October 1, 2026 contending that Meta's Muse personal agent…</p><p>Source: <a href="https://ppc.land/metas-muse-can-skip-ads-yet-still-shape-instagram-ads-mbi-argues/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Both] Half of Kroger&amp;#x27;s Meta and DV360 spend went to low-converting ads, study finds</title>
+      <link>https://ppc.land/half-of-krogers-meta-and-dv360-spend-went-to-low-converting-ads-study-finds/</link>
+      <guid isPermaLink="false">cbccea54536922e3</guid>
+      <pubDate>Sun, 04 Oct 2026 19:07:02 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Both</strong> · Feature update · Impact: Low</p><p>Vidmob&amp;#x27;s model sorted 1,934 Kroger ads into high and low converters with 81% accuracy on unseen data. Will the gap hold in Kroger&amp;#x27;s planned in-market test? Kroger, Vidmob and MMA Global on September 30, 2026 published research covering 1,934 of the grocer's video and image ads, concluding that a model trained…</p><p>Source: <a href="https://ppc.land/half-of-krogers-meta-and-dv360-spend-went-to-low-converting-ads-study-finds/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google PM calls $100 a day the floor for a Demand Gen campaign</title>
+      <link>https://ppc.land/google-pm-calls-100-a-day-the-floor-for-a-demand-gen-campaign/</link>
+      <guid isPermaLink="false">1e5c540536cdcc65</guid>
+      <pubDate>Sun, 04 Oct 2026 16:34:27 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>YouTube advertisers face a level 20 times the $5 minimum Google&amp;#x27;s API enforces. And with no refresh schedule for tired assets, what marks an asset as spent? Google on October 1, 2026 published an episode of its Ads Decoded series in which Alejandro Osio, a product manager for Demand Gen and YouTube performance…</p><p>Source: <a href="https://ppc.land/google-pm-calls-100-a-day-the-floor-for-a-demand-gen-campaign/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Low-quality content never dented Meta&amp;#x27;s ad numbers, Horwitz tells BBC</title>
       <link>https://ppc.land/low-quality-content-never-dented-metas-ad-numbers-horwitz-tells-bbc/</link>
@@ -381,30 +405,6 @@
       <pubDate>Thu, 10 Sep 2026 13:00:00 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>We’re giving you new ways to improve your measurement stack for the AI era. Learn how to strengthen your data foundation and use new Meridian improvements to grow your business. VP, Ads Analytics, Insights, and Measurement Your browser does not support the audio element. Google is launching new measurement tools to…</p><p>Source: <a href="https://blog.google/products/ads-commerce/data-strength-updates/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] How to Approach Meta Advertising Control</title>
-      <link>https://www.jonloomer.com/meta-advertising-control/</link>
-      <guid isPermaLink="false">5f74c7bde27ac440</guid>
-      <pubDate>Tue, 08 Sep 2026 20:49:09 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>As Meta advertising continues to evolve, a segment of advertisers gets left behind. They’re stuck in the old ways of doing things, determined to control things that no longer need to be controlled. But they have every right to be confused. I’m not saying that you should use the broadest targeting with Advantage+…</p><p>Source: <a href="https://www.jonloomer.com/meta-advertising-control/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Turn Off New Creative Workflow (Multimedia Experience)</title>
-      <link>https://www.jonloomer.com/qvt/turn-off-new-creative-workflow-multimedia-experience/</link>
-      <guid isPermaLink="false">217b7bd25da58b7c</guid>
-      <pubDate>Mon, 07 Sep 2026 13:30:50 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>You can turn off the new creative workflow… Meta started rolling out the new creative workflow in April. Also known as Multimedia Experience, it allows advertisers to provide up to 10 images and videos for a single ad. While I use and have generally been happy with the Multimedia Experience, I know I’m in the minority.…</p><p>Source: <a href="https://www.jonloomer.com/qvt/turn-off-new-creative-workflow-multimedia-experience/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads API v22 sunset reminder</title>
-      <link>http://ads-developers.googleblog.com/2026/09/google-ads-api-v22-sunset-reminder.html</link>
-      <guid isPermaLink="false">47d4171f2587aa33</guid>
-      <pubDate>Wed, 02 Sep 2026 17:51:20 GMT</pubDate>
-      <category>Deprecation or removal</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Deprecation or removal · Impact: Medium</p><p>Google Ads API v22 will sunset on October 7, 2026. Starting on this date, all v22 API requests will begin to fail. Migrate to a newer version prior to October 7, 2026 to ensure your API access is unaffected. Here are some resources to help you with the migration: Upgrade to the newest version Release notes To view a…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/09/google-ads-api-v22-sunset-reminder.html">Google Ads Developer Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

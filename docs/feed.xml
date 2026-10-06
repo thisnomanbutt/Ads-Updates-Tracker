@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:22:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:23:06 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Updated Google Maps Policy: What Merchants Can't Post In Listings Or Posts</title>
+      <link>https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html</link>
+      <guid isPermaLink="false">c4ff2687a4ecabd6</guid>
+      <pubDate>Tue, 06 Oct 2026 11:51:00 GMT</pubDate>
+      <category>Policy or compliance</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google has updated the Google Maps and Business Profiles Prohibited &amp; restricted content policy's advertising and solicitation section to list what merchants and business owners cannot post on their listings and posts. Google updated the advertising and solicitation section to expand what is included in what is…</p><p>Source: <a href="https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Call Extensions Includes Advertiser Name</title>
+      <link>https://www.seroundtable.com/google-ads-call-extensions-advertiser-name-42231.html</link>
+      <guid isPermaLink="false">e0575bb1d8ba0a8b</guid>
+      <pubDate>Tue, 06 Oct 2026 11:31:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is testing displaying the advertiser's name within the click to call phone number call asset on the sponsored listings. Normally, Google will just show the phone number but in this test, Google is also adding the advertiser's name. This test was spotted by Khushal Bherwani who posted a screenshot of this on…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-call-extensions-advertiser-name-42231.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta Sequenced Events: Optimize for Qualified Website Leads</title>
+      <link>https://www.jonloomer.com/meta-sequenced-events/</link>
+      <guid isPermaLink="false">1de4980f6cd2ee5d</guid>
+      <pubDate>Tue, 06 Oct 2026 11:30:28 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Back in August, I wrote about a test feature called Sequenced Events that allows you to optimize for a higher-value action that follows an initial event. Now that I have it, I’m seeing how powerful this option might be. It also doesn’t quite work the way I assumed it did. And that’s actually a good thing.…</p><p>Source: <a href="https://www.jonloomer.com/meta-sequenced-events/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads will auto-apply website coupons to some campaigns from October 12</title>
+      <link>https://ppc.land/google-ads-will-auto-apply-website-coupons-to-some-campaigns-from-october-12/</link>
+      <guid isPermaLink="false">dfc3c041371e1613</guid>
+      <pubDate>Tue, 06 Oct 2026 07:07:16 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Search and Performance Max campaigns with location assets are enrolled by default, with sourced offers re-checked within 24 hours. Who reviews what goes live? Google Ads will begin pulling discount offers from advertiser sites and attaching them to campaigns on October 12, 2026, according to an email notice that Search…</p><p>Source: <a href="https://ppc.land/google-ads-will-auto-apply-website-coupons-to-some-campaigns-from-october-12/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Advertiser says Google&amp;#x27;s August 17 change cut Shopping sales at 300% tROAS</title>
       <link>https://ppc.land/advertiser-says-googles-august-17-change-cut-shopping-sales-at-300-troas/</link>
@@ -373,38 +405,6 @@
       <pubDate>Sun, 20 Sep 2026 15:22:01 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Most traffic screening runs after an ad serves, letting bots reach lead forms. Google wants server-side email validation. Does a billing credit cover the rest? Google has published a Google Ads Help Centre page stating that its invalid traffic filters do not, by themselves, stop bogus submissions from reaching…</p><p>Source: <a href="https://ppc.land/google-ads-filters-miss-fake-leads-so-advertisers-must-add-3-form-checks/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google drops free shopping listings across Europe in two days</title>
-      <link>https://ppc.land/google-drops-free-shopping-listings-across-europe-in-two-days/</link>
-      <guid isPermaLink="false">325333fe58bb5869</guid>
-      <pubDate>Sat, 19 Sep 2026 07:37:01 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google dropped free shopping listings across the EEA under the DMA, Ezoic cut 25% of its display impressions, and Infillion acquired Foursquare&amp;#x27;s location data. Advertising businesses tend to grow by addition. More impressions, more surfaces, more data, more units on the page. The two days covered here ran the…</p><p>Source: <a href="https://ppc.land/google-drops-free-shopping-listings-across-europe-in-two-days/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Build campaigns that drive high-converting, sales-ready leads.</title>
-      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/</link>
-      <guid isPermaLink="false">f83fc48a3bb3bafc</guid>
-      <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Tracking the ROI on your lead gen campaigns has never been tougher. Sales cycles are longer, and unless customers fill out a contact form, it’s hard to tell what’s driving your conversions. In this episode of Ads Decoded, recorded live at Rethink ROI in New York City, Senior Product Manager Stephen Chang, Product…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Rethink your strategy to drive sales this holiday season.</title>
-      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/</link>
-      <guid isPermaLink="false">d8eb794307cf9658</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Fresh off Google’s Rethink Retail event in New York City, Ads Product Liaison Ginny Marvin sits down with Enric Durany, Group Product Manager for retail ad experiences for the Ads Decoded podcast. Together, they break down the actionable strategies and high-impact optimizations merchants can implement now to drive…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Boost your holiday sales with these agentic commerce updates</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/</link>
-      <guid isPermaLink="false">dd00b8482f903b02</guid>
-      <pubDate>Wed, 16 Sep 2026 14:00:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>The latest agentic commerce updates are designed to help businesses capture holiday shoppers&amp;#x27; attention in a new era. Your browser does not support the audio element. You can now use new artificial intelligence tools to boost your holiday sales. Check your performance insights in Merchant Center, join the Business…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

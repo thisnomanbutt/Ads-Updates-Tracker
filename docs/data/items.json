@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-05T14:41:33.027Z",
+  "updatedAt": "2026-10-06T00:04:05.728Z",
   "model": null,
-  "count": 64,
+  "count": 65,
   "items": [
+    {
+      "id": "33237dbdb1fd58dd",
+      "title": "Advertiser says Google&#x27;s August 17 change cut Shopping sales at 300% tROAS",
+      "link": "https://ppc.land/advertiser-says-googles-august-17-change-cut-shopping-sales-at-300-troas/",
+      "published": "2026-10-05T19:40:33.000Z",
+      "fetchedAt": "2026-10-06T00:04:05.728Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Advertiser says Google&#x27;s August 17 change cut Shopping sales at 300% tROAS",
+      "summary": "Budget-capped campaigns once returning 3,000-4,000% now bid toward their targets, Reddit replies suggest. Can extra budget or a higher target restore volume? A Google Ads advertiser told the r/PPC community that Shopping sales fell and competitors climbed above their listings after August 17, the date Google began…",
+      "excerpt": "Budget-capped campaigns once returning 3,000-4,000% now bid toward their targets, Reddit replies suggest. Can extra budget or a higher target restore volume? A Google Ads advertiser told the r/PPC community that Shopping sales fell and competitors climbed above their listings after August 17, the date Google began steering budget-limited Target ROAS campaigns toward their stated goals, and a thread shown as one day old on October 5, 2026 has drawn dozens of replies arguing over whether the old results can be rebuilt. A Google Ads advertiser told other marketers on Reddit that online store sales dropped after Google changed, on August 17, how some campaigns with capped daily budgets place bids. The change affects advertisers who set a return target and regularly run out of daily budget, and replies in the thread suggest that a very low target no longer lets such a campaign earn many times more than it promised. In practice, a campaign that promised about 3 units of sales per unit spent and used to deliver 30 to 40 is now steered toward delivering closer to 3, which commenters say can mean pricier clicks and a smaller return. The post, titled \"August 17 DESTROYED our Google Shopping…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "73f93116c0742249",
       "title": "Should You Optimize for a Custom Conversion?",

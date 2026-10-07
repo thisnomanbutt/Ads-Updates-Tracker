@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:25:41 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Measures We’ve Put in Place to Fight Child Exploitation</title>
+      <link>https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/</link>
+      <guid isPermaLink="false">512c0bacd784a0b7</guid>
+      <pubDate>Wed, 07 Oct 2026 13:03:19 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Medium</p><p>Keeping young people safe on our apps is among the most important work we do, and it never stops. Sophisticated bad actors who try to exploit children online don’t stay in one place. These determined predators move across different platforms, and change their tactics to evade detection. Staying ahead requires constant…</p><p>Source: <a href="https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/">Meta Newsroom</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Updated Billing Menu With More Links</title>
+      <link>https://www.seroundtable.com/google-ads-updated-billing-menu-42242.html</link>
+      <guid isPermaLink="false">cd4a8c64e9e3f168</guid>
+      <pubDate>Wed, 07 Oct 2026 11:31:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is testing a new billing menu bar or tab that adds more options and links to the billing section. It looks like Google added double the amount of links in the menu. This was spotted by Govind Singh Panwar who wrote on X , &quot;Spotted a new Billing layout in some accounts. Billing Reports, Transactions, Payment…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-updated-billing-menu-42242.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Merchant Center New UCP Integration Hub</title>
+      <link>https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html</link>
+      <guid isPermaLink="false">15beba066de552e7</guid>
+      <pubDate>Wed, 07 Oct 2026 11:21:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account. The hub says &quot;Start selling across AI surfaces by implementing Universal Commerce Protocol.&quot; &quot;The Universal Commerce Protocol (UP) is an…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta introduces new AI-powered tools at Advertising Week</title>
+      <link>https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832288/</link>
+      <guid isPermaLink="false">0b1b63e80f2d4328</guid>
+      <pubDate>Tue, 06 Oct 2026 18:37:34 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>The company is testing importing and creative insight features, as well as improved conversational guidance for its artificial intelligence elements. Meta announced a range of ad updates at its Advertising Week presentation in New York today , including an improved business assistant, an expansion of its creative tools…</p><p>Source: <a href="https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832288/">Social Media Today</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Updated Google Maps Policy: What Merchants Can't Post In Listings Or Posts</title>
       <link>https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html</link>
@@ -373,38 +405,6 @@
       <pubDate>Wed, 23 Sep 2026 23:12:17 GMT</pubDate>
       <category>API or developer</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we are announcing the release of v25.2 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in our Google Ads API Release Highlights…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/09/announcing-v252-of-google-ads-api.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Test Google Ads AI Max Against Dynamic Search Ads</title>
-      <link>https://www.seroundtable.com/google-ads-ai-max-vs-dynamic-search-ads-42142.html</link>
-      <guid isPermaLink="false">f29c595b5bd0b39f</guid>
-      <pubDate>Wed, 23 Sep 2026 11:51:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads added new help documentation on how to test AI Max against Dynamic Search Ads (DSAs) by using experiments. Google posted two options within Google Ads experiments including (1) custom experiments and (2) the experiment template. Google added this to the second section of the about Dynamic Search Ads help…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-max-vs-dynamic-search-ads-42142.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta drops 250-ad Page cap in some accounts as 286 ads keep running</title>
-      <link>https://ppc.land/meta-drops-250-ad-page-cap-in-some-accounts-as-286-ads-keep-running/</link>
-      <guid isPermaLink="false">ac6649d4803768af</guid>
-      <pubDate>Wed, 23 Sep 2026 10:32:04 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Four spend tiers in force since 2021 held Pages to at most 20,000 live ads. One account 36 over its limit still publishes new ones. Will Meta confirm a rollout? Some Meta advertisers are seeing a new message in Ads Manager stating that the number of ads a Page can run is no longer limited, according to a LinkedIn post…</p><p>Source: <a href="https://ppc.land/meta-drops-250-ad-page-cap-in-some-accounts-as-286-ads-keep-running/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.</title>
-      <link>https://blog.google/products/ads-commerce/ai-max-language-reporting-features/</link>
-      <guid isPermaLink="false">007ebac07c4c0871</guid>
-      <pubDate>Wed, 23 Sep 2026 08:30:00 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Medium</p><p>We’re rolling out new AI Max features that provide advertisers with greater control and new reporting to understand performance. First, we’re bringing the closed beta of AI Brief to more languages: Dutch, French, German, Italian, Japanese, Portuguese, and Spanish. AI Brief lets you guide AI Max in your own words with…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ai-max-language-reporting-features/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads filters miss fake leads, so advertisers must add 3 form checks</title>
-      <link>https://ppc.land/google-ads-filters-miss-fake-leads-so-advertisers-must-add-3-form-checks/</link>
-      <guid isPermaLink="false">1e1b0450a54cffbc</guid>
-      <pubDate>Sun, 20 Sep 2026 15:22:01 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Most traffic screening runs after an ad serves, letting bots reach lead forms. Google wants server-side email validation. Does a billing credit cover the rest? Google has published a Google Ads Help Centre page stating that its invalid traffic filters do not, by themselves, stop bogus submissions from reaching…</p><p>Source: <a href="https://ppc.land/google-ads-filters-miss-fake-leads-so-advertisers-must-add-3-form-checks/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

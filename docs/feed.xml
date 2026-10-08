@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:31:13 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Merchant Center May Disapprove Products That Change Frequently</title>
+      <link>https://www.seroundtable.com/google-merchant-center-disapprove-products-chnage-fast-42251.html</link>
+      <guid isPermaLink="false">699d8467b3b7c276</guid>
+      <pubDate>Thu, 08 Oct 2026 11:31:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google updated its help document in Merchant Center to say that if a product changes more than once per day, it may be &quot;disapproved instead of updated if we detect a mismatch.&quot; Google wrote in the updated document (I think it was updated several days ago): Automations may not work for products with frequent price or…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-disapprove-products-chnage-fast-42251.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads AI Max Columns: Brand Inclusion, Commission, Locations Of Interest &amp; Optimized Targeting</title>
+      <link>https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html</link>
+      <guid isPermaLink="false">60a5037372683dc5</guid>
+      <pubDate>Thu, 08 Oct 2026 11:21:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting. This was spotted by Vivek Gupta who wrote on LinkedIn , &quot;Google Ads has added some new AI Max related columns.&quot; Here is the screenshot…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Self-Services Conversion Lift Measurement</title>
+      <link>https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html</link>
+      <guid isPermaLink="false">0b8fa75af921f6ee</guid>
+      <pubDate>Thu, 08 Oct 2026 11:11:00 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads now lets advertisers set up Conversion Lift measurement themselves. Google updated its help documentation to say that you no longer need a Google Ads representative to set up Conversion Lift measurement; you just need at least 1,000 observed conversions and a $5,000 budget. Hana Kobzová spotted this change…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Ads Uploader: 17.5% of 36,289 Meta ad batches came from AI agents</title>
       <link>https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/</link>
@@ -381,30 +405,6 @@
       <pubDate>Thu, 24 Sep 2026 20:36:26 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has shared its latest Demand Gen ads updates , including artificial intelligence-powered assistance for product discovery on YouTube, new one-click ads on YouTube Shorts and Gmail and promoted location pins on Google Maps. First, YouTube is rolling out new AI-powered assistance alongside product feeds in-stream,…</p><p>Source: <a href="https://www.socialmediatoday.com/news/google-provides-more-demand-gen-ad-features/831330/">Social Media Today</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Turn discovery into action with September’s Demand Gen Drop.</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/</link>
-      <guid isPermaLink="false">926fc025b163f257</guid>
-      <pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Demand Gen helps you capture deep attention across YouTube and Google’s most visual channels. We’re introducing more seamless experiences and integrations to help you engage and convert audiences faster during the holiday season. Visit our new Demand Gen Drops Hub for more product updates.</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Budget Recommendation Change With Forecast</title>
-      <link>https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html</link>
-      <guid isPermaLink="false">71e352a5bb64217f</guid>
-      <pubDate>Thu, 24 Sep 2026 11:31:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is showing some advertisers not just a recommendation with the ability to make a change on that recommendation but it is tied to the advertiser's forecast. It shows your projected weekly conversion value and adds that your campaign is limited by budget, and that you should spend more to hit the forecast.…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Investment Strategy New Holistic &amp; Growth Modes</title>
-      <link>https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html</link>
-      <guid isPermaLink="false">14be4430d0326af3</guid>
-      <pubDate>Thu, 24 Sep 2026 11:05:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads updated its Recommended Investment Strategy tab on the Recommendations page with Strategic budget allocation using Holistic and Growth modes. Holistic mode reallocates spend from underperforming campaigns to top performers for maximum efficiency, while Growth mode adds fresh budget to top performers without…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

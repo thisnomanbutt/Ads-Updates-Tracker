@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-11T21:58:55.062Z",
+  "updatedAt": "2026-10-12T05:59:45.717Z",
   "model": null,
-  "count": 98,
+  "count": 99,
   "items": [
+    {
+      "id": "86697a3595ffafcd",
+      "title": "Meta&#x27;s Muse agent puts well-known merchants first as it gains ad accounts",
+      "link": "https://ppc.land/metas-muse-agent-puts-well-known-merchants-first-as-it-gains-ad-accounts/",
+      "published": "2026-10-12T05:35:33.000Z",
+      "fetchedAt": "2026-10-12T05:59:45.717Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Meta&#x27;s Muse agent puts well-known merchants first as it gains ad accounts",
+      "summary": "Meta&#x27;s Muse shopping agent must rank well-known merchants first and now reaches ad accounts, as agents, verifiers and footnotes shape the day&#x27;s marketing news. Somewhere inside Meta's new shopping assistant sits a file of instructions, and one word in it says a great deal about where commerce is heading.…",
+      "excerpt": "Meta&#x27;s Muse shopping agent must rank well-known merchants first and now reaches ad accounts, as agents, verifiers and footnotes shape the day&#x27;s marketing news. Somewhere inside Meta's new shopping assistant sits a file of instructions, and one word in it says a great deal about where commerce is heading. Ranking well-known merchants first in the top five picks is \"imperative,\" in the text Profound says it extracted on September 25. The assistant is to search at most three stores on the open web, return no more than ten products, discard listings priced far outside a category's normal range and offer in-chat checkout only for items in Meta's own catalog flagged for \"agentic checkout.\" When a shopper names a brand, that brand's own store goes first, and direct sellers are favoured over resellers. PPC Land reported the instruction set on October 11 , drawing on an October 8 analysis of Profound's work. The numbers that came with it are stark. In a 50-prompt test run from a single account, a typical query pulled about 60 products from 30 merchants out of Meta's catalog, while the agent's browser visited three sites and found four products at two merchants. The final six picks…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "4a0094ef29a5b27c",
       "title": "Meta&#x27;s shopping agent must fill its top 5 picks with well-known merchants",

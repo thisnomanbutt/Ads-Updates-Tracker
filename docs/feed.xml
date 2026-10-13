@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 00:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:13:15 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Meta Adds Automatic Customer Exclusions</title>
+      <link>https://www.jonloomer.com/meta-automatic-customer-exclusions/</link>
+      <guid isPermaLink="false">aac67c62c5895179</guid>
+      <pubDate>Tue, 13 Oct 2026 11:30:25 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>Meta is making a change to Customer Lifecycle Strategy that has the potential to make the feature infinitely more useful. While I do think it could use some additional tweaks, it’s a great step in the right direction. If you’re not familiar with Customer Lifecycle Strategy, it’s the new dropdown menu at the top of ad…</p><p>Source: <a href="https://www.jonloomer.com/meta-automatic-customer-exclusions/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Merchant Center Videos Stuck In Preview Processing</title>
+      <link>https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html</link>
+      <guid isPermaLink="false">950b1f9a64b99839</guid>
+      <pubDate>Tue, 13 Oct 2026 11:21:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>There are reports of an error in Google Merchant Center with video uploads getting stuck in the &quot;preview processing&quot; status. This causes the videos to look static both in your product listings in Google Search and other surfaces. This was first spotted by Joey Bidner and then Emmanuel Flossie posted about it on his…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Data Strength Best Practices Updated</title>
+      <link>https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html</link>
+      <guid isPermaLink="false">b50aecaea10bfb00</guid>
+      <pubDate>Tue, 13 Oct 2026 11:05:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has revamped its Data Strength Best Practices help document with much greater emphasis on sending more first-party data and identifiers, using Data Manager correctly, adopting AI-powered campaigns, and supporting its recommendations with performance statistics. It is a big update to the document. You can compare…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google stops blocking low-quality product images from ads and free listings</title>
+      <link>https://ppc.land/google-stops-blocking-low-quality-product-images-from-ads-and-free-listings/</link>
+      <guid isPermaLink="false">3330ace6cf57b22c</guid>
+      <pubDate>Tue, 13 Oct 2026 00:46:19 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Blurry or pixelated images no longer keep Merchant Center products out of ads or free listings. The 500 x 500 pixel floor still applies from January 31, 2027. Google has rewritten the Merchant Center Help page for the &quot;Low image quality [image_link]&quot; issue so that it no longer warns merchants their products may be kept…</p><p>Source: <a href="https://ppc.land/google-stops-blocking-low-quality-product-images-from-ads-and-free-listings/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads API moves to two releases a month starting with v26</title>
       <link>https://ppc.land/google-ads-api-moves-to-two-releases-a-month-starting-with-v26/</link>
@@ -373,38 +405,6 @@
       <pubDate>Mon, 05 Oct 2026 11:11:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads has a new AI campaign localization tool for Search campaigns (beta), at least according to a new help document I found late last week. &quot;You can use the AI campaign localization tool to quickly localize entire Search campaigns for new languages and regions using generative AI,&quot; Google wrote in the help…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-campaign-localization-tool-42221.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta&amp;#x27;s Muse can skip ads yet still shape Instagram ads, MBI argues</title>
-      <link>https://ppc.land/metas-muse-can-skip-ads-yet-still-shape-instagram-ads-mbi-argues/</link>
-      <guid isPermaLink="false">2e02db4d95253285</guid>
-      <pubDate>Sun, 04 Oct 2026 20:01:27 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>DoorDash&amp;#x27;s text-ordering agent reportedly serves 20,000 US iOS users while Amazon blocks Muse. Can merchant fees alone fund Meta&amp;#x27;s shopping agent for years? MBI Deep Dives, a subscription newsletter on business and technology, published an analysis on October 1, 2026 contending that Meta's Muse personal agent…</p><p>Source: <a href="https://ppc.land/metas-muse-can-skip-ads-yet-still-shape-instagram-ads-mbi-argues/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Both] Half of Kroger&amp;#x27;s Meta and DV360 spend went to low-converting ads, study finds</title>
-      <link>https://ppc.land/half-of-krogers-meta-and-dv360-spend-went-to-low-converting-ads-study-finds/</link>
-      <guid isPermaLink="false">cbccea54536922e3</guid>
-      <pubDate>Sun, 04 Oct 2026 19:07:02 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Both</strong> · Feature update · Impact: Low</p><p>Vidmob&amp;#x27;s model sorted 1,934 Kroger ads into high and low converters with 81% accuracy on unseen data. Will the gap hold in Kroger&amp;#x27;s planned in-market test? Kroger, Vidmob and MMA Global on September 30, 2026 published research covering 1,934 of the grocer's video and image ads, concluding that a model trained…</p><p>Source: <a href="https://ppc.land/half-of-krogers-meta-and-dv360-spend-went-to-low-converting-ads-study-finds/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google PM calls $100 a day the floor for a Demand Gen campaign</title>
-      <link>https://ppc.land/google-pm-calls-100-a-day-the-floor-for-a-demand-gen-campaign/</link>
-      <guid isPermaLink="false">1e5c540536cdcc65</guid>
-      <pubDate>Sun, 04 Oct 2026 16:34:27 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>YouTube advertisers face a level 20 times the $5 minimum Google&amp;#x27;s API enforces. And with no refresh schedule for tired assets, what marks an asset as spent? Google on October 1, 2026 published an episode of its Ads Decoded series in which Alejandro Osio, a product manager for Demand Gen and YouTube performance…</p><p>Source: <a href="https://ppc.land/google-pm-calls-100-a-day-the-floor-for-a-demand-gen-campaign/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Low-quality content never dented Meta&amp;#x27;s ad numbers, Horwitz tells BBC</title>
-      <link>https://ppc.land/low-quality-content-never-dented-metas-ad-numbers-horwitz-tells-bbc/</link>
-      <guid isPermaLink="false">9c755e7a9a0f209e</guid>
-      <pubDate>Sun, 04 Oct 2026 07:26:41 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta users distrusted the firm yet kept logging in, per an internal memo cited by the reporter behind The Social Reckoning. Can teen caps and AI bets move that? Jeff Horwitz, the Reuters technology reporter whose 2021 Wall Street Journal investigation into Facebook inspired the film The Social Reckoning, told the BBC's…</p><p>Source: <a href="https://ppc.land/low-quality-content-never-dented-metas-ad-numbers-horwitz-tells-bbc/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

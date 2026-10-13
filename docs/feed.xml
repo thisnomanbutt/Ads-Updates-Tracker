@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:27:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:41:03 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads API moves to two releases a month starting with v26</title>
+      <link>https://ppc.land/google-ads-api-moves-to-two-releases-a-month-starting-with-v26/</link>
+      <guid isPermaLink="false">8838e4035ae27682</guid>
+      <pubDate>Tue, 13 Oct 2026 00:40:46 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>API developers get 21 releases in 2027, but only four are breaking majors, each retiring about 13 months after launch. Does the migration workload grow too? Google yesterday said its Ads API will ship two releases a month starting with version 26, doubling the monthly cadence it adopted in January 2026, while keeping…</p><p>Source: <a href="https://ppc.land/google-ads-api-moves-to-two-releases-a-month-starting-with-v26/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta offers updated ad placement control guidance</title>
+      <link>https://www.socialmediatoday.com/news/meta-offers-updated-ad-placement-control-guidance/832791/</link>
+      <guid isPermaLink="false">f969948bb5e386c8</guid>
+      <pubDate>Mon, 12 Oct 2026 20:07:57 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>The revised overview provides options for enabling some level of ongoing control as the company continues to automate its ad display systems. Meta has shared new guidance on how advertisers can maintain ad placement controls as the company continues to update its automated ad and display systems. Over the past few…</p><p>Source: <a href="https://www.socialmediatoday.com/news/meta-offers-updated-ad-placement-control-guidance/832791/">Social Media Today</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] LSArespond tops 2,000 users as Google moves Local Services Ads into PMax</title>
+      <link>https://ppc.land/lsarespond-tops-2-000-users-as-google-moves-local-services-ads-into-pmax/</link>
+      <guid isPermaLink="false">2da2eca114f9ce19</guid>
+      <pubDate>Mon, 12 Oct 2026 17:39:34 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Over 115,000 Local Services Ads leads ran through the tool in August 2026, by its count, while missed calls became billable on October 1. What does it automate? LSArespond, a New York-based software company that automates the handling of Google Local Services Ads leads, said on October 11, 2026 that it had passed 2,000…</p><p>Source: <a href="https://ppc.land/lsarespond-tops-2-000-users-as-google-moves-local-services-ads-into-pmax/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API Release and Sunset Schedules for 2026-2027</title>
+      <link>http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html</link>
+      <guid isPermaLink="false">f8f0799d68079fc1</guid>
+      <pubDate>Mon, 12 Oct 2026 16:57:15 GMT</pubDate>
+      <category>Deprecation or removal</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Deprecation or removal · Impact: Medium</p><p>Last year, we shifted to a monthly release schedule for the Google Ads API to provide you faster API access to Ads features available in the Google Ads UI . As we enter a new agentic era where speed and agility are paramount, we are thrilled to accelerate our launch timelines even further - moving to two Google Ads API…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads Tests Using Google AI For Goals &amp; Assets</title>
       <link>https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html</link>
@@ -373,38 +405,6 @@
       <pubDate>Sun, 04 Oct 2026 07:26:41 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta users distrusted the firm yet kept logging in, per an internal memo cited by the reporter behind The Social Reckoning. Can teen caps and AI bets move that? Jeff Horwitz, the Reuters technology reporter whose 2021 Wall Street Journal investigation into Facebook inspired the film The Social Reckoning, told the BBC's…</p><p>Source: <a href="https://ppc.land/low-quality-content-never-dented-metas-ad-numbers-horwitz-tells-bbc/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google loses bid to end $1.5bn Gannett and Daily Mail ad tech suits</title>
-      <link>https://ppc.land/google-loses-bid-to-end-1-5bn-gannett-and-daily-mail-ad-tech-suits/</link>
-      <guid isPermaLink="false">559c8fd41846d217</guid>
-      <pubDate>Fri, 02 Oct 2026 18:51:33 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Publishers in the AdX class keep a $1.72bn overcharge claim, while Inform&amp;#x27;s $479m video case falls. Project Bernanke and EDA evidence now heads toward a jury. Judge P. Kevin Castel of the Southern District of New York on September 30, 2026 denied most of Google's motion for summary judgment against Gannett and the…</p><p>Source: <a href="https://ppc.land/google-loses-bid-to-end-1-5bn-gannett-and-daily-mail-ad-tech-suits/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Sponsored Products Results Missing Images</title>
-      <link>https://www.seroundtable.com/google-sponsored-products-results-missing-images-42213.html</link>
-      <guid isPermaLink="false">b8f1e0c12ab2aabe</guid>
-      <pubDate>Fri, 02 Oct 2026 11:21:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads may have a bug or maybe it is testing, not showing images on sponsored product results. You can see from the screenshot below, the images that are generally shown above the ad titles and descriptions are missing from the Sponsored products carousel in Google Search. Arpan Banerje shared a screenshot of the…</p><p>Source: <a href="https://www.seroundtable.com/google-sponsored-products-results-missing-images-42213.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Sitelinks Format In AI Mode</title>
-      <link>https://www.seroundtable.com/google-ads-sitelinks-ai-mode-42206.html</link>
-      <guid isPermaLink="false">bd0c85550f14f1b3</guid>
-      <pubDate>Fri, 02 Oct 2026 11:11:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads show up a lot within AI Mode these days and with that, Google is testing various ad formats to see which formats get the highest click-through rate (unlike links in AI Mode). Here is a screenshot of what may be the Google Ads Sitelinks within AI Mode. I found this new format via Anthony Higman who posted…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-sitelinks-ai-mode-42206.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads To Allow Some Advertisers To Use Different Business Names</title>
-      <link>https://www.seroundtable.com/google-ads-business-name-policy-42214.html</link>
-      <guid isPermaLink="false">f7cb91d83396c456</guid>
-      <pubDate>Fri, 02 Oct 2026 11:05:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads will update its business name policy to allow some advertisers to use a business name that differs from the ad's destination domain. This is limited to certain cases, specifically three cases and it also excludes advertisers who are not the direct verified brand. Google posted that starting October 2026…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-business-name-policy-42214.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

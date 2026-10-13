@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:45:58 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google claims 20% Demand Gen conversion uplift from tag gateway setups</title>
+      <link>https://ppc.land/google-claims-20-demand-gen-conversion-uplift-from-tag-gateway-setups/</link>
+      <guid isPermaLink="false">731fab891944f22c</guid>
+      <pubDate>Tue, 13 Oct 2026 20:45:28 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Insurer The Zebra logged 16% more conversions in Google&amp;#x27;s October Demand Gen Drop. Enhanced conversions for DV360 and Analytics are now listed as coming soon. Google today published the October edition of its monthly Demand Gen Drop, a short update built almost entirely around first-party data rather than new ad…</p><p>Source: <a href="https://ppc.land/google-claims-20-demand-gen-conversion-uplift-from-tag-gateway-setups/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Build your data strength with October’s Demand Gen drop.</title>
+      <link>https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/</link>
+      <guid isPermaLink="false">f22ea74c31f40a40</guid>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Demand Gen is only as powerful as the quality of the data fueling it, helping you improve your measurement and ROI. Based on an internal analysis, advertisers who build their data strength with Google Tag Gateway see, on average, over 20% conversion uplift in Demand Gen campaigns. 1 Build your data strength with the…</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta Adds Automatic Customer Exclusions</title>
       <link>https://www.jonloomer.com/meta-automatic-customer-exclusions/</link>
@@ -389,22 +405,6 @@
       <pubDate>Mon, 05 Oct 2026 11:41:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads sent an email notifying some advertisers that it will automatically identify and extract high-quality promotions from your website and apply them directly to your campaigns starting on October 12, 2026. This is called automated promotions and only applies to Search and Performance Max campaigns with linked…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-automated-promotions-october-12-42223.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads With Doubled About This Ad Button</title>
-      <link>https://www.seroundtable.com/google-ads-double-dots-42222.html</link>
-      <guid isPermaLink="false">7828bb395494af28</guid>
-      <pubDate>Mon, 05 Oct 2026 11:31:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google seems to have a bug of sorts where sometimes it can show the three dots about this ad or search result button twice, instead of just once. I can replicate this for some queries but not all. This was first spotted by Khushal Bherwani who posted a video of it in action on X - he said, &quot;Google sponsored result with…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-double-dots-42222.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads AI Campaign Localization Tool (Beta)</title>
-      <link>https://www.seroundtable.com/google-ads-ai-campaign-localization-tool-42221.html</link>
-      <guid isPermaLink="false">fc62a1f7d94ce7dc</guid>
-      <pubDate>Mon, 05 Oct 2026 11:11:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads has a new AI campaign localization tool for Search campaigns (beta), at least according to a new help document I found late last week. &quot;You can use the AI campaign localization tool to quickly localize entire Search campaigns for new languages and regions using generative AI,&quot; Google wrote in the help…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-campaign-localization-tool-42221.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

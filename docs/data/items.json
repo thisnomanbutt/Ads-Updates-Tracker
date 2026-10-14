@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-14T17:11:33.770Z",
+  "updatedAt": "2026-10-14T21:42:07.007Z",
   "model": null,
-  "count": 117,
+  "count": 118,
   "items": [
+    {
+      "id": "0ca2dcb70ead1f00",
+      "title": "Google Ads lets advertisers limit Display and partner spend by percentage",
+      "link": "https://ppc.land/google-ads-lets-advertisers-limit-display-and-partner-spend-by-percentage/",
+      "published": "2026-10-14T17:43:12.000Z",
+      "fetchedAt": "2026-10-14T21:42:07.007Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google Ads lets advertisers limit Display and partner spend by percentage",
+      "summary": "Low priority channels get a daily cap set as a share of average budget, from October 15. Display Expansion on Search ends in February 2027. What will it shift? Google today added two optional budget controls to Google Ads that let advertisers rank channels as \"High priority\" or \"Low priority\" and put a daily percentage…",
+      "excerpt": "Low priority channels get a daily cap set as a share of average budget, from October 15. Display Expansion on Search ends in February 2027. What will it shift? Google today added two optional budget controls to Google Ads that let advertisers rank channels as \"High priority\" or \"Low priority\" and put a daily percentage limit on what low-priority channels such as Search partners and the Google Display Network can spend. The controls cover Search, Shopping, Performance Max and Demand Gen campaigns, and a Google help page dates the start of the rollout to October 15, 2026. In February 2027 the older Display Expansion budget behavior on Search campaigns goes away. Google Ads now lets advertisers tell it which places to spend money first, such as Google Search, and which places come second, such as partner websites and the Display Network. Advertisers who stayed away from those secondary networks because they could not control the spend can now set a percentage of the daily budget those networks should not go past, although Google says it will only try to respect that number. If you run Search campaigns with Display turned on, the way that spend is split changes in February 2027 unless…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "b725ab68d122a8cd",
       "title": "Guide your campaign spending with new priority and allocation features",

@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 17:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:42:07 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads lets advertisers limit Display and partner spend by percentage</title>
+      <link>https://ppc.land/google-ads-lets-advertisers-limit-display-and-partner-spend-by-percentage/</link>
+      <guid isPermaLink="false">0ca2dcb70ead1f00</guid>
+      <pubDate>Wed, 14 Oct 2026 17:43:12 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Low priority channels get a daily cap set as a share of average budget, from October 15. Display Expansion on Search ends in February 2027. What will it shift? Google today added two optional budget controls to Google Ads that let advertisers rank channels as &quot;High priority&quot; or &quot;Low priority&quot; and put a daily percentage…</p><p>Source: <a href="https://ppc.land/google-ads-lets-advertisers-limit-display-and-partner-spend-by-percentage/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Guide your campaign spending with new priority and allocation features</title>
       <link>https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/</link>
@@ -397,14 +405,6 @@
       <pubDate>Tue, 06 Oct 2026 11:51:00 GMT</pubDate>
       <category>Policy or compliance</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google has updated the Google Maps and Business Profiles Prohibited &amp; restricted content policy's advertising and solicitation section to list what merchants and business owners cannot post on their listings and posts. Google updated the advertising and solicitation section to expand what is included in what is…</p><p>Source: <a href="https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Call Extensions Includes Advertiser Name</title>
-      <link>https://www.seroundtable.com/google-ads-call-extensions-advertiser-name-42231.html</link>
-      <guid isPermaLink="false">e0575bb1d8ba0a8b</guid>
-      <pubDate>Tue, 06 Oct 2026 11:31:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is testing displaying the advertiser's name within the click to call phone number call asset on the sponsored listings. Normally, Google will just show the phone number but in this test, Google is also adding the advertiser's name. This test was spotted by Khushal Bherwani who posted a screenshot of this on…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-call-extensions-advertiser-name-42231.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

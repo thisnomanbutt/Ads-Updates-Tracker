@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:55:25 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Meta says its GEM ads model lifted conversions 18.9% across its apps</title>
+      <link>https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/</link>
+      <guid isPermaLink="false">3bd511688868011a</guid>
+      <pubDate>Wed, 14 Oct 2026 04:21:11 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Click-through rates rose 12% as Meta folded ad prediction for every surface into one model trained on thousands of GPUs. What can advertisers actually check? Meta yesterday published a technical account of the 2026 generation of its Generative Ads Model, known as GEM, claiming the system delivered an 18.9% conversion…</p><p>Source: <a href="https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google claims 20% Demand Gen conversion uplift from tag gateway setups</title>
       <link>https://ppc.land/google-claims-20-demand-gen-conversion-uplift-from-tag-gateway-setups/</link>
@@ -397,14 +405,6 @@
       <pubDate>Mon, 05 Oct 2026 13:30:23 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>When you choose the “maximize number of conversions” performance goal, you have to select a conversion event. This could be a standard event (like “purchase”), a custom event, or a customer conversion for the specific product that you’re selling in the ad. Using a custom conversion can make sense, and it’s not…</p><p>Source: <a href="https://www.jonloomer.com/qvt/optimize-custom-conversion/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads To Automated Promotions For Search &amp; PMax Campaigns Soon</title>
-      <link>https://www.seroundtable.com/google-ads-automated-promotions-october-12-42223.html</link>
-      <guid isPermaLink="false">d803e81fb84086bf</guid>
-      <pubDate>Mon, 05 Oct 2026 11:41:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads sent an email notifying some advertisers that it will automatically identify and extract high-quality promotions from your website and apply them directly to your campaigns starting on October 12, 2026. This is called automated promotions and only applies to Search and Performance Max campaigns with linked…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-automated-promotions-october-12-42223.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

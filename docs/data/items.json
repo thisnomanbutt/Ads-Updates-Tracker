@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-13T22:45:57.971Z",
+  "updatedAt": "2026-10-14T04:55:24.795Z",
   "model": null,
-  "count": 112,
+  "count": 113,
   "items": [
+    {
+      "id": "3bd511688868011a",
+      "title": "Meta says its GEM ads model lifted conversions 18.9% across its apps",
+      "link": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
+      "published": "2026-10-14T04:21:11.000Z",
+      "fetchedAt": "2026-10-14T04:55:24.795Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Reporting or measurement",
+      "impact": "Low",
+      "headline": "Meta says its GEM ads model lifted conversions 18.9% across its apps",
+      "summary": "Click-through rates rose 12% as Meta folded ad prediction for every surface into one model trained on thousands of GPUs. What can advertisers actually check? Meta yesterday published a technical account of the 2026 generation of its Generative Ads Model, known as GEM, claiming the system delivered an 18.9% conversion…",
+      "excerpt": "Click-through rates rose 12% as Meta folded ad prediction for every surface into one model trained on thousands of GPUs. What can advertisers actually check? Meta yesterday published a technical account of the 2026 generation of its Generative Ads Model, known as GEM, claiming the system delivered an 18.9% conversion improvement and a 12% click-through rate improvement across its ad surfaces and objectives. The engineering post, credited to seven Meta engineers, describes how the company replaced separate prediction systems for Facebook, Instagram and Reels with one central foundation model, and how it moves that model's output into the hundreds of smaller models that actually serve ads in real time. Meta built one very large AI model that learns from what people do across Facebook, Instagram and its other apps, and uses it to teach the smaller models that pick which ad you see. Meta says this made people click on ads 12% more and convert 18.9% more, which matters to anyone paying for ads on those apps. The figures come only from Meta, with no baseline or method attached, so they describe what Meta says changed rather than something an advertiser can confirm in their own account.…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "731fab891944f22c",
       "title": "Google claims 20% Demand Gen conversion uplift from tag gateway setups",

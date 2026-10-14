@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 04:55:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:54:04 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads Policies Adds Prediction Markets Section</title>
+      <link>https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html</link>
+      <guid isPermaLink="false">4cfcad1318c52fa0</guid>
+      <pubDate>Wed, 14 Oct 2026 11:11:00 GMT</pubDate>
+      <category>Policy or compliance</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google added a section for prediction markets to the main Google Ads policies documentation last week. Google has posted updates and policies on advertising for prediction markets on Google Ads numerous times before , but now it has been added to the main policy document. Due to the inherent complexities, speculative…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta says its GEM ads model lifted conversions 18.9% across its apps</title>
       <link>https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/</link>
@@ -397,14 +405,6 @@
       <pubDate>Mon, 05 Oct 2026 19:40:33 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Budget-capped campaigns once returning 3,000-4,000% now bid toward their targets, Reddit replies suggest. Can extra budget or a higher target restore volume? A Google Ads advertiser told the r/PPC community that Shopping sales fell and competitors climbed above their listings after August 17, the date Google began…</p><p>Source: <a href="https://ppc.land/advertiser-says-googles-august-17-change-cut-shopping-sales-at-300-troas/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Should You Optimize for a Custom Conversion?</title>
-      <link>https://www.jonloomer.com/qvt/optimize-custom-conversion/</link>
-      <guid isPermaLink="false">73f93116c0742249</guid>
-      <pubDate>Mon, 05 Oct 2026 13:30:23 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>When you choose the “maximize number of conversions” performance goal, you have to select a conversion event. This could be a standard event (like “purchase”), a custom event, or a customer conversion for the specific product that you’re selling in the ad. Using a custom conversion can make sense, and it’s not…</p><p>Source: <a href="https://www.jonloomer.com/qvt/optimize-custom-conversion/">Jon Loomer Digital</a></p>]]></description>
     </item>
   </channel>
 </rss>

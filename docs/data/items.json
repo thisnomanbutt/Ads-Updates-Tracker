@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-14T04:55:24.795Z",
+  "updatedAt": "2026-10-14T11:54:04.413Z",
   "model": null,
-  "count": 113,
+  "count": 114,
   "items": [
+    {
+      "id": "4cfcad1318c52fa0",
+      "title": "Google Ads Policies Adds Prediction Markets Section",
+      "link": "https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html",
+      "published": "2026-10-14T11:11:00.000Z",
+      "fetchedAt": "2026-10-14T11:54:04.413Z",
+      "sourceId": "seroundtable",
+      "sourceName": "Search Engine Roundtable",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Policy or compliance",
+      "impact": "Low",
+      "headline": "Google Ads Policies Adds Prediction Markets Section",
+      "summary": "Google added a section for prediction markets to the main Google Ads policies documentation last week. Google has posted updates and policies on advertising for prediction markets on Google Ads numerous times before , but now it has been added to the main policy document. Due to the inherent complexities, speculative…",
+      "excerpt": "Google added a section for prediction markets to the main Google Ads policies documentation last week. Google has posted updates and policies on advertising for prediction markets on Google Ads numerous times before , but now it has been added to the main policy document. Due to the inherent complexities, speculative nature, and unique regulatory classification involved in trading Prediction Market contracts and related products (defined as platforms that facilitate the listing of or provide customer access to Exchange-Listed Event Contracts related to economics, sports, or current events), Google Ads only allows advertisements for these products in the locations listed in the location specifics section below and only if they meet all of the following criteria: The advertiser is a licensed Prediction Market provider that holds all applicable local financial, commodity, and/or gaming licenses, including those required as part of Google’s certification process. The products and ads comply with all local laws, financial regulations, industry standards and all other Google Ads Policies. Advertisers are expected to do their own research on the local regulations for any location their…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "3bd511688868011a",
       "title": "Meta says its GEM ads model lifted conversions 18.9% across its apps",

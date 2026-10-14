@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:11:34 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Guide your campaign spending with new priority and allocation features</title>
+      <link>https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/</link>
+      <guid isPermaLink="false">b725ab68d122a8cd</guid>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Say goodbye to all-or-nothing channel targeting. You can now categorize ad networks by priority and allocate budget to secondary channels to test them safely. Director of Product Management, Google Ads Your browser does not support the audio element. Google Ads is rolling out new channel prioritization and budget…</p><p>Source: <a href="https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] New Google Ads Controls: Channel Prioritization &amp; Budget Allocation</title>
+      <link>https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html</link>
+      <guid isPermaLink="false">527333f56f8195cd</guid>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads is rolling out two new &quot;controls&quot; in the advertising platform named channel prioritization and budget allocation. These are rolling out globally across Google Search, Google Shopping, Performance Max, and soon Demand Gen. We saw an alpha release of this back in August but now Google is rolling this out to…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Search Terms &amp; Ad Combinations As One Report</title>
+      <link>https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html</link>
+      <guid isPermaLink="false">c147000d57f85bf0</guid>
+      <pubDate>Wed, 14 Oct 2026 11:51:00 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads seems to be testing a new report named the Search terms and ad combinations report. This report shows how search queries, ad creatives, and landing pages work together. This new report was spotted by Natasha Kaurra who posted a screenshot and more details on LinkedIn - she said, &quot;For the first time, Im…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads Policies Adds Prediction Markets Section</title>
       <link>https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html</link>
@@ -381,30 +405,6 @@
       <pubDate>Tue, 06 Oct 2026 11:31:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is testing displaying the advertiser's name within the click to call phone number call asset on the sponsored listings. Normally, Google will just show the phone number but in this test, Google is also adding the advertiser's name. This test was spotted by Khushal Bherwani who posted a screenshot of this on…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-call-extensions-advertiser-name-42231.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Sequenced Events: Optimize for Qualified Website Leads</title>
-      <link>https://www.jonloomer.com/meta-sequenced-events/</link>
-      <guid isPermaLink="false">1de4980f6cd2ee5d</guid>
-      <pubDate>Tue, 06 Oct 2026 11:30:28 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Back in August, I wrote about a test feature called Sequenced Events that allows you to optimize for a higher-value action that follows an initial event. Now that I have it, I’m seeing how powerful this option might be. It also doesn’t quite work the way I assumed it did. And that’s actually a good thing.…</p><p>Source: <a href="https://www.jonloomer.com/meta-sequenced-events/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads will auto-apply website coupons to some campaigns from October 12</title>
-      <link>https://ppc.land/google-ads-will-auto-apply-website-coupons-to-some-campaigns-from-october-12/</link>
-      <guid isPermaLink="false">dfc3c041371e1613</guid>
-      <pubDate>Tue, 06 Oct 2026 07:07:16 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Search and Performance Max campaigns with location assets are enrolled by default, with sourced offers re-checked within 24 hours. Who reviews what goes live? Google Ads will begin pulling discount offers from advertiser sites and attaching them to campaigns on October 12, 2026, according to an email notice that Search…</p><p>Source: <a href="https://ppc.land/google-ads-will-auto-apply-website-coupons-to-some-campaigns-from-october-12/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Advertiser says Google&amp;#x27;s August 17 change cut Shopping sales at 300% tROAS</title>
-      <link>https://ppc.land/advertiser-says-googles-august-17-change-cut-shopping-sales-at-300-troas/</link>
-      <guid isPermaLink="false">33237dbdb1fd58dd</guid>
-      <pubDate>Mon, 05 Oct 2026 19:40:33 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Budget-capped campaigns once returning 3,000-4,000% now bid toward their targets, Reddit replies suggest. Can extra budget or a higher target restore volume? A Google Ads advertiser told the r/PPC community that Shopping sales fell and competitors climbed above their listings after August 17, the date Google began…</p><p>Source: <a href="https://ppc.land/advertiser-says-googles-august-17-change-cut-shopping-sales-at-300-troas/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-15T04:40:43.541Z",
+  "updatedAt": "2026-10-15T11:31:01.071Z",
   "model": null,
-  "count": 120,
+  "count": 121,
   "items": [
+    {
+      "id": "3b5c43c229d5c3ab",
+      "title": "Google Ads lets advertisers cap Display spend, on a best-effort basis",
+      "link": "https://ppc.land/google-ads-lets-advertisers-cap-display-spend-on-a-best-effort-basis/",
+      "published": "2026-10-15T05:54:54.000Z",
+      "fetchedAt": "2026-10-15T11:31:01.071Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google Ads lets advertisers cap Display spend, on a best-effort basis",
+      "summary": "Google Ads now lets advertisers rank channels and cap Display and partner spend by percentage, as 40 attorneys general set terms for Character.ai&#x27;s user data. For more than a decade, an advertiser running a Search campaign in Google Ads has faced an awkward binary over where the money goes. Search partners and the…",
+      "excerpt": "Google Ads now lets advertisers rank channels and cap Display and partner spend by percentage, as 40 attorneys general set terms for Character.ai&#x27;s user data. For more than a decade, an advertiser running a Search campaign in Google Ads has faced an awkward binary over where the money goes. Search partners and the Display Network could be switched on or off, and little in between. On October 14, Google offered something in between, and the wording it chose says as much about the balance of power in digital advertising as the feature itself. Google Ads now lets advertisers limit Display and partner spend by percentage , through two optional controls announced by Tal Akabas, director of product management for Google Ads, in a blog post that went live at 8:00 AM Pacific after an embargo. The first, channel prioritization, sorts inventory into \"High priority\" and \"Low priority\" tiers. Search partners and the Google Display Network can be placed in the lower tier, and Google funds the high-priority channels first. The second, budget allocation, sets a daily cap on the low-priority channels as a percentage of a campaign's average daily budget. Google's worked example is plain…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "d7f4f48324ba7415",
       "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",

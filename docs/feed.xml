@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:40:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:31:01 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads lets advertisers cap Display spend, on a best-effort basis</title>
+      <link>https://ppc.land/google-ads-lets-advertisers-cap-display-spend-on-a-best-effort-basis/</link>
+      <guid isPermaLink="false">3b5c43c229d5c3ab</guid>
+      <pubDate>Thu, 15 Oct 2026 05:54:54 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads now lets advertisers rank channels and cap Display and partner spend by percentage, as 40 attorneys general set terms for Character.ai&amp;#x27;s user data. For more than a decade, an advertiser running a Search campaign in Google Ads has faced an awkward binary over where the money goes. Search partners and the…</p><p>Source: <a href="https://ppc.land/google-ads-lets-advertisers-cap-display-spend-on-a-best-effort-basis/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance</title>
       <link>https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/</link>
@@ -397,14 +405,6 @@
       <pubDate>Wed, 07 Oct 2026 11:31:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is testing a new billing menu bar or tab that adds more options and links to the billing section. It looks like Google added double the amount of links in the menu. This was spotted by Govind Singh Panwar who wrote on X , &quot;Spotted a new Billing layout in some accounts. Billing Reports, Transactions, Payment…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-updated-billing-menu-42242.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Merchant Center New UCP Integration Hub</title>
-      <link>https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html</link>
-      <guid isPermaLink="false">15beba066de552e7</guid>
-      <pubDate>Wed, 07 Oct 2026 11:21:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account. The hub says &quot;Start selling across AI surfaces by implementing Universal Commerce Protocol.&quot; &quot;The Universal Commerce Protocol (UP) is an…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

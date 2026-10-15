@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 21:42:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:40:43 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance</title>
+      <link>https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/</link>
+      <guid isPermaLink="false">d7f4f48324ba7415</guid>
+      <pubDate>Thu, 15 Oct 2026 00:50:50 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Medium</p><p>Today, we’re releasing findings from a new YouGov study we commissioned of almost 4,000 small business owners across nine APAC markets: Australia, Singapore, Vietnam, Indonesia, Taiwan, India, Thailand, Japan and Hong Kong, on how AI is helping them grow, compete with larger businesses and reach customers beyond their…</p><p>Source: <a href="https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/">Meta Newsroom</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Announcing v26 of the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html</link>
+      <guid isPermaLink="false">10b66c10aeb3a485</guid>
+      <pubDate>Wed, 14 Oct 2026 22:51:56 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live walkthrough of this release in our &quot;Google Ads API Release Highlights&quot; event on…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads lets advertisers limit Display and partner spend by percentage</title>
       <link>https://ppc.land/google-ads-lets-advertisers-limit-display-and-partner-spend-by-percentage/</link>
@@ -389,22 +405,6 @@
       <pubDate>Wed, 07 Oct 2026 11:21:00 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account. The hub says &quot;Start selling across AI surfaces by implementing Universal Commerce Protocol.&quot; &quot;The Universal Commerce Protocol (UP) is an…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta introduces new AI-powered tools at Advertising Week</title>
-      <link>https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832288/</link>
-      <guid isPermaLink="false">0b1b63e80f2d4328</guid>
-      <pubDate>Tue, 06 Oct 2026 18:37:34 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>The company is testing importing and creative insight features, as well as improved conversational guidance for its artificial intelligence elements. Meta announced a range of ad updates at its Advertising Week presentation in New York today , including an improved business assistant, an expansion of its creative tools…</p><p>Source: <a href="https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832288/">Social Media Today</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Updated Google Maps Policy: What Merchants Can't Post In Listings Or Posts</title>
-      <link>https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html</link>
-      <guid isPermaLink="false">c4ff2687a4ecabd6</guid>
-      <pubDate>Tue, 06 Oct 2026 11:51:00 GMT</pubDate>
-      <category>Policy or compliance</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google has updated the Google Maps and Business Profiles Prohibited &amp; restricted content policy's advertising and solicitation section to list what merchants and business owners cannot post on their listings and posts. Google updated the advertising and solicitation section to expand what is included in what is…</p><p>Source: <a href="https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

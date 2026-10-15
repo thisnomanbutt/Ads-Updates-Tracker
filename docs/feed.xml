@@ -5,7 +5,47 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:02:08 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Data-backed secrets to smarter holiday shopping</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/</link>
+      <guid isPermaLink="false">bdcbe3798d9b5c20</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak. Learn the best times to buy fragrances, handbags, luggage, tech toys, and more so you can shop smarter this season. Your browser does not support the audio element. Use our new &quot;When to Buy Guide&quot; to time your holiday…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] An intelligent new shopping cart</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/</link>
+      <guid isPermaLink="false">b792a990c3cca17b</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Universal Cart launches in the U.S. today. Here are four ways it can help with holiday shopping — including organizing products from multiple stores into a single cart, tracking price drops, and more. Senior Director, Product Management, Consumer Shopping Your browser does not support the audio element. Google’s new…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Automotive Model Feeds On Search Ads (Vehicle Top Ads)</title>
+      <link>https://www.seroundtable.com/google-vehicle-top-ads-42301.html</link>
+      <guid isPermaLink="false">28c7469ea321fb07</guid>
+      <pubDate>Thu, 15 Oct 2026 11:51:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has a new Google Ads beta format named automotive model feeds on search ads, also known as Vehicle Top Ads (Beta). This is a new search ad format designed specifically for vehicle manufacturers to showcase vehicles with rich visuals and key details in the search results. There is a new help document published by…</p><p>Source: <a href="https://www.seroundtable.com/google-vehicle-top-ads-42301.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API Version 26 Now Out Available</title>
+      <link>https://www.seroundtable.com/google-ads-api-version-26-42307.html</link>
+      <guid isPermaLink="false">4ff9f7c62387416f</guid>
+      <pubDate>Thu, 15 Oct 2026 11:31:00 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google Ads has released version 26 of the Google Ads API. This is a major release of the Google Ads API updates including SMS messaging, local services, hotel center accounts, lift measurements, EU political items, conversion features, and so much more. Google wrote , &quot;Today we are announcing the release of v26 of the…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-api-version-26-42307.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Updates Sexual Content Policy With More Examples</title>
+      <link>https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html</link>
+      <guid isPermaLink="false">fd389587e49508d1</guid>
+      <pubDate>Thu, 15 Oct 2026 11:21:00 GMT</pubDate>
+      <category>Policy or compliance</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google Ads has updated the sexual content policies to &quot;provide additional examples and clearer information to advertisers,&quot; the company wrote . The main section that was updated was the &quot;Sexually suggestive elements and themes&quot; section. The Sexually suggestive elements and themes section breaks down the non-graphic…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads lets advertisers cap Display spend, on a best-effort basis</title>
       <link>https://ppc.land/google-ads-lets-advertisers-cap-display-spend-on-a-best-effort-basis/</link>
@@ -365,46 +405,6 @@
       <pubDate>Thu, 08 Oct 2026 11:21:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting. This was spotted by Vivek Gupta who wrote on LinkedIn , &quot;Google Ads has added some new AI Max related columns.&quot; Here is the screenshot…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Self-Services Conversion Lift Measurement</title>
-      <link>https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html</link>
-      <guid isPermaLink="false">0b8fa75af921f6ee</guid>
-      <pubDate>Thu, 08 Oct 2026 11:11:00 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads now lets advertisers set up Conversion Lift measurement themselves. Google updated its help documentation to say that you no longer need a Google Ads representative to set up Conversion Lift measurement; you just need at least 1,000 observed conversions and a $5,000 budget. Hana Kobzová spotted this change…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Ads Uploader: 17.5% of 36,289 Meta ad batches came from AI agents</title>
-      <link>https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/</link>
-      <guid isPermaLink="false">8808487daff11939</guid>
-      <pubDate>Wed, 07 Oct 2026 18:54:51 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>By arithmetic on vendor data, about 6,350 agent batches reached Meta in 30 days, about 212 a day. Will agents built by Amazon, Meta and X take over that share? Ads Uploader , a bulk ad-submission platform for Meta, today published September 2026 figures showing that AI agents connected directly to the service accounted…</p><p>Source: <a href="https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Canada and Australia face 2027 wait for Google&amp;#x27;s Merchant Center UCP hub</title>
-      <link>https://ppc.land/canada-and-australia-face-2027-wait-for-googles-merchant-center-ucp-hub/</link>
-      <guid isPermaLink="false">31e739010e47bcd7</guid>
-      <pubDate>Wed, 07 Oct 2026 17:27:09 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>US merchants can pick cart transfer, native checkout and identity linking once Google selects them. Which retailers get in first, and when do others follow? Google is gradually rolling out a Merchant Center hub for its Universal Commerce Protocol to merchants in the United States, according to reports published on…</p><p>Source: <a href="https://ppc.land/canada-and-australia-face-2027-wait-for-googles-merchant-center-ucp-hub/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Measures We’ve Put in Place to Fight Child Exploitation</title>
-      <link>https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/</link>
-      <guid isPermaLink="false">512c0bacd784a0b7</guid>
-      <pubDate>Wed, 07 Oct 2026 13:03:19 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Medium</p><p>Keeping young people safe on our apps is among the most important work we do, and it never stops. Sophisticated bad actors who try to exploit children online don’t stay in one place. These determined predators move across different platforms, and change their tactics to evade detection. Staying ahead requires constant…</p><p>Source: <a href="https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/">Meta Newsroom</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Updated Billing Menu With More Links</title>
-      <link>https://www.seroundtable.com/google-ads-updated-billing-menu-42242.html</link>
-      <guid isPermaLink="false">cd4a8c64e9e3f168</guid>
-      <pubDate>Wed, 07 Oct 2026 11:31:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is testing a new billing menu bar or tab that adds more options and links to the billing section. It looks like Google added double the amount of links in the menu. This was spotted by Govind Singh Panwar who wrote on X , &quot;Spotted a new Billing layout in some accounts. Billing Reports, Transactions, Payment…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-updated-billing-menu-42242.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

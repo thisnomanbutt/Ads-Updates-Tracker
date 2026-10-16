@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:40:50 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO</title>
+      <link>https://www.seroundtable.com/video-09-16-2026-42313.html</link>
+      <guid isPermaLink="false">8aca0ee1c6916a95</guid>
+      <pubDate>Fri, 16 Oct 2026 12:01:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>For the original iTunes version, click here . Google seems to be poisoning the third-party tracking tools with fake data and paywalls; this is wreaking havoc on keyword tracking. Google launched Gemini 4 Argon and it is in AI Mode. Google made several updates to links in AI Mode and AI Overviews, but it won’t matter.…</p><p>Source: <a href="https://www.seroundtable.com/video-09-16-2026-42313.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads To Allow Certification For Online Gambling Advertisers</title>
+      <link>https://www.seroundtable.com/google-ads-online-gambling-certification-42314.html</link>
+      <guid isPermaLink="false">b67d8a3b34850b55</guid>
+      <pubDate>Fri, 16 Oct 2026 11:51:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads will allow some advertisers to apply for certification for the category of online gambling. This started this month, October 2026, and will gradually be available to some advertisers in Google Ads. Google wrote , &quot;In October 2026, Google will gradually introduce the ability for some advertisers to apply for…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-online-gambling-certification-42314.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Lead Form Adds Lead Scoring For Lead Qualification</title>
+      <link>https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html</link>
+      <guid isPermaLink="false">8114ab662edda6bb</guid>
+      <pubDate>Fri, 16 Oct 2026 11:31:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google added the ability to add lead scoring by indicating answers that qualify a lead for your business to get higher-quality leads. You can add up to 12 answers per question and check off whether they qualify under the lead scoring section. This is for the newish Google Ads lead management feature . This was posted…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads API Releases Twice Per Month Going Forward</title>
       <link>https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html</link>
@@ -381,30 +405,6 @@
       <pubDate>Fri, 09 Oct 2026 18:20:38 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Fake Cloud Console page on sites.google.com fed logins to accounts.gtoosl.com, a domain registered in August. How did that page end up in Google&amp;#x27;s own ad slots? An analytics engineer who builds debugging tools for Google's own tag ecosystem said he fell for a reverse-proxy phishing page that he reached through a…</p><p>Source: <a href="https://ppc.land/analytics-engineer-phished-through-google-ad-for-google-cloud-console/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Parents lose Meta Pixel wiretap case against Seattle Children&amp;#x27;s Hospital</title>
-      <link>https://ppc.land/parents-lose-meta-pixel-wiretap-case-against-seattle-childrens-hospital/</link>
-      <guid isPermaLink="false">7ac69b5afad5208a</guid>
-      <pubDate>Fri, 09 Oct 2026 15:43:09 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Clicks and searches answered by an automated server fall outside a &amp;#x27;two or more individuals&amp;#x27; test, hitting pixel suits. Are chatbots and live chat next in line? Washington's Supreme Court on October 8, 2026 affirmed the dismissal of a class action accusing Seattle Children's Hospital of letting Meta's Pixel…</p><p>Source: <a href="https://ppc.land/parents-lose-meta-pixel-wiretap-case-against-seattle-childrens-hospital/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Enables Text Customization Asset Previews</title>
-      <link>https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html</link>
-      <guid isPermaLink="false">9c24ac9ede5d349e</guid>
-      <pubDate>Fri, 09 Oct 2026 11:51:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads now lets you preview the assets generated by Google AI for your Google Ads AI Max campaigns. Google added these details to the About text customization in Search campaigns help page under a new section named &quot; Text customization asset previews .&quot; The new section says, &quot;Use asset previews to view sample text…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Launching Structured Data Files v11</title>
-      <link>http://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html</link>
-      <guid isPermaLink="false">d163f23c26d5e6ce</guid>
-      <pubDate>Fri, 09 Oct 2026 00:46:49 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we’re announcing the general availability of Structured Data Files v11 . All users can now use v11 when downloading and uploading SDFs in the Display &amp; Video 360 interface. SDF v11 includes the following changes: Expanded the availability of Lookalike audience inclusion and exclusion targeting to all ad groups…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html">Google Ads Developer Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

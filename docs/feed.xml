@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 04:33:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:25:53 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads API Releases Twice Per Month Going Forward</title>
+      <link>https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html</link>
+      <guid isPermaLink="false">8d13768a0e50af16</guid>
+      <pubDate>Fri, 16 Oct 2026 11:11:00 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google Ads is planning on pushing twice as many Google Ads API updates for the remainder of this year and into 2027 compared to its previous schedule . Last year, Google said it would release an Ads API update monthly and now Google is switching that to two updates per month. Google wrote , &quot;Last year, we shifted to a…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta will turn on product browsing in existing ads on October 28</title>
       <link>https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/</link>
@@ -397,14 +405,6 @@
       <pubDate>Fri, 09 Oct 2026 00:46:49 GMT</pubDate>
       <category>API or developer</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we’re announcing the general availability of Structured Data Files v11 . All users can now use v11 when downloading and uploading SDFs in the Display &amp; Video 360 interface. SDF v11 includes the following changes: Expanded the availability of Lookalike audience inclusion and exclusion targeting to all ad groups…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] YouTube to allow certified online gambling ads on Masthead from October 21</title>
-      <link>https://ppc.land/youtube-to-allow-certified-online-gambling-ads-on-masthead-from-october-21/</link>
-      <guid isPermaLink="false">626fa9ccd3a5d04f</guid>
-      <pubDate>Thu, 08 Oct 2026 20:24:27 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Posted October 7 with 14 days of lead time, the notice excludes promoters outside mandatory state or national registration. Which markets qualify is left open. Advertisers certified under Google's Gambling and games policy will be able to run online gambling campaigns in YouTube's top-of-homepage slot from October 21,…</p><p>Source: <a href="https://ppc.land/youtube-to-allow-certified-online-gambling-ads-on-masthead-from-october-21/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

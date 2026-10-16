@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-16T04:33:25.315Z",
+  "updatedAt": "2026-10-16T11:25:53.631Z",
   "model": null,
-  "count": 129,
+  "count": 130,
   "items": [
+    {
+      "id": "8d13768a0e50af16",
+      "title": "Google Ads API Releases Twice Per Month Going Forward",
+      "link": "https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html",
+      "published": "2026-10-16T11:11:00.000Z",
+      "fetchedAt": "2026-10-16T11:25:53.631Z",
+      "sourceId": "seroundtable",
+      "sourceName": "Search Engine Roundtable",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "API or developer",
+      "impact": "Low",
+      "headline": "Google Ads API Releases Twice Per Month Going Forward",
+      "summary": "Google Ads is planning on pushing twice as many Google Ads API updates for the remainder of this year and into 2027 compared to its previous schedule . Last year, Google said it would release an Ads API update monthly and now Google is switching that to two updates per month. Google wrote , \"Last year, we shifted to a…",
+      "excerpt": "Google Ads is planning on pushing twice as many Google Ads API updates for the remainder of this year and into 2027 compared to its previous schedule . Last year, Google said it would release an Ads API update monthly and now Google is switching that to two updates per month. Google wrote , \"Last year, we shifted to a monthly release schedule for the Google Ads API to provide you faster API access to Ads features available in the Google Ads UI. As we enter a new agentic era where speed and agility are paramount, we are thrilled to accelerate our launch timelines even further - moving to two Google Ads API releases per month starting from version v26!\" Google added, \"This faster cadence gives your automated agents and workflows near-instant access to cutting-edge features, allowing you to stay ahead of the curve, reduce time-to-market, and innovate with unprecedented efficiency.\" Here is the Google Ads API release schedule for 2026-2027: * Estimated and subject to change. ** We may skip this release because it falls during the holiday season. *** v27 has fewer minor version releases because it falls during the holiday season (January) The content at the Search Engine Roundtable are…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "27650544c3ccee5b",
       "title": "Meta will turn on product browsing in existing ads on October 28",

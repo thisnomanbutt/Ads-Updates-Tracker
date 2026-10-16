@@ -5,7 +5,47 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:40:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:09:58 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads PM says target or budget changes cause no learning period</title>
+      <link>https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/</link>
+      <guid isPermaLink="false">782117a274dbd0ec</guid>
+      <pubDate>Fri, 16 Oct 2026 20:23:14 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Bids scale in proportion to new targets on steady campaigns, Tal Akabas said on Oct 15. Re-engagement mode reaches PMax; Search and Shopping are next in line. Google's Ads Decoded podcast on October 15 published a conversation of more than 40 minutes in which Tal Akabas, a Google Ads product manager, said that changing…</p><p>Source: <a href="https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Floodlight gains Google signed-in data to recover unattributed conversions</title>
+      <link>https://ppc.land/floodlight-gains-google-signed-in-data-to-recover-unattributed-conversions/</link>
+      <guid isPermaLink="false">d888fc8152967c89</guid>
+      <pubDate>Fri, 16 Oct 2026 19:07:25 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>DV360, Search Ads 360 and Campaign Manager 360 reports are in scope, and DV360 also retires an advertiser-level page. How far will conversion counts shift? Google today updated its &quot;Coming soon: Display &amp; Video 360 updates in Q4 2026&quot; help page, which lists three changes scheduled for November 2026: Floodlight…</p><p>Source: <a href="https://ppc.land/floodlight-gains-google-signed-in-data-to-recover-unattributed-conversions/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google&amp;#x27;s DV360 now requires a business name and logo on YouTube ads</title>
+      <link>https://ppc.land/googles-dv360-now-requires-a-business-name-and-logo-on-youtube-ads/</link>
+      <guid isPermaLink="false">8ca83e3bb63f2ff9</guid>
+      <pubDate>Fri, 16 Oct 2026 19:05:15 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Brand auction and instant deals are covered, and one rejected logo disapproves the whole ad. Which YouTube formats can actually carry the new assets in DV360? Every YouTube line item in Display &amp; Video 360 now needs a business name and a logo before an ad can be built, according to a Google release note dated October…</p><p>Source: <a href="https://ppc.land/googles-dv360-now-requires-a-business-name-and-logo-on-youtube-ads/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google lets gambling advertisers apply for certification inside Google Ads</title>
+      <link>https://ppc.land/google-lets-gambling-advertisers-apply-for-certification-inside-google-ads/</link>
+      <guid isPermaLink="false">d8622edfbfd0c3b9</guid>
+      <pubDate>Fri, 16 Oct 2026 19:02:56 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Online gambling is the only category in the new Admin &gt; Policy &gt; Account section, and existing certificates stay put. Who gets it first, and what changes next? Google on October 15, 2026 posted a change to how advertisers obtain certification for online gambling ads, adding an application route inside the Google Ads…</p><p>Source: <a href="https://ppc.land/google-lets-gambling-advertisers-apply-for-certification-inside-google-ads/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta sells brands 3 to 24 hour ad windows that shut out category rivals</title>
+      <link>https://ppc.land/meta-sells-brands-3-to-24-hour-ad-windows-that-shut-out-category-rivals/</link>
+      <guid isPermaLink="false">8ecb1e88ebf0c4b5</guid>
+      <pubDate>Fri, 16 Oct 2026 17:08:35 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Ads Super Burst test flights reached a median 34 million people, Meta says, about 14% of US adults online. The research behind those lift claims is unpublished. Meta Platforms on October 15, 2026 moved Ads Super Burst toward general availability, a reservation product that lets an advertiser book a window of 3 to 24…</p><p>Source: <a href="https://ppc.land/meta-sells-brands-3-to-24-hour-ad-windows-that-shut-out-category-rivals/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO</title>
       <link>https://www.seroundtable.com/video-09-16-2026-42313.html</link>
@@ -365,46 +405,6 @@
       <pubDate>Sun, 11 Oct 2026 05:33:58 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Effective the day it was posted, October 7, the ban hits CFTC-certified exchanges and brokers. Why the main policy page still left the state off days later. Google on October 7, 2026 prohibited advertising for prediction market contracts and related products in Connecticut, according to a change log entry in its…</p><p>Source: <a href="https://ppc.land/google-bans-prediction-market-ads-in-connecticut-fifth-us-state-excluded/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Invalid traffic can wipe out unpaid Google ad revenue, MonetizeMore warns</title>
-      <link>https://ppc.land/invalid-traffic-can-wipe-out-unpaid-google-ad-revenue-monetizemore-warns/</link>
-      <guid isPermaLink="false">7109f504c541fbca</guid>
-      <pubDate>Sun, 11 Oct 2026 05:29:14 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Indonesian publishers heard Traffic Cop runs 100-plus checks per visitor but skips mobile apps. How far does a vendor&amp;#x27;s claimed access to Google&amp;#x27;s team go? MonetizeMore chief executive Kean Graham told publishers at a webinar organised with the Indonesian online media association AMSI that Google's invalid…</p><p>Source: <a href="https://ppc.land/invalid-traffic-can-wipe-out-unpaid-google-ad-revenue-monetizemore-warns/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google optimises its own revenue. Advertisers have to optimise theirs</title>
-      <link>https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/</link>
-      <guid isPermaLink="false">1399bc5e3b03e5f3</guid>
-      <pubDate>Sat, 10 Oct 2026 07:53:29 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google&amp;#x27;s August 17 bidding change, AI Max defaults and court findings on ad pricing show a platform optimising its revenue while advertisers fight for theirs. &quot;It seems budget is the new quality score.&quot; Daniel Toledo, director of group media and performance marketing at evoke, the gambling group that owns William…</p><p>Source: <a href="https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads faces criticism over budget as a performance lever</title>
-      <link>https://ppc.land/google-ads-faces-criticism-over-budget-as-a-performance-lever/</link>
-      <guid isPermaLink="false">e7e955ca397e48ce</guid>
-      <pubDate>Sat, 10 Oct 2026 07:16:18 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Budget-limited status now shapes how Google bids, and two practitioners say spend has replaced relevance. Is Quality Score, launched in 2005, still the lever? Daniel Toledo, director of group media and performance marketing at gambling group evoke, wrote today on LinkedIn that &quot;it seems budget is the new quality score&quot;…</p><p>Source: <a href="https://ppc.land/google-ads-faces-criticism-over-budget-as-a-performance-lever/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] TikTok creator sues True Nutra over 12 Meta ads that reused her videos</title>
-      <link>https://ppc.land/tiktok-creator-sues-true-nutra-over-12-meta-ads-that-reused-her-videos/</link>
-      <guid isPermaLink="false">5ac35234d874ce5b</guid>
-      <pubDate>Sat, 10 Oct 2026 07:09:44 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Four registered videos made for a rival supplement allegedly ran in True Nutra ads on Meta. Statutory and treble damages are sought - how high can exposure go? A North Carolina social media creator filed a federal lawsuit on October 9, 2026 accusing R5 Brands LLC, which trades as True Nutra, of running her face, voice…</p><p>Source: <a href="https://ppc.land/tiktok-creator-sues-true-nutra-over-12-meta-ads-that-reused-her-videos/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Analytics engineer phished through Google ad for Google Cloud Console</title>
-      <link>https://ppc.land/analytics-engineer-phished-through-google-ad-for-google-cloud-console/</link>
-      <guid isPermaLink="false">777481f9c9775999</guid>
-      <pubDate>Fri, 09 Oct 2026 18:20:38 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Fake Cloud Console page on sites.google.com fed logins to accounts.gtoosl.com, a domain registered in August. How did that page end up in Google&amp;#x27;s own ad slots? An analytics engineer who builds debugging tools for Google's own tag ecosystem said he fell for a reverse-proxy phishing page that he reached through a…</p><p>Source: <a href="https://ppc.land/analytics-engineer-phished-through-google-ad-for-google-cloud-console/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

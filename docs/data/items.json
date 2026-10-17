@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-16T21:09:58.321Z",
+  "updatedAt": "2026-10-17T10:45:47.590Z",
   "model": null,
-  "count": 138,
+  "count": 139,
   "items": [
+    {
+      "id": "a87584ff4058838f",
+      "title": "Meta grants itself the right to crawl advertisers&#x27; websites for AI",
+      "link": "https://ppc.land/meta-grants-itself-the-right-to-crawl-advertisers-websites-for-ai/",
+      "published": "2026-10-17T05:19:36.000Z",
+      "fetchedAt": "2026-10-17T10:45:47.590Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Meta grants itself the right to crawl advertisers&#x27; websites for AI",
+      "summary": "Meta&#x27;s new terms let it crawl and train AI on advertisers&#x27; websites from October 30, 2026, as a survey found 16% of consumers grant AI data access reluctantly. Permission used to be something an advertiser or a reader gave. In the 24 hours to Saturday morning, more of it was simply written into terms,…",
+      "excerpt": "Meta&#x27;s new terms let it crawl and train AI on advertisers&#x27; websites from October 30, 2026, as a survey found 16% of consumers grant AI data access reluctantly. Permission used to be something an advertiser or a reader gave. In the 24 hours to Saturday morning, more of it was simply written into terms, defaults and protocols by the companies that collect it, while the people asked to give it showed signs of saying yes without meaning it. The clearest case came from Meta. Its revised Commercial Terms, which take effect on October 30, 2026, add a clause to Section 1 that lets the company use automated software and test credentials to access, index, cache, copy and re-crawl websites linked to a business's products, and to use that content to train its own products. PPC Land reported on October 16 that Meta's new terms let it crawl business websites to train AI from Oct 30 , replacing a version dated March 6, 2024. Nieman Lab reporters Andrew Deck and Hanaa' Tameez first described the change on October 15. Acceptance is passive. Continued use of Meta's commercial products counts as agreement, and there is no partial opt-out. The terms do not mention robots.txt, and…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "782117a274dbd0ec",
       "title": "Google Ads PM says target or budget changes cause no learning period",

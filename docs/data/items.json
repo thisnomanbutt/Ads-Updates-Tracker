@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-17T15:36:36.685Z",
+  "updatedAt": "2026-10-17T20:37:27.878Z",
   "model": null,
-  "count": 139,
+  "count": 140,
   "items": [
+    {
+      "id": "ed29fe7f9035cd7c",
+      "title": "Google Ads lets PMax advertisers set Search partner spend to 0%, Marvin says",
+      "link": "https://ppc.land/google-ads-lets-pmax-advertisers-set-search-partner-spend-to-0-marvin-says/",
+      "published": "2026-10-17T19:12:40.000Z",
+      "fetchedAt": "2026-10-17T20:37:27.878Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google Ads lets PMax advertisers set Search partner spend to 0%, Marvin says",
+      "summary": "Channel caps work in the Google Ads API at launch, Ginny Marvin wrote, while the help page says coming soon. Which of Google&#x27;s own answers holds for buyers? Google's Ads Product Liaison, Ginny Marvin, published answers on October 16, 2026, to the questions advertisers have been asking about Google Ads' new channel…",
+      "excerpt": "Channel caps work in the Google Ads API at launch, Ginny Marvin wrote, while the help page says coming soon. Which of Google&#x27;s own answers holds for buyers? Google's Ads Product Liaison, Ginny Marvin, published answers on October 16, 2026, to the questions advertisers have been asking about Google Ads' new channel prioritization and budget allocation controls, and some of those answers do not match Google's own help documentation. Writing in the Ads Decoded newsletter on LinkedIn, Marvin said the controls are supported in the Google Ads API at launch, that they are fully testable with Drafts & Experiments and fully compatible with shared budgets, and that Performance Max advertisers can set Search partner spend to 0%. The same newsletter gives a 5% to 90% ROAS tolerance range for promotion mode, a figure Google had not previously published. Two days after Google added settings that let advertisers rank where their money goes first and cap spending on partner sites, Google's advertiser liaison posted answers to the most common questions about them. Some answers repeat what Google already said, but a few go further than Google's help pages, especially on whether the settings can…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "a87584ff4058838f",
       "title": "Meta grants itself the right to crawl advertisers&#x27; websites for AI",

@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:53:21 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google drops ad vendor it listed since 2020 after 45-device spyware attack</title>
+      <link>https://ppc.land/google-drops-ad-vendor-it-listed-since-2020-after-45-device-spyware-attack/</link>
+      <guid isPermaLink="false">373553903cde872d</guid>
+      <pubDate>Sun, 18 Oct 2026 13:33:55 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Discover-Tech bid on 3.77bn impressions in four months, reaching almost 200,000 apps and sites. The report asks how a spyware partner stayed certified so long. Google and IAB Europe removed Israeli ad company Discover-Tech from their vendor registries in early October 2026, after a Citizen Lab investigation published…</p><p>Source: <a href="https://ppc.land/google-drops-ad-vendor-it-listed-since-2020-after-45-device-spyware-attack/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] WhatsApp loses contempt bid against NSO over 23 alleged spyware accounts</title>
+      <link>https://ppc.land/whatsapp-loses-contempt-bid-against-nso-over-23-alleged-spyware-accounts/</link>
+      <guid isPermaLink="false">b73f0f1b122b7359</guid>
+      <pubDate>Sun, 18 Oct 2026 12:49:36 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta withheld the markers it used to tie NSO to new accounts and malicious links sent in 2026. Can platforms enforce spyware bans without exposing detection? A federal judge in Oakland on October 16, 2026 refused to hold NSO Group in civil contempt of the permanent injunction that bars it from WhatsApp, ruling that a…</p><p>Source: <a href="https://ppc.land/whatsapp-loses-contempt-bid-against-nso-over-23-alleged-spyware-accounts/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google adds refurbished Pixel 9 phones at up to 45% off in the US</title>
       <link>https://ppc.land/google-adds-refurbished-pixel-9-phones-at-up-to-45-off-in-the-us/</link>
@@ -389,22 +405,6 @@
       <pubDate>Sun, 11 Oct 2026 18:20:30 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>YouTube buyers using IAS get exclusions refreshed daily, built on YouTube Data API signals Google does not review. Which platforms follow, and are Shorts in? Integral Ad Science on September 30, 2026 extended its Low-Quality GenAI Avoidance product to YouTube, giving advertisers a way to keep their campaigns away from…</p><p>Source: <a href="https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta blocks new US political ads for 8 days before the midterm vote</title>
-      <link>https://ppc.land/meta-blocks-new-us-political-ads-for-8-days-before-the-midterm-vote/</link>
-      <guid isPermaLink="false">6f3fd906d53f92ff</guid>
-      <pubDate>Sun, 11 Oct 2026 18:14:08 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>Ads must be authorized by October 13 and serve an impression before October 27 to run. What happens to edits, issue ads and the hours after the polls close? Meta Platforms will stop accepting new US ads about social issues, elections or politics from 12:01 AM Pacific Time on Tuesday, October 27, 2026, through 11:59 PM…</p><p>Source: <a href="https://ppc.land/meta-blocks-new-us-political-ads-for-8-days-before-the-midterm-vote/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Search campaigns drop to 41% of Google Ads clicks in Brainlabs data</title>
-      <link>https://ppc.land/search-campaigns-drop-to-41-of-google-ads-clicks-in-brainlabs-data/</link>
-      <guid isPermaLink="false">829a4d9b3749dc44</guid>
-      <pubDate>Sun, 11 Oct 2026 17:58:34 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Organic sessions fell 10.5% across 54 Brainlabs clients and AI visits made up only 5% of the loss. Can paid search price a click whose decision it never saw? Search campaigns took 41% of Google Ads clicks in August 2026 across 31 accounts managed by Brainlabs, down from 62% in January 2024, while their share of spend…</p><p>Source: <a href="https://ppc.land/search-campaigns-drop-to-41-of-google-ads-clicks-in-brainlabs-data/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:45:04 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads Data Manager stops requiring hashed customer data November 16</title>
+      <link>https://ppc.land/google-ads-data-manager-stops-requiring-hashed-customer-data-november-16/</link>
+      <guid isPermaLink="false">b45faad561c8cc07</guid>
+      <pubDate>Sun, 18 Oct 2026 20:41:08 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>SHA-256 hashing gives way to encryption for Customer Match and enhanced conversions uploads. What happens to files that advertisers already hash is not stated. Google is telling advertisers that Google Ads Data Manager will no longer require customer data to be hashed with SHA-256 from November 16, 2026, and will…</p><p>Source: <a href="https://ppc.land/google-ads-data-manager-stops-requiring-hashed-customer-data-november-16/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API v26 adds 15 Search Lift metrics to measure ad-driven searches</title>
+      <link>https://ppc.land/google-ads-api-v26-adds-15-search-lift-metrics-to-measure-ad-driven-searches/</link>
+      <guid isPermaLink="false">9e8e1f09b1bfd931</guid>
+      <pubDate>Sun, 18 Oct 2026 19:39:23 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Local Services Performance Max campaigns can now be built by API, and non-EU campaigns can skip the political ad declaration. What breaks in travel bid code? Google released version 26 of its Ads API on October 14, 2026, adding read access to Search Lift studies, the ability to create Local Services Performance Max…</p><p>Source: <a href="https://ppc.land/google-ads-api-v26-adds-15-search-lift-metrics-to-measure-ad-driven-searches/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google says URL keywords become irrelevant once a page has content</title>
+      <link>https://ppc.land/google-says-url-keywords-become-irrelevant-once-a-page-has-content/</link>
+      <guid isPermaLink="false">74f3d3fcf60e6dff</guid>
+      <pubDate>Sun, 18 Oct 2026 19:35:11 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Emoji are barred from domain names but allowed in URL paths, Gary Illyes and Cherry Prommawin say. Where the video and Google&amp;#x27;s own URL documentation part ways. Google Search Central on October 14, 2026 published the first episode of The Non-Canonical Cabinet, a 12-minute 56-second YouTube video in which Gary…</p><p>Source: <a href="https://ppc.land/google-says-url-keywords-become-irrelevant-once-a-page-has-content/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google spells out what counts as sexually suggestive in Google Ads</title>
+      <link>https://ppc.land/google-spells-out-what-counts-as-sexually-suggestive-in-google-ads/</link>
+      <guid isPermaLink="false">345a81ec8560cdf0</guid>
+      <pubDate>Sun, 18 Oct 2026 19:27:05 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Twerking, fruit used as stand-ins and sexualized kissing sit among restricted examples, as sexual ads stay off YouTube and Display. What did Google change? Google on October 14, 2026 posted a change log entry stating that it had updated the Sexual content policy article in its Advertising Policies Help Center &quot;to…</p><p>Source: <a href="https://ppc.land/google-spells-out-what-counts-as-sexually-suggestive-in-google-ads/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google drops ad vendor it listed since 2020 after 45-device spyware attack</title>
       <link>https://ppc.land/google-drops-ad-vendor-it-listed-since-2020-after-45-device-spyware-attack/</link>
@@ -373,38 +405,6 @@
       <pubDate>Sun, 11 Oct 2026 18:39:16 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Merchants outside Muse&amp;#x27;s three-store web search never get compared, and only Meta catalog items get in-chat checkout. How far back do challenger brands start? Meta's Muse agent is instructed to rank well-known merchants first, cut listings priced outside a category's normal range and check no more than three…</p><p>Source: <a href="https://ppc.land/metas-shopping-agent-must-fill-its-top-5-picks-with-well-known-merchants/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] NIQ&amp;#x27;s Cadence now runs Google&amp;#x27;s open-source ad budget model, Meridian</title>
-      <link>https://ppc.land/niqs-cadence-now-runs-googles-open-source-ad-budget-model-meridian/</link>
-      <guid isPermaLink="false">67ad5bbd70d245c2</guid>
-      <pubDate>Sun, 11 Oct 2026 18:33:07 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>74% of CMOs face more ROI scrutiny but 9% have real-time insight, NIQ says. Launch clients, markets and pricing for the Meridian integration remain undisclosed. NIQ on September 30, 2026 put Meridian, the open-source marketing mix model built by Google, inside NIQ Cadence, the consumer data company's marketing…</p><p>Source: <a href="https://ppc.land/niqs-cadence-now-runs-googles-open-source-ad-budget-model-meridian/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta&amp;#x27;s Muse draws 4 of 6 shopping picks from 2 websites, Profound finds</title>
-      <link>https://ppc.land/metas-muse-draws-4-of-6-shopping-picks-from-2-websites-profound-finds/</link>
-      <guid isPermaLink="false">e69c94f275d8fa53</guid>
-      <pubDate>Sun, 11 Oct 2026 18:29:01 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Catalog of 60 products from 30 merchants yields just 2 of Muse&amp;#x27;s 6 picks in a 50-prompt test. Can retailers even see the agent when it lands on their pages? Meta's Muse shopping agent filled four of its six product recommendations from the live web and just two from Meta's own product catalog, according to…</p><p>Source: <a href="https://ppc.land/metas-muse-draws-4-of-6-shopping-picks-from-2-websites-profound-finds/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta&amp;#x27;s Muse agent gains access to ad accounts and 15 business tools</title>
-      <link>https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/</link>
-      <guid isPermaLink="false">8eb8d798c90a40e1</guid>
-      <pubDate>Sun, 11 Oct 2026 18:25:24 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Small firms in the US and Canada can now link Shopify, QuickBooks and Meta ad accounts to Muse. Nothing spends without sign-off, but what can the agent change? Meta on September 29, 2026 extended Muse, the personal AI agent it released three weeks earlier, into a product for small businesses, adding connectors to 15…</p><p>Source: <a href="https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Brands can block YouTube ads beside AI slop under new IAS tool</title>
-      <link>https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/</link>
-      <guid isPermaLink="false">03029031df2f6ecc</guid>
-      <pubDate>Sun, 11 Oct 2026 18:20:30 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>YouTube buyers using IAS get exclusions refreshed daily, built on YouTube Data API signals Google does not review. Which platforms follow, and are Shorts in? Integral Ad Science on September 30, 2026 extended its Low-Quality GenAI Avoidance product to YouTube, giving advertisers a way to keep their campaigns away from…</p><p>Source: <a href="https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

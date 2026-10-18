@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-17T20:37:27.878Z",
+  "updatedAt": "2026-10-18T04:35:42.943Z",
   "model": null,
-  "count": 140,
+  "count": 141,
   "items": [
+    {
+      "id": "bd133e35471be8b8",
+      "title": "Google adds refurbished Pixel 9 phones at up to 45% off in the US",
+      "link": "https://ppc.land/google-adds-refurbished-pixel-9-phones-at-up-to-45-off-in-the-us/",
+      "published": "2026-10-18T04:24:40.000Z",
+      "fetchedAt": "2026-10-18T04:35:42.943Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "New feature",
+      "impact": "Low",
+      "headline": "Google adds refurbished Pixel 9 phones at up to 45% off in the US",
+      "summary": "Pixel Watch earns a 9 out of 10 iFixit repair score and Japan gets certified refurbished phones. The Oct 15 post omits prices, country lists and repair volumes. Google on October 15, 2026 added the Pixel 9 series to its US certified refurbished lineup at discounts of up to 45%, started selling certified refurbished…",
+      "excerpt": "Pixel Watch earns a 9 out of 10 iFixit repair score and Japan gets certified refurbished phones. The Oct 15 post omits prices, country lists and repair volumes. Google on October 15, 2026 added the Pixel 9 series to its US certified refurbished lineup at discounts of up to 45%, started selling certified refurbished devices through its online store in Japan, and restated a set of repair services for Pixel owners in a post timed to International Repair Day. The post, written by Steven Nickel, Director of Operations, also describes the new Fitbit Edge as the company's first repairable fitness tracker. Google started selling refurbished Pixel 9 phones in the US at up to 45% off and opened a refurbished store in Japan. If you buy Pixel devices or sell against them, older Google phones are now cheaper and easier to fix, which can stretch how long people keep a handset. Google did not publish the actual prices, the list of countries for its repair services or any figures on how many devices get repaired. The post carries the title \"Making your Pixel devices last longer through design, repair, and reuse\" and sits under the Pixel and Sustainability categories of Google's company blog. It is…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "ed29fe7f9035cd7c",
       "title": "Google Ads lets PMax advertisers set Search partner spend to 0%, Marvin says",

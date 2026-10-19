@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:18:05 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads To No Longer Show Featured Professionals, Headshots Are Optional</title>
+      <link>https://www.seroundtable.com/google-ads-featured-professionals-headshots-42325.html</link>
+      <guid isPermaLink="false">3b57f04419392174</guid>
+      <pubDate>Mon, 19 Oct 2026 11:05:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads posted a message to Local Service Ads advertisers saying that featured professionals will no longer show on your ads, and headshots will be optional and won't impact ad serving. Anthony Higman spotted the notice in his Google Ads account and posted a screenshot of this notice on X , it says: Starting in…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-featured-professionals-headshots-42325.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Targeted ads delivered spyware to 45 devices through a vendor Google listed</title>
+      <link>https://ppc.land/targeted-ads-delivered-spyware-to-45-devices-through-a-vendor-google-listed/</link>
+      <guid isPermaLink="false">30420a4320032430</guid>
+      <pubDate>Mon, 19 Oct 2026 04:53:36 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Citizen Lab traced zero-click spyware on 45 Al Jazeera devices to targeted ads from Discover-Tech, a vendor Google had listed since 2020 and has now cut off. Advertising technology was built to put a message in front of one person among millions. On Sunday, a report showed what happens when the message is not an…</p><p>Source: <a href="https://ppc.land/targeted-ads-delivered-spyware-to-45-devices-through-a-vendor-google-listed/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads Data Manager stops requiring hashed customer data November 16</title>
       <link>https://ppc.land/google-ads-data-manager-stops-requiring-hashed-customer-data-november-16/</link>
@@ -389,22 +405,6 @@
       <pubDate>Mon, 12 Oct 2026 06:42:02 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Resellers, booking intermediaries and affiliates are excluded from the October 2026 change. How will Google verify the advertiser-domain link it now demands? Google will allow some advertisers to show a business name in their ads that does not match the domain the ad sends people to, according to a notice posted on…</p><p>Source: <a href="https://ppc.land/google-ads-lets-business-names-differ-from-domains-under-3-conditions/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta&amp;#x27;s Muse agent puts well-known merchants first as it gains ad accounts</title>
-      <link>https://ppc.land/metas-muse-agent-puts-well-known-merchants-first-as-it-gains-ad-accounts/</link>
-      <guid isPermaLink="false">86697a3595ffafcd</guid>
-      <pubDate>Mon, 12 Oct 2026 05:35:33 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta&amp;#x27;s Muse shopping agent must rank well-known merchants first and now reaches ad accounts, as agents, verifiers and footnotes shape the day&amp;#x27;s marketing news. Somewhere inside Meta's new shopping assistant sits a file of instructions, and one word in it says a great deal about where commerce is heading.…</p><p>Source: <a href="https://ppc.land/metas-muse-agent-puts-well-known-merchants-first-as-it-gains-ad-accounts/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta&amp;#x27;s shopping agent must fill its top 5 picks with well-known merchants</title>
-      <link>https://ppc.land/metas-shopping-agent-must-fill-its-top-5-picks-with-well-known-merchants/</link>
-      <guid isPermaLink="false">4a0094ef29a5b27c</guid>
-      <pubDate>Sun, 11 Oct 2026 18:39:16 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Merchants outside Muse&amp;#x27;s three-store web search never get compared, and only Meta catalog items get in-chat checkout. How far back do challenger brands start? Meta's Muse agent is instructed to rank well-known merchants first, cut listings priced outside a category's normal range and check no more than three…</p><p>Source: <a href="https://ppc.land/metas-shopping-agent-must-fill-its-top-5-picks-with-well-known-merchants/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:08:14 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads Expands Financial Services Verification To US &amp; Canada</title>
+      <link>https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html</link>
+      <guid isPermaLink="false">c5aeb621e874372c</guid>
+      <pubDate>Tue, 20 Oct 2026 15:20:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google has announced it is expanding its Google Ads Financial Services Verification requirements to the United States and Canada. Google is working with the American Bankers Association and Canadian Bankers Association for this. Google first started financial services verification in 2022 and then expanded it to Europe…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Expanding our defenses against financial scam ads</title>
+      <link>https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/</link>
+      <guid isPermaLink="false">597f49d1132c1b69</guid>
+      <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Building on safeguards that already cover 2 billion internet users globally, we’re bringing our Financial Services Verification program to the U.S. and Canada in early 2027. VP &amp; General Manager, Ads Privacy and Safety Your browser does not support the audio element. Google is expanding its Financial Services…</p><p>Source: <a href="https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc</title>
+      <link>https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html</link>
+      <guid isPermaLink="false">2373cda3bb08c6e7</guid>
+      <pubDate>Tue, 20 Oct 2026 11:41:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>The Google Ads team posted a new help document that talks about the length of booking bid adjustment in legacy Hotel campaigns versus Search campaigns for travel. Hotel campaigns multiply your base bid by the traveler's itinerary length of stay (LoS) but Search campaigns for travel (SCT) don't. Hotel campaigns multiply…</p><p>Source: <a href="https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Choose an Audience for Each Ad Creative</title>
       <link>https://www.jonloomer.com/choose-an-audience-for-each-ad-creative/</link>
@@ -381,30 +405,6 @@
       <pubDate>Tue, 13 Oct 2026 11:05:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has revamped its Data Strength Best Practices help document with much greater emphasis on sending more first-party data and identifiers, using Data Manager correctly, adopting AI-powered campaigns, and supporting its recommendations with performance statistics. It is a big update to the document. You can compare…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google stops blocking low-quality product images from ads and free listings</title>
-      <link>https://ppc.land/google-stops-blocking-low-quality-product-images-from-ads-and-free-listings/</link>
-      <guid isPermaLink="false">3330ace6cf57b22c</guid>
-      <pubDate>Tue, 13 Oct 2026 00:46:19 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Blurry or pixelated images no longer keep Merchant Center products out of ads or free listings. The 500 x 500 pixel floor still applies from January 31, 2027. Google has rewritten the Merchant Center Help page for the &quot;Low image quality [image_link]&quot; issue so that it no longer warns merchants their products may be kept…</p><p>Source: <a href="https://ppc.land/google-stops-blocking-low-quality-product-images-from-ads-and-free-listings/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads API moves to two releases a month starting with v26</title>
-      <link>https://ppc.land/google-ads-api-moves-to-two-releases-a-month-starting-with-v26/</link>
-      <guid isPermaLink="false">8838e4035ae27682</guid>
-      <pubDate>Tue, 13 Oct 2026 00:40:46 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>API developers get 21 releases in 2027, but only four are breaking majors, each retiring about 13 months after launch. Does the migration workload grow too? Google yesterday said its Ads API will ship two releases a month starting with version 26, doubling the monthly cadence it adopted in January 2026, while keeping…</p><p>Source: <a href="https://ppc.land/google-ads-api-moves-to-two-releases-a-month-starting-with-v26/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta offers updated ad placement control guidance</title>
-      <link>https://www.socialmediatoday.com/news/meta-offers-updated-ad-placement-control-guidance/832791/</link>
-      <guid isPermaLink="false">f969948bb5e386c8</guid>
-      <pubDate>Mon, 12 Oct 2026 20:07:57 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>The revised overview provides options for enabling some level of ongoing control as the company continues to automate its ad display systems. Meta has shared new guidance on how advertisers can maintain ad placement controls as the company continues to update its automated ad and display systems. Over the past few…</p><p>Source: <a href="https://www.socialmediatoday.com/news/meta-offers-updated-ad-placement-control-guidance/832791/">Social Media Today</a></p>]]></description>
     </item>
   </channel>
 </rss>

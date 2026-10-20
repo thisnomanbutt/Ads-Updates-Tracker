@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 04:52:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:38:39 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Choose an Audience for Each Ad Creative</title>
+      <link>https://www.jonloomer.com/choose-an-audience-for-each-ad-creative/</link>
+      <guid isPermaLink="false">01854d61a49c24b7</guid>
+      <pubDate>Tue, 20 Oct 2026 11:30:15 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta is rolling out a feature that allows advertisers to choose an audience for each ad creative. Since there is documentation , I assume it’s an official feature that’s currently rolling out rather than a test. It’s honestly a surprising new option, given that Meta keeps taking away control. But at the same time, it…</p><p>Source: <a href="https://www.jonloomer.com/choose-an-audience-for-each-ad-creative/">Jon Loomer Digital</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta&amp;#x27;s per-creative audiences force ad sets to stay open to all genders</title>
       <link>https://ppc.land/metas-per-creative-audiences-force-ad-sets-to-stay-open-to-all-genders/</link>
@@ -397,14 +405,6 @@
       <pubDate>Mon, 12 Oct 2026 20:07:57 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>The revised overview provides options for enabling some level of ongoing control as the company continues to automate its ad display systems. Meta has shared new guidance on how advertisers can maintain ad placement controls as the company continues to update its automated ad and display systems. Over the past few…</p><p>Source: <a href="https://www.socialmediatoday.com/news/meta-offers-updated-ad-placement-control-guidance/832791/">Social Media Today</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] LSArespond tops 2,000 users as Google moves Local Services Ads into PMax</title>
-      <link>https://ppc.land/lsarespond-tops-2-000-users-as-google-moves-local-services-ads-into-pmax/</link>
-      <guid isPermaLink="false">2da2eca114f9ce19</guid>
-      <pubDate>Mon, 12 Oct 2026 17:39:34 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Over 115,000 Local Services Ads leads ran through the tool in August 2026, by its count, while missed calls became billable on October 1. What does it automate? LSArespond, a New York-based software company that automates the handling of Google Local Services Ads leads, said on October 11, 2026 that it had passed 2,000…</p><p>Source: <a href="https://ppc.land/lsarespond-tops-2-000-users-as-google-moves-local-services-ads-into-pmax/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

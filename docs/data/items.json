@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-20T04:52:12.968Z",
+  "updatedAt": "2026-10-20T11:38:39.715Z",
   "model": null,
-  "count": 153,
+  "count": 154,
   "items": [
+    {
+      "id": "01854d61a49c24b7",
+      "title": "Choose an Audience for Each Ad Creative",
+      "link": "https://www.jonloomer.com/choose-an-audience-for-each-ad-creative/",
+      "published": "2026-10-20T11:30:15.000Z",
+      "fetchedAt": "2026-10-20T11:38:39.715Z",
+      "sourceId": "jon-loomer",
+      "sourceName": "Jon Loomer Digital",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Choose an Audience for Each Ad Creative",
+      "summary": "Meta is rolling out a feature that allows advertisers to choose an audience for each ad creative. Since there is documentation , I assume it’s an official feature that’s currently rolling out rather than a test. It’s honestly a surprising new option, given that Meta keeps taking away control. But at the same time, it…",
+      "excerpt": "Meta is rolling out a feature that allows advertisers to choose an audience for each ad creative. Since there is documentation , I assume it’s an official feature that’s currently rolling out rather than a test. It’s honestly a surprising new option, given that Meta keeps taking away control. But at the same time, it could be a good alternative to creating separate ad sets for different age groups, assuming that’s what you’re doing now. Let’s take a closer look… Requirements As far as I can tell, there are no requirements by campaign objective. And every performance goal I tried offered this option as well. There was one minor variation for Sales campaigns, where it’s on by default when you’ve chosen to further limit the reach of your ads (it’s otherwise off by default for other objectives). It’s also available whether you’re using the new creative workflow (also known as multimedia experience) or the original single media experience. It’s a bit different depending on your setup, so I’ll show examples in this post. If you follow my instructions and still don’t see it, you just don’t have it yet. Sorry. Toggle It On Within the ad set, scroll down to the Audiences section. Click to…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": true,
+      "aiSummary": false
+    },
     {
       "id": "02d7cc1db90e557b",
       "title": "Meta&#x27;s per-creative audiences force ad sets to stay open to all genders",

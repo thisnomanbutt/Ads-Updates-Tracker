@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:49:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:50:32 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting</title>
+      <link>https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/</link>
+      <guid isPermaLink="false">726b3fec6732e897</guid>
+      <pubDate>Wed, 21 Oct 2026 05:47:57 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Decisions dated September 24, 2026 cover 2021 Facebook ads aimed at voters&amp;#x27; political interests. AfD&amp;#x27;s case is still open. Will parties now drop the practice? Berlin's data protection authority has found that four of Germany's largest political parties - the CDU, the SPD, Bündnis 90/Die Grünen and Die Linke -…</p><p>Source: <a href="https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads Expands Financial Services Verification To US &amp; Canada</title>
       <link>https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html</link>
@@ -397,14 +405,6 @@
       <pubDate>Tue, 13 Oct 2026 11:21:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>There are reports of an error in Google Merchant Center with video uploads getting stuck in the &quot;preview processing&quot; status. This causes the videos to look static both in your product listings in Google Search and other surfaces. This was first spotted by Joey Bidner and then Emmanuel Flossie posted about it on his…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Data Strength Best Practices Updated</title>
-      <link>https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html</link>
-      <guid isPermaLink="false">b50aecaea10bfb00</guid>
-      <pubDate>Tue, 13 Oct 2026 11:05:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has revamped its Data Strength Best Practices help document with much greater emphasis on sending more first-party data and identifiers, using Data Manager correctly, adopting AI-powered campaigns, and supporting its recommendations with performance statistics. It is a big update to the document. You can compare…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

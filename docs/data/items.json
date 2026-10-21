@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-21T04:49:38.914Z",
+  "updatedAt": "2026-10-21T11:50:32.193Z",
   "model": null,
-  "count": 157,
+  "count": 158,
   "items": [
+    {
+      "id": "726b3fec6732e897",
+      "title": "Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting",
+      "link": "https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/",
+      "published": "2026-10-21T05:47:57.000Z",
+      "fetchedAt": "2026-10-21T11:50:32.193Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting",
+      "summary": "Decisions dated September 24, 2026 cover 2021 Facebook ads aimed at voters&#x27; political interests. AfD&#x27;s case is still open. Will parties now drop the practice? Berlin's data protection authority has found that four of Germany's largest political parties - the CDU, the SPD, Bündnis 90/Die Grünen and Die Linke -…",
+      "excerpt": "Decisions dated September 24, 2026 cover 2021 Facebook ads aimed at voters&#x27; political interests. AfD&#x27;s case is still open. Will parties now drop the practice? Berlin's data protection authority has found that four of Germany's largest political parties - the CDU, the SPD, Bündnis 90/Die Grünen and Die Linke - processed personal data unlawfully when they used Facebook to aim ads at voters based on their political interests during the 2021 Bundestag campaign. The privacy group noyb, which filed the complaints in March 2023, made the decisions public today. The letters are dated September 24, 2026, five years to the day after the satirical late-night show ZDF Magazin Royale broadcast the investigation that set the cases in motion. A sixth complaint, against the far-right AfD, is still pending after the party lost a court fight over the regulator's investigative powers. Four big German parties showed Facebook ads to people because Facebook had guessed what they thought about politics, and a Berlin privacy regulator has now said that broke Europe's data protection law. It matters because political opinions are among the most protected kinds of personal data in the EU, and the…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "c5aeb621e874372c",
       "title": "Google Ads Expands Financial Services Verification To US & Canada",

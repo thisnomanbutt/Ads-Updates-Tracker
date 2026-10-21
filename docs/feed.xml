@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:50:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:13:46 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] New bidding and budgeting tools can transform your upcoming holiday ad strategy.</title>
+      <link>https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</link>
+      <guid isPermaLink="false">602f4c9b2670508b</guid>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>In the latest episode of Ads Decoded, Google Ads Product Liaison Ginny Marvin and Ads Product Director Tal Akabas share actionable insights on the latest bidding and budgeting tools. They also discuss game-changing holiday strategies — including demand-led budgeting and promotion mode — while busting myths around…</p><p>Source: <a href="https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads New: Save &amp; Test Asset Group Changes</title>
+      <link>https://www.seroundtable.com/google-ads-save-test-asset-group-changes-42336.html</link>
+      <guid isPermaLink="false">877c95210f4249fb</guid>
+      <pubDate>Wed, 21 Oct 2026 11:41:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads is possibly rolling out a new asset group A/B test toggle named &quot;Save and test asset group changes.&quot; This lets you measure the impact of changing headlines, descriptions, images and videos. The setting reads, &quot;Measure the performance impact of changes to your headlines, descriptions, images and videos. You…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-save-test-asset-group-changes-42336.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Updates Smart Bidding Learning Doc With 7-Day Limit &amp; Best Practices</title>
+      <link>https://www.seroundtable.com/google-ads-updates-smart-bidding-learning-doc-42345.html</link>
+      <guid isPermaLink="false">7d8f38c23150613d</guid>
+      <pubDate>Wed, 21 Oct 2026 11:31:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads has updated the old &quot; Duration of the learning period for campaigns and what affects it &quot; to be renamed to &quot; About Smart Bidding learning .&quot; This is a major help document rewrite, not just a headline change. It mentions a new seven-day limit, a different explanation of what triggers and does not trigger…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-updates-smart-bidding-learning-doc-42345.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Merchant Center Specifies Fast Shipping Days By Country</title>
+      <link>https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html</link>
+      <guid isPermaLink="false">a6dc371ec676b5d6</guid>
+      <pubDate>Wed, 21 Oct 2026 11:21:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has updated its about fast shipping in Merchant Center help document to detail the days Google expects for you to qualify for fast shipping in Merchant Center. This is specific for listings in the AU, CA, IN, JP, GB, US. This was first spotted by Hana Kobzová who wrote on PPC News Feed , &quot;Google Merchant…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting</title>
       <link>https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/</link>
@@ -373,38 +405,6 @@
       <pubDate>Wed, 14 Oct 2026 04:21:11 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Click-through rates rose 12% as Meta folded ad prediction for every surface into one model trained on thousands of GPUs. What can advertisers actually check? Meta yesterday published a technical account of the 2026 generation of its Generative Ads Model, known as GEM, claiming the system delivered an 18.9% conversion…</p><p>Source: <a href="https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google claims 20% Demand Gen conversion uplift from tag gateway setups</title>
-      <link>https://ppc.land/google-claims-20-demand-gen-conversion-uplift-from-tag-gateway-setups/</link>
-      <guid isPermaLink="false">731fab891944f22c</guid>
-      <pubDate>Tue, 13 Oct 2026 20:45:28 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Insurer The Zebra logged 16% more conversions in Google&amp;#x27;s October Demand Gen Drop. Enhanced conversions for DV360 and Analytics are now listed as coming soon. Google today published the October edition of its monthly Demand Gen Drop, a short update built almost entirely around first-party data rather than new ad…</p><p>Source: <a href="https://ppc.land/google-claims-20-demand-gen-conversion-uplift-from-tag-gateway-setups/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Build your data strength with October’s Demand Gen drop.</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/</link>
-      <guid isPermaLink="false">f22ea74c31f40a40</guid>
-      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Demand Gen is only as powerful as the quality of the data fueling it, helping you improve your measurement and ROI. Based on an internal analysis, advertisers who build their data strength with Google Tag Gateway see, on average, over 20% conversion uplift in Demand Gen campaigns. 1 Build your data strength with the…</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Adds Automatic Customer Exclusions</title>
-      <link>https://www.jonloomer.com/meta-automatic-customer-exclusions/</link>
-      <guid isPermaLink="false">aac67c62c5895179</guid>
-      <pubDate>Tue, 13 Oct 2026 11:30:25 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>Meta is making a change to Customer Lifecycle Strategy that has the potential to make the feature infinitely more useful. While I do think it could use some additional tweaks, it’s a great step in the right direction. If you’re not familiar with Customer Lifecycle Strategy, it’s the new dropdown menu at the top of ad…</p><p>Source: <a href="https://www.jonloomer.com/meta-automatic-customer-exclusions/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Merchant Center Videos Stuck In Preview Processing</title>
-      <link>https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html</link>
-      <guid isPermaLink="false">950b1f9a64b99839</guid>
-      <pubDate>Tue, 13 Oct 2026 11:21:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>There are reports of an error in Google Merchant Center with video uploads getting stuck in the &quot;preview processing&quot; status. This causes the videos to look static both in your product listings in Google Search and other surfaces. This was first spotted by Joey Bidner and then Emmanuel Flossie posted about it on his…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

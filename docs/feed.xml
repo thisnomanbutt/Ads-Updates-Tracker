@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:43:38 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google forces US and Canadian financial advertisers to prove licences in 2027</title>
+      <link>https://ppc.land/google-forces-us-and-canadian-financial-advertisers-to-prove-licences-in-2027/</link>
+      <guid isPermaLink="false">73b1ad193625753a</guid>
+      <pubDate>Wed, 21 Oct 2026 21:14:20 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Banks in the US face an American Bankers Association registry check before ads run. Google gave no start date, deadline or penalty yet - what is known so far? Google said on October 20, 2026 that it will extend its Financial Services Verification program to the United States and Canada in early 2027, requiring…</p><p>Source: <a href="https://ppc.land/google-forces-us-and-canadian-financial-advertisers-to-prove-licences-in-2027/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta case study credits Nest&amp;#x27;s AI ads with 20% higher conversion rates</title>
+      <link>https://ppc.land/meta-case-study-credits-nests-ai-ads-with-20-higher-conversion-rates/</link>
+      <guid isPermaLink="false">034777ced61a2efa</guid>
+      <pubDate>Wed, 21 Oct 2026 18:57:02 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Seven UK brands put 68% of Meta spend into video, against a 38% benchmark. The page gives no period or baseline, so how much the AI tool added remains unclear. Meta has published a case study on its Meta for Business site in which Nest Commerce, a UK performance agency, says ads made with its own AI tool, Nest AI…</p><p>Source: <a href="https://ppc.land/meta-case-study-credits-nests-ai-ads-with-20-higher-conversion-rates/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/10/upcoming-changes-to-image-extraction-in.html</link>
+      <guid isPermaLink="false">8de7a11a972b7533</guid>
+      <pubDate>Wed, 21 Oct 2026 17:04:53 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Starting December 4, 2026 , image extraction ( GENERATE_IMAGE_EXTRACTION ) will be enabled by default ( OPTED_IN ) for newly created Performance Max campaigns across Google Ads interfaces, including the the Google Ads API , Google Ads UI, and Google Ads Editor. Crucially, this new campaign-level default applies even if…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/10/upcoming-changes-to-image-extraction-in.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] New bidding and budgeting tools can transform your upcoming holiday ad strategy.</title>
       <link>https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</link>
@@ -381,30 +405,6 @@
       <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads is rolling out two new &quot;controls&quot; in the advertising platform named channel prioritization and budget allocation. These are rolling out globally across Google Search, Google Shopping, Performance Max, and soon Demand Gen. We saw an alpha release of this back in August but now Google is rolling this out to…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Search Terms &amp; Ad Combinations As One Report</title>
-      <link>https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html</link>
-      <guid isPermaLink="false">c147000d57f85bf0</guid>
-      <pubDate>Wed, 14 Oct 2026 11:51:00 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads seems to be testing a new report named the Search terms and ad combinations report. This report shows how search queries, ad creatives, and landing pages work together. This new report was spotted by Natasha Kaurra who posted a screenshot and more details on LinkedIn - she said, &quot;For the first time, Im…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Policies Adds Prediction Markets Section</title>
-      <link>https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html</link>
-      <guid isPermaLink="false">4cfcad1318c52fa0</guid>
-      <pubDate>Wed, 14 Oct 2026 11:11:00 GMT</pubDate>
-      <category>Policy or compliance</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google added a section for prediction markets to the main Google Ads policies documentation last week. Google has posted updates and policies on advertising for prediction markets on Google Ads numerous times before , but now it has been added to the main policy document. Due to the inherent complexities, speculative…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta says its GEM ads model lifted conversions 18.9% across its apps</title>
-      <link>https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/</link>
-      <guid isPermaLink="false">3bd511688868011a</guid>
-      <pubDate>Wed, 14 Oct 2026 04:21:11 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Click-through rates rose 12% as Meta folded ad prediction for every surface into one model trained on thousands of GPUs. What can advertisers actually check? Meta yesterday published a technical account of the 2026 generation of its Generative Ads Model, known as GEM, claiming the system delivered an 18.9% conversion…</p><p>Source: <a href="https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

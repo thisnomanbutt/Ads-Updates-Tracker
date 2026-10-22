@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:36:53 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Meta&amp;#x27;s AI rewrites the ads. From October 30, advertisers carry the risk</title>
+      <link>https://ppc.land/metas-ai-rewrites-the-ads-from-october-30-advertisers-carry-the-risk/</link>
+      <guid isPermaLink="false">4d52c0a795b6b76f</guid>
+      <pubDate>Thu, 22 Oct 2026 19:37:49 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta&amp;#x27;s October 30 terms make advertisers solely responsible for its AI ad edits and let it crawl their sites, in a week of 26% ad growth and a $25bn court fine. Bookshop.org, the online bookseller, found that one of its Meta ads contained an illustration nobody at the company had made. An account update had opted…</p><p>Source: <a href="https://ppc.land/metas-ai-rewrites-the-ads-from-october-30-advertisers-carry-the-risk/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Announcing beta launch of Display &amp; Video 360 API v5</title>
+      <link>http://ads-developers.googleblog.com/2026/10/announcing-beta-launch-of-display-video.html</link>
+      <guid isPermaLink="false">6b1fa103c2c68b78</guid>
+      <pubDate>Thu, 22 Oct 2026 18:43:54 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>We’re pleased to announce that Display &amp; Video 360 API v5 is available in public beta starting today. Here is a subset of changes introduced in v5: Full management of advertiser-level YouTube video and channel exclusion targeting. Support for Digital Out of Home InsertionOrder resources. Updated Inventory Source…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/10/announcing-beta-launch-of-display-video.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] LinkedIn job-title targeting reaches Google DV360 CTV buys in the US</title>
+      <link>https://ppc.land/linkedin-job-title-targeting-reaches-google-dv360-ctv-buys-in-the-us/</link>
+      <guid isPermaLink="false">adae36d986152666</guid>
+      <pubDate>Thu, 22 Oct 2026 18:03:58 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>DV360 buyers can now apply LinkedIn job title, industry and seniority data to US streaming TV via Microsoft Monetize. What carries over from the DSP routes? LinkedIn today made its Connected TV advertising product available for programmatic purchase through Google's Display &amp; Video 360, letting buyers inside Google's…</p><p>Source: <a href="https://ppc.land/linkedin-job-title-targeting-reaches-google-dv360-ctv-buys-in-the-us/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta makes advertisers solely responsible for its AI ad edits from Oct 30</title>
+      <link>https://ppc.land/meta-makes-advertisers-solely-responsible-for-its-ai-ad-edits-from-oct-30/</link>
+      <guid isPermaLink="false">e045ef729fe407f5</guid>
+      <pubDate>Thu, 22 Oct 2026 17:46:02 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Agencies say Advantage+ adds sitelinks, translations and AI images to ads they never opted in. Exverus pulled live ads. Who pays when Meta&amp;#x27;s own tools err? Advertisers on Facebook and Instagram will be &quot;solely responsible&quot; for whatever Meta's artificial intelligence features create or change in their ads,…</p><p>Source: <a href="https://ppc.land/meta-makes-advertisers-solely-responsible-for-its-ai-ad-edits-from-oct-30/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google still blocks Russia-based advertisers, a pause dating to March 2022</title>
       <link>https://ppc.land/google-still-blocks-russia-based-advertisers-a-pause-dating-to-march-2022/</link>
@@ -373,38 +405,6 @@
       <pubDate>Fri, 16 Oct 2026 11:11:00 GMT</pubDate>
       <category>API or developer</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google Ads is planning on pushing twice as many Google Ads API updates for the remainder of this year and into 2027 compared to its previous schedule . Last year, Google said it would release an Ads API update monthly and now Google is switching that to two updates per month. Google wrote , &quot;Last year, we shifted to a…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta will turn on product browsing in existing ads on October 28</title>
-      <link>https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/</link>
-      <guid isPermaLink="false">27650544c3ccee5b</guid>
-      <pubDate>Thu, 15 Oct 2026 20:11:03 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Taps on running Facebook and Instagram ads may open in-app product pages, backed by Meta&amp;#x27;s own test of 117,700 advertisers. What does its 3% figure leave out? Meta has notified advertisers that, starting October 28, 2026, it will add product browsing to ads that are already running on Facebook and Instagram,…</p><p>Source: <a href="https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta offers enhanced ad campaign exposure</title>
-      <link>https://www.socialmediatoday.com/news/meta-offers-enhanced-ad-campaign-exposure/833171/</link>
-      <guid isPermaLink="false">23014f3c5af616ed</guid>
-      <pubDate>Thu, 15 Oct 2026 19:34:30 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>At its brand building summit the company announced a trio of ad updates, which included a new First Impressions option and expanded Reels services. Meta announced three ad updates at its brand building summit on Oct. 15, including Ads Super Burst, which is designed to maximize campaign awareness. In addition, the…</p><p>Source: <a href="https://www.socialmediatoday.com/news/meta-offers-enhanced-ad-campaign-exposure/833171/">Social Media Today</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta named a future that never came. Amazon Ads Agent names one that exists</title>
-      <link>https://ppc.land/meta-named-a-future-that-never-came-amazon-ads-agent-names-one-that-exists/</link>
-      <guid isPermaLink="false">642e11b61e402c90</guid>
-      <pubDate>Thu, 15 Oct 2026 19:20:10 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Facebook&amp;#x27;s 2021 rename to Meta backed a metaverse that lost over $70bn. Amazon&amp;#x27;s Ads Agent rename backs software already live, so the real test is its fees. On October 28, 2021, at the end of a keynote that ran for more than an hour, Mark Zuckerberg told the audience at Facebook's Connect conference that the…</p><p>Source: <a href="https://ppc.land/meta-named-a-future-that-never-came-amazon-ads-agent-names-one-that-exists/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Data-backed secrets to smarter holiday shopping</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/</link>
-      <guid isPermaLink="false">bdcbe3798d9b5c20</guid>
-      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak. Learn the best times to buy fragrances, handbags, luggage, tech toys, and more so you can shop smarter this season. Your browser does not support the audio element. Use our new &quot;When to Buy Guide&quot; to time your holiday…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,47 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:54:10 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads Customer Lifecycle Goals: Value Mode, Retention Goals &amp; Percentage Multipliers</title>
+      <link>https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html</link>
+      <guid isPermaLink="false">3a4847733389bcd9</guid>
+      <pubDate>Thu, 22 Oct 2026 11:30:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is rolling out three updates to customer lifecycle goals to help advertisers before the holidays. These three updates include (1) expanding high value mode to Shopping Campaigns, (2) expanding customer retention goals and (3) new percentage multipliers. Google said these will help with your engagement…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta Ads Manager gains 7 product-level metrics for catalog campaigns</title>
+      <link>https://ppc.land/meta-ads-manager-gains-7-product-level-metrics-for-catalog-campaigns/</link>
+      <guid isPermaLink="false">f3f9db8d076af49c</guid>
+      <pubDate>Thu, 22 Oct 2026 11:13:23 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Spend, clicks, views and attributed orders per product appear in catalog campaign charts, per a LinkedIn post. Meta has yet to document how they are counted. Advertisers running product catalog campaigns on Facebook and Instagram can now open a &quot;Top products in your campaign&quot; panel inside Ads Manager's performance…</p><p>Source: <a href="https://ppc.land/meta-ads-manager-gains-7-product-level-metrics-for-catalog-campaigns/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Sponsored Products Expand To Include Product Attributes</title>
+      <link>https://www.seroundtable.com/google-ads-product-attributes-42354.html</link>
+      <guid isPermaLink="false">982248fda8f3ada8</guid>
+      <pubDate>Thu, 22 Oct 2026 11:11:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads is testing showing Sponsored Products results that dynamically expand to show product attributes at the bottom of the ad units in a gray background color. This is interesting because I am not sure if we have seen (1) product attributes in Sponsored Products and (2) if so, that they expand dynamically to add…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-product-attributes-42354.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Pauses Ads For Russian Advertisers &amp; Serving Ads To Russians</title>
+      <link>https://www.seroundtable.com/google-ads-russia-ukraine-42357.html</link>
+      <guid isPermaLink="false">800d95e8cd9f8ea1</guid>
+      <pubDate>Thu, 22 Oct 2026 11:05:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Back in 2022, Google paused showing ads to users in Russia . That still seems to be active, but Google just posted a new message in the Google Ads and Merchant Center help documentation that it has &quot;also paused ads on Google properties and networks globally for advertisers based in Russia.&quot; Many of the Google help…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-russia-ukraine-42357.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google AI Overviews now hit 88% of tracked commercial keywords, Semrush finds</title>
+      <link>https://ppc.land/google-ai-overviews-now-hit-88-of-tracked-commercial-keywords-semrush-finds/</link>
+      <guid isPermaLink="false">c4fc731c011da650</guid>
+      <pubDate>Thu, 22 Oct 2026 10:15:56 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Review keywords triggering an AI Overview jumped from 30.14% to 89.04% in 12 months. Comparison pages now share answers with Zapier, YouTube and review sites. Semrush published a 12-month study on October 21, 2026 tracking 400 US commercial keywords. Google showed an AI Overview for 88% of them in August 2026, up from…</p><p>Source: <a href="https://ppc.land/google-ai-overviews-now-hit-88-of-tracked-commercial-keywords-semrush-finds/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta&amp;#x27;s ads with creators gain 97% to a $15bn annual run rate</title>
       <link>https://ppc.land/metas-ads-with-creators-gain-97-to-a-15bn-annual-run-rate/</link>
@@ -365,46 +405,6 @@
       <pubDate>Thu, 15 Oct 2026 11:21:00 GMT</pubDate>
       <category>Policy or compliance</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google Ads has updated the sexual content policies to &quot;provide additional examples and clearer information to advertisers,&quot; the company wrote . The main section that was updated was the &quot;Sexually suggestive elements and themes&quot; section. The Sexually suggestive elements and themes section breaks down the non-graphic…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads lets advertisers cap Display spend, on a best-effort basis</title>
-      <link>https://ppc.land/google-ads-lets-advertisers-cap-display-spend-on-a-best-effort-basis/</link>
-      <guid isPermaLink="false">3b5c43c229d5c3ab</guid>
-      <pubDate>Thu, 15 Oct 2026 05:54:54 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads now lets advertisers rank channels and cap Display and partner spend by percentage, as 40 attorneys general set terms for Character.ai&amp;#x27;s user data. For more than a decade, an advertiser running a Search campaign in Google Ads has faced an awkward binary over where the money goes. Search partners and the…</p><p>Source: <a href="https://ppc.land/google-ads-lets-advertisers-cap-display-spend-on-a-best-effort-basis/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance</title>
-      <link>https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/</link>
-      <guid isPermaLink="false">d7f4f48324ba7415</guid>
-      <pubDate>Thu, 15 Oct 2026 00:50:50 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Medium</p><p>Today, we’re releasing findings from a new YouGov study we commissioned of almost 4,000 small business owners across nine APAC markets: Australia, Singapore, Vietnam, Indonesia, Taiwan, India, Thailand, Japan and Hong Kong, on how AI is helping them grow, compete with larger businesses and reach customers beyond their…</p><p>Source: <a href="https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/">Meta Newsroom</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing v26 of the Google Ads API</title>
-      <link>http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html</link>
-      <guid isPermaLink="false">10b66c10aeb3a485</guid>
-      <pubDate>Wed, 14 Oct 2026 22:51:56 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live walkthrough of this release in our &quot;Google Ads API Release Highlights&quot; event on…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads lets advertisers limit Display and partner spend by percentage</title>
-      <link>https://ppc.land/google-ads-lets-advertisers-limit-display-and-partner-spend-by-percentage/</link>
-      <guid isPermaLink="false">0ca2dcb70ead1f00</guid>
-      <pubDate>Wed, 14 Oct 2026 17:43:12 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Low priority channels get a daily cap set as a share of average budget, from October 15. Display Expansion on Search ends in February 2027. What will it shift? Google today added two optional budget controls to Google Ads that let advertisers rank channels as &quot;High priority&quot; or &quot;Low priority&quot; and put a daily percentage…</p><p>Source: <a href="https://ppc.land/google-ads-lets-advertisers-limit-display-and-partner-spend-by-percentage/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Guide your campaign spending with new priority and allocation features</title>
-      <link>https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/</link>
-      <guid isPermaLink="false">b725ab68d122a8cd</guid>
-      <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Say goodbye to all-or-nothing channel targeting. You can now categorize ad networks by priority and allocate budget to secondary channels to test them safely. Director of Product Management, Google Ads Your browser does not support the audio element. Google Ads is rolling out new channel prioritization and budget…</p><p>Source: <a href="https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

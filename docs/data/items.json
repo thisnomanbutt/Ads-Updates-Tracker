@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-21T21:43:38.554Z",
+  "updatedAt": "2026-10-22T04:48:16.827Z",
   "model": null,
-  "count": 165,
+  "count": 166,
   "items": [
+    {
+      "id": "7936335be6c75223",
+      "title": "Meta&#x27;s ads with creators gain 97% to a $15bn annual run rate",
+      "link": "https://ppc.land/metas-ads-with-creators-gain-97-to-a-15bn-annual-run-rate/",
+      "published": "2026-10-21T21:59:00.000Z",
+      "fetchedAt": "2026-10-22T04:48:16.827Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Meta&#x27;s ads with creators gain 97% to a $15bn annual run rate",
+      "summary": "Nearly 10 million advertisers used Meta&#x27;s AI creative tools in Q3. Muse, set up by 10 million people, will charge businesses fees on sales. How will it work? Meta's partnership ads, in which advertisers run ads with creators, brands and other businesses, grew more than 97% year over year and passed $15 billion in…",
+      "excerpt": "Nearly 10 million advertisers used Meta&#x27;s AI creative tools in Q3. Muse, set up by 10 million people, will charge businesses fees on sales. How will it work? Meta's partnership ads, in which advertisers run ads with creators, brands and other businesses, grew more than 97% year over year and passed $15 billion in annual revenue run rate, chief financial officer Susan Li told analysts today on the company's third-quarter 2026 earnings call. The call added figures that Meta's press release and presentation left out: nearly 10 million advertisers used at least one generative AI creative tool in the quarter, more than 10 million people in the US and Canada have set up Muse personal agents, and Meta intends to charge businesses a fee on transactions that Muse helps complete. Meta's bosses spent an hour after the results explaining where the money came from and where it is going. They said ads made with creators have become a $15 billion-a-year business and that almost 10 million advertisers now use Meta's AI tools to make ads, while the new Muse assistant is being set up by millions of people who use it mostly to shop. Meta plans to make money from Muse by charging businesses a cut…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "73b1ad193625753a",
       "title": "Google forces US and Canadian financial advertisers to prove licences in 2027",

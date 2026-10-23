@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-23T17:08:17.016Z",
+  "updatedAt": "2026-10-23T21:25:16.980Z",
   "model": null,
-  "count": 182,
+  "count": 183,
   "items": [
+    {
+      "id": "191f844305602b91",
+      "title": "Google lets connected Gmail and Photos data shape ads, 5 years after pledge",
+      "link": "https://ppc.land/google-lets-connected-gmail-and-photos-data-shape-ads-5-years-after-pledge/",
+      "published": "2026-10-23T20:06:07.000Z",
+      "fetchedAt": "2026-10-23T21:25:16.980Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google lets connected Gmail and Photos data shape ads, 5 years after pledge",
+      "summary": "Policy dated October 16 adds an exception to a July 2021 promise for users linking apps to Search or Gemini. Advertisers get no inbox access. What else changed? Google's privacy policy now says it may personalize ads using data from Gmail, Drive and Google Photos for people who allow Search or Gemini Apps to read those…",
+      "excerpt": "Policy dated October 16 adds an exception to a July 2021 promise for users linking apps to Search or Gemini. Advertisers get no inbox access. What else changed? Google's privacy policy now says it may personalize ads using data from Gmail, Drive and Google Photos for people who allow Search or Gemini Apps to read those services - an exception written into a promise the company had kept in identical wording since July 1, 2021. The revised policy carries an effective date of October 16, 2026, fifteen days after the previous version, and The Verge today reported that the change ties the company's ad systems to Personal Intelligence, the opt-in feature that lets AI Mode and other Google tools draw on a user's own emails, photos and files. A line-by-line comparison of the October 16 text against the 54 earlier versions in Google's privacy policy archive , which runs back to June 9, 1999, shows that the new wording rewrites three sentences in the policy's advertising section and adds a new explanatory note. None of the earlier versions contained an equivalent carve-out. Google used to promise, in its privacy policy, that it would never pick ads for people based on what was inside their…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "30c54cb9509057ed",
       "title": "Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads & More",

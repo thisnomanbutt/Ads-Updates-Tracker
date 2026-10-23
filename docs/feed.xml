@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:25:17 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google lets connected Gmail and Photos data shape ads, 5 years after pledge</title>
+      <link>https://ppc.land/google-lets-connected-gmail-and-photos-data-shape-ads-5-years-after-pledge/</link>
+      <guid isPermaLink="false">191f844305602b91</guid>
+      <pubDate>Fri, 23 Oct 2026 20:06:07 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Policy dated October 16 adds an exception to a July 2021 promise for users linking apps to Search or Gemini. Advertisers get no inbox access. What else changed? Google's privacy policy now says it may personalize ads using data from Gmail, Drive and Google Photos for people who allow Search or Gemini Apps to read those…</p><p>Source: <a href="https://ppc.land/google-lets-connected-gmail-and-photos-data-shape-ads-5-years-after-pledge/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More</title>
       <link>https://www.seroundtable.com/video-10-23-2026-42362.html</link>
@@ -397,14 +405,6 @@
       <pubDate>Fri, 16 Oct 2026 17:08:35 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Ads Super Burst test flights reached a median 34 million people, Meta says, about 14% of US adults online. The research behind those lift claims is unpublished. Meta Platforms on October 15, 2026 moved Ads Super Burst toward general availability, a reservation product that lets an advertiser book a window of 3 to 24…</p><p>Source: <a href="https://ppc.land/meta-sells-brands-3-to-24-hour-ad-windows-that-shut-out-category-rivals/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO</title>
-      <link>https://www.seroundtable.com/video-09-16-2026-42313.html</link>
-      <guid isPermaLink="false">8aca0ee1c6916a95</guid>
-      <pubDate>Fri, 16 Oct 2026 12:01:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>For the original iTunes version, click here . Google seems to be poisoning the third-party tracking tools with fake data and paywalls; this is wreaking havoc on keyword tracking. Google launched Gemini 4 Argon and it is in AI Mode. Google made several updates to links in AI Mode and AI Overviews, but it won’t matter.…</p><p>Source: <a href="https://www.seroundtable.com/video-09-16-2026-42313.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-24T15:57:39.291Z",
+  "updatedAt": "2026-10-24T20:51:05.066Z",
   "model": null,
-  "count": 184,
+  "count": 185,
   "items": [
+    {
+      "id": "055039b171747cbd",
+      "title": "CleanYourTV gains 30,900 GitHub stars by removing Google TV home screen ads",
+      "link": "https://ppc.land/cleanyourtv-gains-30-900-github-stars-by-removing-google-tv-home-screen-ads/",
+      "published": "2026-10-24T17:35:36.000Z",
+      "fetchedAt": "2026-10-24T20:51:05.066Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Deprecation or removal",
+      "impact": "Low",
+      "headline": "CleanYourTV gains 30,900 GitHub stars by removing Google TV home screen ads",
+      "summary": "Lists for 260 TV models from 77 brands name the ad and telemetry packages to switch off. What does that leave for the sellers of smart TV home screen inventory? A post by an individual developer, Gathin, about cleaning up their parents' television on October 17, 2026, has turned into an open-source project that, by…",
+      "excerpt": "Lists for 260 TV models from 77 brands name the ad and telemetry packages to switch off. What does that leave for the sellers of smart TV home screen inventory? A post by an individual developer, Gathin, about cleaning up their parents' television on October 17, 2026, has turned into an open-source project that, by October 24, carried 30,900 stars on GitHub, 3,600 forks and tested configuration lists for 260 TV models, according to the project's repository. The tool, called CleanYourTV , uses an AI coding assistant to switch off a television's ad services, sponsored content rows and telemetry over the home Wi-Fi network, then installs a minimal home screen in place of the manufacturer's launcher. A developer used an AI coding tool to turn off the ads and tracking software on their parents' Android-based TV and replace its home screen with a plain one. They shared how they did it, and in a week thousands of people did the same to their own TVs and published lists for hundreds of models. The ads on a TV's home screen are something TV makers and Google sell, so a free tool that switches them off touches a part of the TV ad business, though nothing it does is permanent and a software…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "0120c0f9958fe714",
       "title": "Google Ads Search campaigns lose 50% Display budget split in February 2027",

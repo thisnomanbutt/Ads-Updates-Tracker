@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-24T04:38:05.723Z",
+  "updatedAt": "2026-10-24T11:02:30.629Z",
   "model": null,
-  "count": 183,
+  "count": 184,
   "items": [
+    {
+      "id": "0120c0f9958fe714",
+      "title": "Google Ads Search campaigns lose 50% Display budget split in February 2027",
+      "link": "https://ppc.land/google-ads-search-campaigns-lose-50-display-budget-split-in-february-2027/",
+      "published": "2026-10-24T07:18:53.000Z",
+      "fetchedAt": "2026-10-24T11:02:30.629Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google Ads Search campaigns lose 50% Display budget split in February 2027",
+      "summary": "Display Expansion spent unused Search budget on Display under a 50% allocation set in the backend, Google now says. Who picks the split once that setup ends? Google's help page for Display Expansion on Search campaigns now states how the feature has been dividing budgets: ads ran on the Google Display Network from…",
+      "excerpt": "Display Expansion spent unused Search budget on Display under a 50% allocation set in the backend, Google now says. Who picks the split once that setup ends? Google's help page for Display Expansion on Search campaigns now states how the feature has been dividing budgets: ads ran on the Google Display Network from unspent Search budget \"with a 50% budget allocation applied in the backend.\" The page carries no publication or update date. It describes \"updated options as of October 2026\" and says that from February 2027 that fixed setup goes away, replaced by priority tiers and an optional percentage limit that advertisers set themselves. For years, Google let Search ads spill onto other websites and apps when the Search budget was not fully spent, and its help page now says a hidden rule kept that spill to half of the budget. In February 2027 that rule disappears, and the split between Search and those other sites will instead follow settings advertisers choose, or Google's defaults if they choose nothing. Anyone running Search campaigns with the Display Network switched on may see money move between Google Search, search partner sites and the Display Network after that date. The…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "191f844305602b91",
       "title": "Google lets connected Gmail and Photos data shape ads, 5 years after pledge",

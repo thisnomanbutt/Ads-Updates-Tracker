@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 04:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:02:30 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads Search campaigns lose 50% Display budget split in February 2027</title>
+      <link>https://ppc.land/google-ads-search-campaigns-lose-50-display-budget-split-in-february-2027/</link>
+      <guid isPermaLink="false">0120c0f9958fe714</guid>
+      <pubDate>Sat, 24 Oct 2026 07:18:53 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Display Expansion spent unused Search budget on Display under a 50% allocation set in the backend, Google now says. Who picks the split once that setup ends? Google's help page for Display Expansion on Search campaigns now states how the feature has been dividing budgets: ads ran on the Google Display Network from…</p><p>Source: <a href="https://ppc.land/google-ads-search-campaigns-lose-50-display-budget-split-in-february-2027/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google lets connected Gmail and Photos data shape ads, 5 years after pledge</title>
       <link>https://ppc.land/google-lets-connected-gmail-and-photos-data-shape-ads-5-years-after-pledge/</link>
@@ -397,14 +405,6 @@
       <pubDate>Fri, 16 Oct 2026 19:02:56 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Online gambling is the only category in the new Admin &gt; Policy &gt; Account section, and existing certificates stay put. Who gets it first, and what changes next? Google on October 15, 2026 posted a change to how advertisers obtain certification for online gambling ads, adding an application route inside the Google Ads…</p><p>Source: <a href="https://ppc.land/google-lets-gambling-advertisers-apply-for-certification-inside-google-ads/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta sells brands 3 to 24 hour ad windows that shut out category rivals</title>
-      <link>https://ppc.land/meta-sells-brands-3-to-24-hour-ad-windows-that-shut-out-category-rivals/</link>
-      <guid isPermaLink="false">8ecb1e88ebf0c4b5</guid>
-      <pubDate>Fri, 16 Oct 2026 17:08:35 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Ads Super Burst test flights reached a median 34 million people, Meta says, about 14% of US adults online. The research behind those lift claims is unpublished. Meta Platforms on October 15, 2026 moved Ads Super Burst toward general availability, a reservation product that lets an advertiser book a window of 3 to 24…</p><p>Source: <a href="https://ppc.land/meta-sells-brands-3-to-24-hour-ad-windows-that-shut-out-category-rivals/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,47 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 11:31:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:21:07 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google&amp;#x27;s help page trails its retention goal rollout to Search and Shopping</title>
+      <link>https://ppc.land/googles-help-page-trails-its-retention-goal-rollout-to-search-and-shopping/</link>
+      <guid isPermaLink="false">1e7c8494c3cb5c87</guid>
+      <pubDate>Sun, 25 Oct 2026 13:50:04 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Re-engagement still shows as Performance Max only in Google Ads documentation, three days after Google&amp;#x27;s holiday post. Which campaign types can use each mode? Google published a post on its Accelerate with Google site on October 22, 2026, setting out three changes to customer lifecycle goals in Google Ads ahead of…</p><p>Source: <a href="https://ppc.land/googles-help-page-trails-its-retention-goal-rollout-to-search-and-shopping/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads AI tool copies Search campaigns into 10 new languages</title>
+      <link>https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/</link>
+      <guid isPermaLink="false">2fb74db8cea32f8d</guid>
+      <pubDate>Sun, 25 Oct 2026 13:46:58 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Budgets copy across with no currency conversion, and only English (US) Search campaigns qualify. Performance Max support was due in September. Has it arrived? Google Ads advertisers now have access to an AI campaign localization tool that turns an existing English (US) Search campaign into a separate campaign in one of…</p><p>Source: <a href="https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads search terms report adds 4 source columns for AI Max traffic</title>
+      <link>https://ppc.land/google-ads-search-terms-report-adds-4-source-columns-for-ai-max-traffic/</link>
+      <guid isPermaLink="false">fcefe779be60fc3d</guid>
+      <pubDate>Sun, 25 Oct 2026 13:45:19 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Match, landing page, headline and description sources now sit beside each search term for AI Max campaigns. Google&amp;#x27;s help page does not yet list the columns. Google Ads advertisers running AI Max for Search campaigns can now see, query by query, whether a click came from their own keywords or from Google's…</p><p>Source: <a href="https://ppc.land/google-ads-search-terms-report-adds-4-source-columns-for-ai-max-traffic/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google AI writes positive-only review summaries into Search ads in 4 markets</title>
+      <link>https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/</link>
+      <guid isPermaLink="false">e51e7218e29015e7</guid>
+      <pubDate>Sun, 25 Oct 2026 13:42:52 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Advertisers cannot edit the text, which Google shows only when it predicts better ad performance. The undated help page leaves out opt-out and sourcing details. Google has published a help page describing AI-generated review summaries that appear inside Search ads in the United States, the United Kingdom, Australia and…</p><p>Source: <a href="https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google lets Shopping and PMax campaigns lower ROAS targets by up to 30%</title>
+      <link>https://ppc.land/google-lets-shopping-and-pmax-campaigns-lower-roas-targets-by-up-to-30/</link>
+      <guid isPermaLink="false">98888c92d45b756d</guid>
+      <pubDate>Sun, 25 Oct 2026 13:39:52 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Tolerance runs from 5% to 30% for Shopping and PMax advertisers, but portfolio bid strategies switch the feature off. How far can results drift from target? Google Ads has published a help page setting out how Smart Bidding Exploration works across Search, Performance Max and Shopping campaigns, setting out the rules…</p><p>Source: <a href="https://ppc.land/google-lets-shopping-and-pmax-campaigns-lower-roas-targets-by-up-to-30/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] CleanYourTV gains 30,900 GitHub stars by removing Google TV home screen ads</title>
       <link>https://ppc.land/cleanyourtv-gains-30-900-github-stars-by-removing-google-tv-home-screen-ads/</link>
@@ -365,46 +405,6 @@
       <pubDate>Sun, 18 Oct 2026 04:24:40 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Pixel Watch earns a 9 out of 10 iFixit repair score and Japan gets certified refurbished phones. The Oct 15 post omits prices, country lists and repair volumes. Google on October 15, 2026 added the Pixel 9 series to its US certified refurbished lineup at discounts of up to 45%, started selling certified refurbished…</p><p>Source: <a href="https://ppc.land/google-adds-refurbished-pixel-9-phones-at-up-to-45-off-in-the-us/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads lets PMax advertisers set Search partner spend to 0%, Marvin says</title>
-      <link>https://ppc.land/google-ads-lets-pmax-advertisers-set-search-partner-spend-to-0-marvin-says/</link>
-      <guid isPermaLink="false">ed29fe7f9035cd7c</guid>
-      <pubDate>Sat, 17 Oct 2026 19:12:40 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Channel caps work in the Google Ads API at launch, Ginny Marvin wrote, while the help page says coming soon. Which of Google&amp;#x27;s own answers holds for buyers? Google's Ads Product Liaison, Ginny Marvin, published answers on October 16, 2026, to the questions advertisers have been asking about Google Ads' new channel…</p><p>Source: <a href="https://ppc.land/google-ads-lets-pmax-advertisers-set-search-partner-spend-to-0-marvin-says/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta grants itself the right to crawl advertisers&amp;#x27; websites for AI</title>
-      <link>https://ppc.land/meta-grants-itself-the-right-to-crawl-advertisers-websites-for-ai/</link>
-      <guid isPermaLink="false">a87584ff4058838f</guid>
-      <pubDate>Sat, 17 Oct 2026 05:19:36 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta&amp;#x27;s new terms let it crawl and train AI on advertisers&amp;#x27; websites from October 30, 2026, as a survey found 16% of consumers grant AI data access reluctantly. Permission used to be something an advertiser or a reader gave. In the 24 hours to Saturday morning, more of it was simply written into terms,…</p><p>Source: <a href="https://ppc.land/meta-grants-itself-the-right-to-crawl-advertisers-websites-for-ai/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads PM says target or budget changes cause no learning period</title>
-      <link>https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/</link>
-      <guid isPermaLink="false">782117a274dbd0ec</guid>
-      <pubDate>Fri, 16 Oct 2026 20:23:14 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Bids scale in proportion to new targets on steady campaigns, Tal Akabas said on Oct 15. Re-engagement mode reaches PMax; Search and Shopping are next in line. Google's Ads Decoded podcast on October 15 published a conversation of more than 40 minutes in which Tal Akabas, a Google Ads product manager, said that changing…</p><p>Source: <a href="https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Floodlight gains Google signed-in data to recover unattributed conversions</title>
-      <link>https://ppc.land/floodlight-gains-google-signed-in-data-to-recover-unattributed-conversions/</link>
-      <guid isPermaLink="false">d888fc8152967c89</guid>
-      <pubDate>Fri, 16 Oct 2026 19:07:25 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>DV360, Search Ads 360 and Campaign Manager 360 reports are in scope, and DV360 also retires an advertiser-level page. How far will conversion counts shift? Google today updated its &quot;Coming soon: Display &amp; Video 360 updates in Q4 2026&quot; help page, which lists three changes scheduled for November 2026: Floodlight…</p><p>Source: <a href="https://ppc.land/floodlight-gains-google-signed-in-data-to-recover-unattributed-conversions/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google&amp;#x27;s DV360 now requires a business name and logo on YouTube ads</title>
-      <link>https://ppc.land/googles-dv360-now-requires-a-business-name-and-logo-on-youtube-ads/</link>
-      <guid isPermaLink="false">8ca83e3bb63f2ff9</guid>
-      <pubDate>Fri, 16 Oct 2026 19:05:15 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Brand auction and instant deals are covered, and one rejected logo disapproves the whole ad. Which YouTube formats can actually carry the new assets in DV360? Every YouTube line item in Display &amp; Video 360 now needs a business name and a logo before an ad can be built, according to a Google release note dated October…</p><p>Source: <a href="https://ppc.land/googles-dv360-now-requires-a-business-name-and-logo-on-youtube-ads/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

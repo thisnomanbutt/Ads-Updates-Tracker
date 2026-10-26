@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 20:52:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:48:34 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads splits child safety rules into two penalty tiers from January 11</title>
+      <link>https://ppc.land/google-ads-splits-child-safety-rules-into-two-penalty-tiers-from-january-11/</link>
+      <guid isPermaLink="false">c4e6b7827590aefd</guid>
+      <pubDate>Sun, 25 Oct 2026 22:19:42 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Non-sexual child nudity gets a tier with at least 7 days of warning, while abuse content still means suspension on detection. What changes for ad accounts? Google on October 22, 2026 posted a notice in its Advertising Policies Help Center stating that the Google Ads policy on child sexual abuse and exploitation will be…</p><p>Source: <a href="https://ppc.land/google-ads-splits-child-safety-rules-into-two-penalty-tiers-from-january-11/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta says ad sets under 50 weekly conversions cost 28% more per purchase</title>
+      <link>https://ppc.land/meta-says-ad-sets-under-50-weekly-conversions-cost-28-more-per-purchase/</link>
+      <guid isPermaLink="false">d2f950e521b7c48f</guid>
+      <pubDate>Sun, 25 Oct 2026 22:10:58 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Weekly budget divided by 50 times cost per result caps ad sets for every advertiser. The supporting lift data dates from 2024 and 2025 - what holds for Q4 2026? Meta on October 21, 2026 published a peak season best-practice post on its Meta for Business site arguing that advertisers lose money during the holiday…</p><p>Source: <a href="https://ppc.land/meta-says-ad-sets-under-50-weekly-conversions-cost-28-more-per-purchase/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google&amp;#x27;s DV360 API v5 beta drops Customer Match audience management</title>
+      <link>https://ppc.land/googles-dv360-api-v5-beta-drops-customer-match-audience-management/</link>
+      <guid isPermaLink="false">bef2f54abccd8aff</guid>
+      <pubDate>Sun, 25 Oct 2026 22:07:23 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Cached inventory source IDs break and DOOH insertion orders turn readable for DV360 developers. Google set no v4 sunset date yet. How long can v4 code last? Google on October 22, 2026 opened version 5 of the Display &amp; Video 360 API in public beta, according to a post on the Google Ads Developer Blog signed by Trevor…</p><p>Source: <a href="https://ppc.land/googles-dv360-api-v5-beta-drops-customer-match-audience-management/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Quebec warranty law forces 3- to 6-year disclosures into Google Shopping ads</title>
+      <link>https://ppc.land/quebec-warranty-law-forces-3-to-6-year-disclosures-into-google-shopping-ads/</link>
+      <guid isPermaLink="false">19b06965126b59aa</guid>
+      <pubDate>Sun, 25 Oct 2026 21:15:13 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Stoves, TVs, phones and laptops sold to Quebec shoppers need a 3- to 6-year term shown by the price. Google displays it only later in 2026. What fills the gap? Google has added a warranty attribute to the Merchant Center product data specification so that retailers running Shopping ads and free listings in Canada can…</p><p>Source: <a href="https://ppc.land/quebec-warranty-law-forces-3-to-6-year-disclosures-into-google-shopping-ads/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google&amp;#x27;s help page trails its retention goal rollout to Search and Shopping</title>
       <link>https://ppc.land/googles-help-page-trails-its-retention-goal-rollout-to-search-and-shopping/</link>
@@ -373,38 +405,6 @@
       <pubDate>Sun, 18 Oct 2026 19:35:11 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Emoji are barred from domain names but allowed in URL paths, Gary Illyes and Cherry Prommawin say. Where the video and Google&amp;#x27;s own URL documentation part ways. Google Search Central on October 14, 2026 published the first episode of The Non-Canonical Cabinet, a 12-minute 56-second YouTube video in which Gary…</p><p>Source: <a href="https://ppc.land/google-says-url-keywords-become-irrelevant-once-a-page-has-content/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google spells out what counts as sexually suggestive in Google Ads</title>
-      <link>https://ppc.land/google-spells-out-what-counts-as-sexually-suggestive-in-google-ads/</link>
-      <guid isPermaLink="false">345a81ec8560cdf0</guid>
-      <pubDate>Sun, 18 Oct 2026 19:27:05 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Twerking, fruit used as stand-ins and sexualized kissing sit among restricted examples, as sexual ads stay off YouTube and Display. What did Google change? Google on October 14, 2026 posted a change log entry stating that it had updated the Sexual content policy article in its Advertising Policies Help Center &quot;to…</p><p>Source: <a href="https://ppc.land/google-spells-out-what-counts-as-sexually-suggestive-in-google-ads/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google drops ad vendor it listed since 2020 after 45-device spyware attack</title>
-      <link>https://ppc.land/google-drops-ad-vendor-it-listed-since-2020-after-45-device-spyware-attack/</link>
-      <guid isPermaLink="false">373553903cde872d</guid>
-      <pubDate>Sun, 18 Oct 2026 13:33:55 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Discover-Tech bid on 3.77bn impressions in four months, reaching almost 200,000 apps and sites. The report asks how a spyware partner stayed certified so long. Google and IAB Europe removed Israeli ad company Discover-Tech from their vendor registries in early October 2026, after a Citizen Lab investigation published…</p><p>Source: <a href="https://ppc.land/google-drops-ad-vendor-it-listed-since-2020-after-45-device-spyware-attack/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] WhatsApp loses contempt bid against NSO over 23 alleged spyware accounts</title>
-      <link>https://ppc.land/whatsapp-loses-contempt-bid-against-nso-over-23-alleged-spyware-accounts/</link>
-      <guid isPermaLink="false">b73f0f1b122b7359</guid>
-      <pubDate>Sun, 18 Oct 2026 12:49:36 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta withheld the markers it used to tie NSO to new accounts and malicious links sent in 2026. Can platforms enforce spyware bans without exposing detection? A federal judge in Oakland on October 16, 2026 refused to hold NSO Group in civil contempt of the permanent injunction that bars it from WhatsApp, ruling that a…</p><p>Source: <a href="https://ppc.land/whatsapp-loses-contempt-bid-against-nso-over-23-alleged-spyware-accounts/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google adds refurbished Pixel 9 phones at up to 45% off in the US</title>
-      <link>https://ppc.land/google-adds-refurbished-pixel-9-phones-at-up-to-45-off-in-the-us/</link>
-      <guid isPermaLink="false">bd133e35471be8b8</guid>
-      <pubDate>Sun, 18 Oct 2026 04:24:40 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Pixel Watch earns a 9 out of 10 iFixit repair score and Japan gets certified refurbished phones. The Oct 15 post omits prices, country lists and repair volumes. Google on October 15, 2026 added the Pixel 9 series to its US certified refurbished lineup at discounts of up to 45%, started selling certified refurbished…</p><p>Source: <a href="https://ppc.land/google-adds-refurbished-pixel-9-phones-at-up-to-45-off-in-the-us/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

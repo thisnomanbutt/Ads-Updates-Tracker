@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:40:58 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Pinterest sells ads through Amazon and Google DSPs in 3 regions, not Europe</title>
+      <link>https://ppc.land/pinterest-sells-ads-through-amazon-and-google-dsps-in-3-regions-not-europe/</link>
+      <guid isPermaLink="false">f3dbaa09542fb004</guid>
+      <pubDate>Mon, 26 Oct 2026 20:13:22 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Enterprise buyers reach Pinterest video and display deals through Magnite, its main supply partner. Prices, deal types and a date for Europe stay unpublished. Pinterest today made Programmatic Deals generally available in North America, South America and Asia Pacific. The product puts selected Pinterest display and…</p><p>Source: <a href="https://ppc.land/pinterest-sells-ads-through-amazon-and-google-dsps-in-3-regions-not-europe/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Ads Super Burst, First Impression Ads, and Aggregated View Time</title>
+      <link>https://www.jonloomer.com/qvt/ads-super-burst-first-impression-ads-aggregated-view-time/</link>
+      <guid isPermaLink="false">586e54b02b30ea3c</guid>
+      <pubDate>Mon, 26 Oct 2026 13:30:04 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>During the recent Brand Building Summit , Meta shared several updates. Here are the details of three new ad features… 1. Ads Super Burst Ads Super Burst allows advertisers to book a window of three to 24 hours to reach your audience. With category exclusivity, no other advertiser in your category can book the same…</p><p>Source: <a href="https://www.jonloomer.com/qvt/ads-super-burst-first-impression-ads-aggregated-view-time/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads AI-Generated Review Summaries Help Doc</title>
+      <link>https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html</link>
+      <guid isPermaLink="false">eae0ad4385ba72f0</guid>
+      <pubDate>Mon, 26 Oct 2026 11:41:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has published a new help document named About Review summaries that explains that &quot;review summaries on Search are AI-powered summaries of online reviews that appear directly as part of your Search ads.&quot; We have seen AI- generated summaries for sponsored results in Google for some time now , and now there is a…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads 1-Click AI Max Experiment Recommendation</title>
       <link>https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html</link>
@@ -381,30 +405,6 @@
       <pubDate>Mon, 19 Oct 2026 18:30:36 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Medium</p><p>Today, Monday, October 19, we launched a new feature that lets advertisers choose a specific audience for each ad creative. Choose an audience for each ad creative when toggled on allows you to create several ads within one ad set and select the age range and gender each media is best suited for. Financial services…</p><p>Source: <a href="https://developers.facebook.com/blog/post/2026/10/19/choose-an-audience-for-each-ad-creative/">Meta for Developers Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Now In AI Mode With Personal Intelligence</title>
-      <link>https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html</link>
-      <guid isPermaLink="false">340f8e69d28c19b5</guid>
-      <pubDate>Mon, 19 Oct 2026 11:31:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google confirmed it will now show ads in AI Mode results with Personal Intelligence enabled. Back in March, Google said AI Mode with Personal Intelligence turned on would be ad-free, but that is now changing. Google told Anu Adegbola last March, &quot;There are currently no ads for people who choose to connect their apps…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads To No Longer Show Featured Professionals, Headshots Are Optional</title>
-      <link>https://www.seroundtable.com/google-ads-featured-professionals-headshots-42325.html</link>
-      <guid isPermaLink="false">3b57f04419392174</guid>
-      <pubDate>Mon, 19 Oct 2026 11:05:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads posted a message to Local Service Ads advertisers saying that featured professionals will no longer show on your ads, and headshots will be optional and won't impact ad serving. Anthony Higman spotted the notice in his Google Ads account and posted a screenshot of this notice on X , it says: Starting in…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-featured-professionals-headshots-42325.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Targeted ads delivered spyware to 45 devices through a vendor Google listed</title>
-      <link>https://ppc.land/targeted-ads-delivered-spyware-to-45-devices-through-a-vendor-google-listed/</link>
-      <guid isPermaLink="false">30420a4320032430</guid>
-      <pubDate>Mon, 19 Oct 2026 04:53:36 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Citizen Lab traced zero-click spyware on 45 Al Jazeera devices to targeted ads from Discover-Tech, a vendor Google had listed since 2020 and has now cut off. Advertising technology was built to put a message in front of one person among millions. On Sunday, a report showed what happens when the message is not an…</p><p>Source: <a href="https://ppc.land/targeted-ads-delivered-spyware-to-45-devices-through-a-vendor-google-listed/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

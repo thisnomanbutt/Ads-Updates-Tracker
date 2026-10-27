@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 22:40:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:13:08 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Meta Clarifies Upcoming Placement Control Changes</title>
+      <link>https://www.jonloomer.com/meta-placement-control-changes/</link>
+      <guid isPermaLink="false">a9d450eb2bf1ae4d</guid>
+      <pubDate>Tue, 27 Oct 2026 11:30:42 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Two months ago, I wrote a blog post about the upcoming changes to Meta ads placement controls . At the time, Meta hadn’t made an official announcement, so my reporting was based on what was publicly available, what Meta said privately, and what I could assume based on what was known. Two months later, Meta made a…</p><p>Source: <a href="https://www.jonloomer.com/meta-placement-control-changes/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy</title>
+      <link>https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html</link>
+      <guid isPermaLink="false">01611d0ac5bf9d37</guid>
+      <pubDate>Tue, 27 Oct 2026 11:11:00 GMT</pubDate>
+      <category>Policy or compliance</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google Ads said it will update its Child Sexual Abuse and Exploitation (CSAE) ads policy this coming January. Google said this is being done as part of a &quot;redesign of the policy, and to improve protections, clarity and transparency.&quot; Google will update the header of the policy to &quot;Child Safety.&quot; It will also be…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta Pixel will count more conversions from Nov 12 unless advertisers opt out</title>
+      <link>https://ppc.land/meta-pixel-will-count-more-conversions-from-nov-12-unless-advertisers-opt-out/</link>
+      <guid isPermaLink="false">436425b75bac17ea</guid>
+      <pubDate>Tue, 27 Oct 2026 05:30:56 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Datasets already sending events are switched on by default, and matching runs on the shopper&amp;#x27;s own device. Meta has not said if recovered sales feed bidding. Meta will begin measuring some website purchases on shoppers' own phones and computers from November 12, 2026, through a new Meta Pixel setting that is…</p><p>Source: <a href="https://ppc.land/meta-pixel-will-count-more-conversions-from-nov-12-unless-advertisers-opt-out/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Only 2 of 3,379 AI-flagged Meta ad files disclosed AI use, Resemble AI finds</title>
+      <link>https://ppc.land/only-2-of-3-379-ai-flagged-meta-ad-files-disclosed-ai-use-resemble-ai-finds/</link>
+      <guid isPermaLink="false">7a549ad48385cd2b</guid>
+      <pubDate>Tue, 27 Oct 2026 05:08:13 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>One in 11 Facebook and Instagram ad files from 509 brands carried AI media, 70% built to look real. Labelling rules in New York and the EU already apply to ads. Resemble AI, a Mountain View company that sells software for detecting synthetic media, on October 22, 2026 published a study that scanned 37,768 image and…</p><p>Source: <a href="https://ppc.land/only-2-of-3-379-ai-flagged-meta-ad-files-disclosed-ai-use-resemble-ai-finds/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Pinterest sells ads through Amazon and Google DSPs in 3 regions, not Europe</title>
       <link>https://ppc.land/pinterest-sells-ads-through-amazon-and-google-dsps-in-3-regions-not-europe/</link>
@@ -373,38 +405,6 @@
       <pubDate>Tue, 20 Oct 2026 11:41:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>The Google Ads team posted a new help document that talks about the length of booking bid adjustment in legacy Hotel campaigns versus Search campaigns for travel. Hotel campaigns multiply your base bid by the traveler's itinerary length of stay (LoS) but Search campaigns for travel (SCT) don't. Hotel campaigns multiply…</p><p>Source: <a href="https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Choose an Audience for Each Ad Creative</title>
-      <link>https://www.jonloomer.com/choose-an-audience-for-each-ad-creative/</link>
-      <guid isPermaLink="false">01854d61a49c24b7</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:15 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta is rolling out a feature that allows advertisers to choose an audience for each ad creative. Since there is documentation , I assume it’s an official feature that’s currently rolling out rather than a test. It’s honestly a surprising new option, given that Meta keeps taking away control. But at the same time, it…</p><p>Source: <a href="https://www.jonloomer.com/choose-an-audience-for-each-ad-creative/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta&amp;#x27;s per-creative audiences force ad sets to stay open to all genders</title>
-      <link>https://ppc.land/metas-per-creative-audiences-force-ad-sets-to-stay-open-to-all-genders/</link>
-      <guid isPermaLink="false">02d7cc1db90e557b</guid>
-      <pubDate>Mon, 19 Oct 2026 21:48:34 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Ad sets using it must start at age 25 or below and run to 65. Marketing API partners can test it from October 19, but Meta has not said how delivery treats it. Meta today switched on a Marketing API option that lets advertisers attach a separate age range and gender to each creative inside a single ad set, according to…</p><p>Source: <a href="https://ppc.land/metas-per-creative-audiences-force-ad-sets-to-stay-open-to-all-genders/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google forces UAE CFD and forex advertisers to hold one of three licences</title>
-      <link>https://ppc.land/google-forces-uae-cfd-and-forex-advertisers-to-hold-one-of-three-licences/</link>
-      <guid isPermaLink="false">5a6a07d3d0bbc5bb</guid>
-      <pubDate>Mon, 19 Oct 2026 19:12:18 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>UAE crypto exchanges gain the federal CMA as a fourth licence option from October 21, while VARA is left off the CFD list. What did the old 2019 rule allow? Google has rewritten the licensing conditions for financial advertisers targeting the United Arab Emirates, effective October 21, 2026. Cryptocurrency exchanges…</p><p>Source: <a href="https://ppc.land/google-forces-uae-cfd-and-forex-advertisers-to-hold-one-of-three-licences/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Choose an audience for each ad creative</title>
-      <link>https://developers.facebook.com/blog/post/2026/10/19/choose-an-audience-for-each-ad-creative/</link>
-      <guid isPermaLink="false">bee435e09d2cfe18</guid>
-      <pubDate>Mon, 19 Oct 2026 18:30:36 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Medium</p><p>Today, Monday, October 19, we launched a new feature that lets advertisers choose a specific audience for each ad creative. Choose an audience for each ad creative when toggled on allows you to create several ads within one ad set and select the age range and gender each media is best suited for. Financial services…</p><p>Source: <a href="https://developers.facebook.com/blog/post/2026/10/19/choose-an-audience-for-each-ad-creative/">Meta for Developers Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

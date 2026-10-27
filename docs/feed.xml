@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:01:56 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not</title>
+      <link>https://www.seroundtable.com/google-local-service-ad-confusion-42328.html</link>
+      <guid isPermaLink="false">48af56deccd8eb2a</guid>
+      <pubDate>Tue, 27 Oct 2026 11:31:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google advertisers are struggling to agree on whether a specific local ad unit in Google Search is a Local Service Ad or another type of local Google ad. Ryan posted a screenshot on X and asked, &quot;This bottom ad is LSA, right?&quot; He asked Anthony Higman, who responded, &quot;YES!!!!!! No one can tell BUT YES YOU ARE CORRECT!.…</p><p>Source: <a href="https://www.seroundtable.com/google-local-service-ad-confusion-42328.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta Clarifies Upcoming Placement Control Changes</title>
       <link>https://www.jonloomer.com/meta-placement-control-changes/</link>
@@ -13,6 +21,14 @@
       <pubDate>Tue, 27 Oct 2026 11:30:42 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Two months ago, I wrote a blog post about the upcoming changes to Meta ads placement controls . At the time, Meta hadn’t made an official announcement, so my reporting was based on what was publicly available, what Meta said privately, and what I could assume based on what was known. Two months later, Meta made a…</p><p>Source: <a href="https://www.jonloomer.com/meta-placement-control-changes/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Tests Dotted Underlined Links In Sponsored Results</title>
+      <link>https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html</link>
+      <guid isPermaLink="false">df1edf6c6a564527</guid>
+      <pubDate>Tue, 27 Oct 2026 11:21:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google is testing placing dotted underlined links in the sponsored results ad descriptions. When you click on them, you go to the ad destination's URL, like you would if you clicked on the title of the ad. We saw Google testing dotted underlined URLs , blue dotted underlined sitelinks , dotted underlined AI Overview…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html">Search Engine Roundtable</a></p>]]></description>
     </item>
     <item>
       <title>[Google Ads] Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy</title>
@@ -389,22 +405,6 @@
       <pubDate>Tue, 20 Oct 2026 15:20:00 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google has announced it is expanding its Google Ads Financial Services Verification requirements to the United States and Canada. Google is working with the American Bankers Association and Canadian Bankers Association for this. Google first started financial services verification in 2022 and then expanded it to Europe…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Expanding our defenses against financial scam ads</title>
-      <link>https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/</link>
-      <guid isPermaLink="false">597f49d1132c1b69</guid>
-      <pubDate>Tue, 20 Oct 2026 15:00:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Building on safeguards that already cover 2 billion internet users globally, we’re bringing our Financial Services Verification program to the U.S. and Canada in early 2027. VP &amp; General Manager, Ads Privacy and Safety Your browser does not support the audio element. Google is expanding its Financial Services…</p><p>Source: <a href="https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc</title>
-      <link>https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html</link>
-      <guid isPermaLink="false">2373cda3bb08c6e7</guid>
-      <pubDate>Tue, 20 Oct 2026 11:41:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>The Google Ads team posted a new help document that talks about the length of booking bid adjustment in legacy Hotel campaigns versus Search campaigns for travel. Hotel campaigns multiply your base bid by the traveler's itinerary length of stay (LoS) but Search campaigns for travel (SCT) don't. Hotel campaigns multiply…</p><p>Source: <a href="https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

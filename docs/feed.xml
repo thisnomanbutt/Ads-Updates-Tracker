@@ -5,7 +5,71 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:56:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:36:09 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Ads in AI Mode expand to new markets.</title>
+      <link>https://blog.google/products/ads-commerce/ads-in-ai-mode-global/</link>
+      <guid isPermaLink="false">f1af937fcc0acf6b</guid>
+      <pubDate>Wed, 28 Oct 2026 21:30:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>VP and GM, Google Search Ads and Ads on Google Experiences We’re bringing ads in AI Mode to new countries. As AI transforms how people search, queries are becoming increasingly conversational. In AI Mode, queries are, on average, three times longer than traditional searches. 1 AI helps us better understand what people…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-in-ai-mode-global/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] YouTube holiday playbook cites 30% creator ad lift with no source</title>
+      <link>https://ppc.land/youtube-holiday-playbook-cites-30-creator-ad-lift-with-no-source/</link>
+      <guid isPermaLink="false">7a098d6015cf4716</guid>
+      <pubDate>Wed, 28 Oct 2026 20:34:08 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Brands are told to make at least half of holiday ad assets creator-led and to budget for 50 conversions. Which of the figures in Google&amp;#x27;s guide can be checked? Google's YouTube holiday playbook for 2026, a 35-page guide for advertisers preparing for the November and December peak, states that Creator Partnerships…</p><p>Source: <a href="https://ppc.land/youtube-holiday-playbook-cites-30-creator-ad-lift-with-no-source/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ad Revenue Up 10.5% With Overall Revenue Up 25%</title>
+      <link>https://www.seroundtable.com/google-earnings-q326-42403.html</link>
+      <guid isPermaLink="false">dc705f2fce6074b1</guid>
+      <pubDate>Wed, 28 Oct 2026 20:10:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google reported its earnings today, its Q3 2026 earnings report showed search ad revenues up by 10.5% at $82 billion and overall revenue was up 25% at $127.6 billion. As you know, I specifically like to dig in as best as I can on the search ad revenue side to see how Google Ads has performed. Google's ad revenue was up…</p><p>Source: <a href="https://www.seroundtable.com/google-earnings-q326-42403.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta says Andromeda lifted Facebook conversions 2.4% since 2025</title>
+      <link>https://ppc.land/meta-says-andromeda-lifted-facebook-conversions-2-4-since-2025/</link>
+      <guid isPermaLink="false">b4a70b458eef78e2</guid>
+      <pubDate>Wed, 28 Oct 2026 19:17:08 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Every eligible ad on Facebook and Instagram is now scored at over 1bn a second per GPU server, 100x the 2024 rate. What sits behind Meta&amp;#x27;s conversion claim? Meta today published the technical design of the second generation of Andromeda, the system that decides which ads on Facebook and Instagram reach the ranking…</p><p>Source: <a href="https://ppc.land/meta-says-andromeda-lifted-facebook-conversions-2-4-since-2025/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API Version 26.1 Now Out Available</title>
+      <link>https://www.seroundtable.com/google-ads-api-version-261-42409.html</link>
+      <guid isPermaLink="false">50576f447cc9b3b5</guid>
+      <pubDate>Wed, 28 Oct 2026 19:08:00 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google Ads has just released a minor update to its Google Ads API, this is version 26.1. This update touches on assets, campaigns, local services, recommendations, reporting, and targeting. Google did not yet announce this on the Google Ads developer blog but I am sure they will mention something soon. Version 26.1 is…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-api-version-261-42409.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Adapt your ad strategy to meet the way people search today.</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/</link>
+      <guid isPermaLink="false">8e20388429f08690</guid>
+      <pubDate>Wed, 28 Oct 2026 19:00:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Search is undergoing rapid changes — from new experiences and capabilities to evolving search habits — that directly impact the advertising landscape. In this episode of Ads Decoded, Google Ads Product Liaison Ginny Marvin sits down with Shivani Mohan, Vice President of Data Science and UXR for Search. Shivani and her…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Tests Sponsored Results With Apple Messages Button</title>
+      <link>https://www.seroundtable.com/google-ads-apple-messages-button-42400.html</link>
+      <guid isPermaLink="false">3527ec57dd6c9f95</guid>
+      <pubDate>Wed, 28 Oct 2026 11:56:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google is testing a new messaging button named Apple Messages on the Google Ads sponsored results. Google has placed messages button, message assets, on Google search ads for a long time now but I don't think I've seen the Apple Messages button before. This was spotted by Anthony Higman who wrote on X , &quot;Apple Messages…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-apple-messages-button-42400.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads &quot;All Conversions&quot; Tab Is Fully Live</title>
+      <link>https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html</link>
+      <guid isPermaLink="false">e00b59075b328dcd</guid>
+      <pubDate>Wed, 28 Oct 2026 11:51:00 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads seems to have rolled out the &quot;All conversions&quot; tab within the Goals and Conversions section. This allows advertisers to make one less click, where they can avoid clicking on &quot;View all conversion actions.&quot; This was first spotted by Thomas Eccel who posted about it on LinkedIn and wrote, &quot;You don't need to…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta Pixel counts more sales from Nov 12 as AI ads go undisclosed</title>
       <link>https://ppc.land/meta-pixel-counts-more-sales-from-nov-12-as-ai-ads-go-undisclosed/</link>
@@ -341,70 +405,6 @@
       <pubDate>Wed, 21 Oct 2026 21:59:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Nearly 10 million advertisers used Meta&amp;#x27;s AI creative tools in Q3. Muse, set up by 10 million people, will charge businesses fees on sales. How will it work? Meta's partnership ads, in which advertisers run ads with creators, brands and other businesses, grew more than 97% year over year and passed $15 billion in…</p><p>Source: <a href="https://ppc.land/metas-ads-with-creators-gain-97-to-a-15bn-annual-run-rate/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google forces US and Canadian financial advertisers to prove licences in 2027</title>
-      <link>https://ppc.land/google-forces-us-and-canadian-financial-advertisers-to-prove-licences-in-2027/</link>
-      <guid isPermaLink="false">73b1ad193625753a</guid>
-      <pubDate>Wed, 21 Oct 2026 21:14:20 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Banks in the US face an American Bankers Association registry check before ads run. Google gave no start date, deadline or penalty yet - what is known so far? Google said on October 20, 2026 that it will extend its Financial Services Verification program to the United States and Canada in early 2027, requiring…</p><p>Source: <a href="https://ppc.land/google-forces-us-and-canadian-financial-advertisers-to-prove-licences-in-2027/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta case study credits Nest&amp;#x27;s AI ads with 20% higher conversion rates</title>
-      <link>https://ppc.land/meta-case-study-credits-nests-ai-ads-with-20-higher-conversion-rates/</link>
-      <guid isPermaLink="false">034777ced61a2efa</guid>
-      <pubDate>Wed, 21 Oct 2026 18:57:02 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Seven UK brands put 68% of Meta spend into video, against a 38% benchmark. The page gives no period or baseline, so how much the AI tool added remains unclear. Meta has published a case study on its Meta for Business site in which Nest Commerce, a UK performance agency, says ads made with its own AI tool, Nest AI…</p><p>Source: <a href="https://ppc.land/meta-case-study-credits-nests-ai-ads-with-20-higher-conversion-rates/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026</title>
-      <link>http://ads-developers.googleblog.com/2026/10/upcoming-changes-to-image-extraction-in.html</link>
-      <guid isPermaLink="false">8de7a11a972b7533</guid>
-      <pubDate>Wed, 21 Oct 2026 17:04:53 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Starting December 4, 2026 , image extraction ( GENERATE_IMAGE_EXTRACTION ) will be enabled by default ( OPTED_IN ) for newly created Performance Max campaigns across Google Ads interfaces, including the the Google Ads API , Google Ads UI, and Google Ads Editor. Crucially, this new campaign-level default applies even if…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/10/upcoming-changes-to-image-extraction-in.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] New bidding and budgeting tools can transform your upcoming holiday ad strategy.</title>
-      <link>https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</link>
-      <guid isPermaLink="false">602f4c9b2670508b</guid>
-      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>In the latest episode of Ads Decoded, Google Ads Product Liaison Ginny Marvin and Ads Product Director Tal Akabas share actionable insights on the latest bidding and budgeting tools. They also discuss game-changing holiday strategies — including demand-led budgeting and promotion mode — while busting myths around…</p><p>Source: <a href="https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads New: Save &amp; Test Asset Group Changes</title>
-      <link>https://www.seroundtable.com/google-ads-save-test-asset-group-changes-42336.html</link>
-      <guid isPermaLink="false">877c95210f4249fb</guid>
-      <pubDate>Wed, 21 Oct 2026 11:41:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads is possibly rolling out a new asset group A/B test toggle named &quot;Save and test asset group changes.&quot; This lets you measure the impact of changing headlines, descriptions, images and videos. The setting reads, &quot;Measure the performance impact of changes to your headlines, descriptions, images and videos. You…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-save-test-asset-group-changes-42336.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Updates Smart Bidding Learning Doc With 7-Day Limit &amp; Best Practices</title>
-      <link>https://www.seroundtable.com/google-ads-updates-smart-bidding-learning-doc-42345.html</link>
-      <guid isPermaLink="false">7d8f38c23150613d</guid>
-      <pubDate>Wed, 21 Oct 2026 11:31:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads has updated the old &quot; Duration of the learning period for campaigns and what affects it &quot; to be renamed to &quot; About Smart Bidding learning .&quot; This is a major help document rewrite, not just a headline change. It mentions a new seven-day limit, a different explanation of what triggers and does not trigger…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-updates-smart-bidding-learning-doc-42345.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Merchant Center Specifies Fast Shipping Days By Country</title>
-      <link>https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html</link>
-      <guid isPermaLink="false">a6dc371ec676b5d6</guid>
-      <pubDate>Wed, 21 Oct 2026 11:21:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has updated its about fast shipping in Merchant Center help document to detail the days Google expects for you to qualify for fast shipping in Merchant Center. This is specific for listings in the AU, CA, IN, JP, GB, US. This was first spotted by Hana Kobzová who wrote on PPC News Feed , &quot;Google Merchant…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting</title>
-      <link>https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/</link>
-      <guid isPermaLink="false">726b3fec6732e897</guid>
-      <pubDate>Wed, 21 Oct 2026 05:47:57 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Decisions dated September 24, 2026 cover 2021 Facebook ads aimed at voters&amp;#x27; political interests. AfD&amp;#x27;s case is still open. Will parties now drop the practice? Berlin's data protection authority has found that four of Germany's largest political parties - the CDU, the SPD, Bündnis 90/Die Grünen and Die Linke -…</p><p>Source: <a href="https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

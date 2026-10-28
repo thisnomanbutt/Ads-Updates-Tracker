@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-27T22:14:59.433Z",
+  "updatedAt": "2026-10-28T12:56:16.392Z",
   "model": null,
-  "count": 206,
+  "count": 207,
   "items": [
+    {
+      "id": "23ea96a21e5fcdda",
+      "title": "Meta Pixel counts more sales from Nov 12 as AI ads go undisclosed",
+      "link": "https://ppc.land/meta-pixel-counts-more-sales-from-nov-12-as-ai-ads-go-undisclosed/",
+      "published": "2026-10-28T06:03:05.000Z",
+      "fetchedAt": "2026-10-28T12:56:16.392Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Meta Pixel counts more sales from Nov 12 as AI ads go undisclosed",
+      "summary": "Meta switches on device-side conversion counting by default on November 12, while a scan of 37,768 Meta ad files finds only 2 of 3,379 AI-flagged files said so. Advertisers who use the Meta Pixel will find, from November 12, that their campaigns appear to sell a little more. Nothing about the campaigns will have…",
+      "excerpt": "Meta switches on device-side conversion counting by default on November 12, while a scan of 37,768 Meta ad files finds only 2 of 3,379 AI-flagged files said so. Advertisers who use the Meta Pixel will find, from November 12, that their campaigns appear to sell a little more. Nothing about the campaigns will have changed. What changes is the counting. A new setting in Events Manager, labelled \"Measure conversions on customer devices\", will be switched on by default for every dataset that already sends events, and Meta says it will recover purchases that currently never reach its reports. Advertisers who do not want it have to opt out. PPC Land reported on October 27 that the notices first surfaced on October 18, through the German trade site Wortfilter and the Philippine agency ASTIG, and that the matching works by pairing an email address the customer gave the business with temporary device data that Meta describes as non-identifying. Only the fact of a purchase and the campaign credited with it travel back to Meta. The wording in the settings panel is careful. Measurement happens on the device \"instead of exclusively\" on Meta's servers, which PPC Land reads as a second path…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "48af56deccd8eb2a",
       "title": "Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not",

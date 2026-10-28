@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:56:16 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Meta Pixel counts more sales from Nov 12 as AI ads go undisclosed</title>
+      <link>https://ppc.land/meta-pixel-counts-more-sales-from-nov-12-as-ai-ads-go-undisclosed/</link>
+      <guid isPermaLink="false">23ea96a21e5fcdda</guid>
+      <pubDate>Wed, 28 Oct 2026 06:03:05 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta switches on device-side conversion counting by default on November 12, while a scan of 37,768 Meta ad files finds only 2 of 3,379 AI-flagged files said so. Advertisers who use the Meta Pixel will find, from November 12, that their campaigns appear to sell a little more. Nothing about the campaigns will have…</p><p>Source: <a href="https://ppc.land/meta-pixel-counts-more-sales-from-nov-12-as-ai-ads-go-undisclosed/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not</title>
       <link>https://www.seroundtable.com/google-local-service-ad-confusion-42328.html</link>
@@ -397,14 +405,6 @@
       <pubDate>Wed, 21 Oct 2026 05:47:57 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Decisions dated September 24, 2026 cover 2021 Facebook ads aimed at voters&amp;#x27; political interests. AfD&amp;#x27;s case is still open. Will parties now drop the practice? Berlin's data protection authority has found that four of Germany's largest political parties - the CDU, the SPD, Bündnis 90/Die Grünen and Die Linke -…</p><p>Source: <a href="https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Expands Financial Services Verification To US &amp; Canada</title>
-      <link>https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html</link>
-      <guid isPermaLink="false">c5aeb621e874372c</guid>
-      <pubDate>Tue, 20 Oct 2026 15:20:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google has announced it is expanding its Google Ads Financial Services Verification requirements to the United States and Canada. Google is working with the American Bankers Association and Canadian Bankers Association for this. Google first started financial services verification in 2022 and then expanded it to Europe…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

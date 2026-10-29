@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-29T13:02:53.443Z",
+  "updatedAt": "2026-10-29T22:46:02.336Z",
   "model": null,
-  "count": 218,
+  "count": 219,
   "items": [
+    {
+      "id": "d532fb2c3e6ddd6d",
+      "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
+      "link": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
+      "published": "2026-10-29T14:15:00.000Z",
+      "fetchedAt": "2026-10-29T22:46:02.336Z",
+      "sourceId": "seroundtable",
+      "sourceName": "Search Engine Roundtable",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
+      "summary": "Google announced earnings yesterday , and during the earnings call, Philipp Schindler, Google's senior vice president and chief business officer, said that ads in AI Mode have a \"lower monetization\" than ads in traditional search. \"It's worth noting that the strong growth in AI Mode queries had an impact because of the…",
+      "excerpt": "Google announced earnings yesterday , and during the earnings call, Philipp Schindler, Google's senior vice president and chief business officer, said that ads in AI Mode have a \"lower monetization\" than ads in traditional search. \"It's worth noting that the strong growth in AI Mode queries had an impact because of the lower monetization we were seeing in AI Mode,\" Philipp Schindler said at the 37-minute mark into the earnings call. This goes against what Google said about ads in AI Overviews, where Google said ads on AI Overviews earn the same as without AI Overviews . But that was specific to AI Overviews, not AI Mode. Schindler added, \"To be clear, we feel very good about our trajectory here. Our ad experiments have shown promising results and we're now scaling ads within both AI Overviews and AI Mode to more users and more queries, including, as I mentioned, in the national markets and multiturn ads in the U.S.\" We covered this AI Mode ad expansion last night. Or maybe make ads look like organic results to trick users to click? Google's AI Mode does encourage searchers to search more often, way more often, which is where the multiturn ads come in - Google can show more ads on…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "0b69ccb89e09d806",
       "title": "Google ad clicks gain 8% in Q3, slower than 11% over nine months",

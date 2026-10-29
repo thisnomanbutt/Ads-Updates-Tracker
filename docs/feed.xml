@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:46:02 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google: Ads In AI Mode Earning Less Than Traditional Search Ads</title>
+      <link>https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html</link>
+      <guid isPermaLink="false">d532fb2c3e6ddd6d</guid>
+      <pubDate>Thu, 29 Oct 2026 14:15:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google announced earnings yesterday , and during the earnings call, Philipp Schindler, Google's senior vice president and chief business officer, said that ads in AI Mode have a &quot;lower monetization&quot; than ads in traditional search. &quot;It's worth noting that the strong growth in AI Mode queries had an impact because of the…</p><p>Source: <a href="https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google ad clicks gain 8% in Q3, slower than 11% over nine months</title>
       <link>https://ppc.land/google-ad-clicks-gain-8-in-q3-slower-than-11-over-nine-months/</link>
@@ -397,14 +405,6 @@
       <pubDate>Thu, 22 Oct 2026 11:13:23 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Spend, clicks, views and attributed orders per product appear in catalog campaign charts, per a LinkedIn post. Meta has yet to document how they are counted. Advertisers running product catalog campaigns on Facebook and Instagram can now open a &quot;Top products in your campaign&quot; panel inside Ads Manager's performance…</p><p>Source: <a href="https://ppc.land/meta-ads-manager-gains-7-product-level-metrics-for-catalog-campaigns/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Sponsored Products Expand To Include Product Attributes</title>
-      <link>https://www.seroundtable.com/google-ads-product-attributes-42354.html</link>
-      <guid isPermaLink="false">982248fda8f3ada8</guid>
-      <pubDate>Thu, 22 Oct 2026 11:11:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads is testing showing Sponsored Products results that dynamically expand to show product attributes at the bottom of the ad units in a gray background color. This is interesting because I am not sure if we have seen (1) product attributes in Sponsored Products and (2) if so, that they expand dynamically to add…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-product-attributes-42354.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

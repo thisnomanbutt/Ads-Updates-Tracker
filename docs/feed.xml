@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 05:49:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:02:53 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google ad clicks gain 8% in Q3, slower than 11% over nine months</title>
+      <link>https://ppc.land/google-ad-clicks-gain-8-in-q3-slower-than-11-over-nine-months/</link>
+      <guid isPermaLink="false">0b69ccb89e09d806</guid>
+      <pubDate>Thu, 29 Oct 2026 12:43:24 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Each click cost advertisers 4% more and Google showed 14% fewer ads on partner sites. Alphabet&amp;#x27;s filing also lists $1.08tn of commitments stretching past 2031. Alphabet's quarterly report on Form 10-Q, dated October 28, 2026, contains the advertising measures its earnings release left out. Paid clicks on Google…</p><p>Source: <a href="https://ppc.land/google-ad-clicks-gain-8-in-q3-slower-than-11-over-nine-months/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google&amp;#x27;s ad growth slows to 10.5% as AI Mode ads go to 10 more markets</title>
       <link>https://ppc.land/googles-ad-growth-slows-to-10-5-as-ai-mode-ads-go-to-10-more-markets/</link>
@@ -397,14 +405,6 @@
       <pubDate>Thu, 22 Oct 2026 11:11:00 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads is testing showing Sponsored Products results that dynamically expand to show product attributes at the bottom of the ad units in a gray background color. This is interesting because I am not sure if we have seen (1) product attributes in Sponsored Products and (2) if so, that they expand dynamically to add…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-product-attributes-42354.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Pauses Ads For Russian Advertisers &amp; Serving Ads To Russians</title>
-      <link>https://www.seroundtable.com/google-ads-russia-ukraine-42357.html</link>
-      <guid isPermaLink="false">800d95e8cd9f8ea1</guid>
-      <pubDate>Thu, 22 Oct 2026 11:05:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Back in 2022, Google paused showing ads to users in Russia . That still seems to be active, but Google just posted a new message in the Google Ads and Merchant Center help documentation that it has &quot;also paused ads on Google properties and networks globally for advertisers based in Russia.&quot; Many of the Google help…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-russia-ukraine-42357.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

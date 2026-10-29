@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-29T05:49:46.055Z",
+  "updatedAt": "2026-10-29T13:02:53.443Z",
   "model": null,
-  "count": 217,
+  "count": 218,
   "items": [
+    {
+      "id": "0b69ccb89e09d806",
+      "title": "Google ad clicks gain 8% in Q3, slower than 11% over nine months",
+      "link": "https://ppc.land/google-ad-clicks-gain-8-in-q3-slower-than-11-over-nine-months/",
+      "published": "2026-10-29T12:43:24.000Z",
+      "fetchedAt": "2026-10-29T13:02:53.443Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google ad clicks gain 8% in Q3, slower than 11% over nine months",
+      "summary": "Each click cost advertisers 4% more and Google showed 14% fewer ads on partner sites. Alphabet&#x27;s filing also lists $1.08tn of commitments stretching past 2031. Alphabet's quarterly report on Form 10-Q, dated October 28, 2026, contains the advertising measures its earnings release left out. Paid clicks on Google…",
+      "excerpt": "Each click cost advertisers 4% more and Google showed 14% fewer ads on partner sites. Alphabet&#x27;s filing also lists $1.08tn of commitments stretching past 2031. Alphabet's quarterly report on Form 10-Q, dated October 28, 2026, contains the advertising measures its earnings release left out. Paid clicks on Google Search and Google's other properties rose 8% in the third quarter from a year earlier, against 11% for the first nine months of 2026, while the average cost-per-click rose 4% in both periods. On Google Network partner sites, impressions fell 14% and cost-per-impression rose 14%, with AdMob growing and AdSense shrinking. The filing also sets out what Alphabet has promised to pay for in the years ahead: $924.4 billion of purchase commitments, $130.5 billion of data centre and energy leases that have not yet started, and $98.5 billion of backstops and guarantees for other companies' data centres and power equipment. It records a $5.2 billion payment of the European Android fine, a $1.0 billion charge for two Digital Markets Act fines that Google appealed in October, and a $16.8 billion contract with Crux AI, a joint venture in which Google holds a minority stake, inside…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "79a99ade1ba8202d",
       "title": "Google&#x27;s ad growth slows to 10.5% as AI Mode ads go to 10 more markets",

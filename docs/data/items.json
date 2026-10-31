@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-31T12:31:50.550Z",
+  "updatedAt": "2026-10-31T21:36:08.752Z",
   "model": null,
-  "count": 220,
+  "count": 221,
   "items": [
+    {
+      "id": "03aab045e9a67ba5",
+      "title": "Google&#x27;s DevFest 2026 expects almost 1 million attendees at 800+ events",
+      "link": "https://ppc.land/googles-devfest-2026-expects-almost-1-million-attendees-at-800-events/",
+      "published": "2026-10-31T15:08:24.000Z",
+      "fetchedAt": "2026-10-31T21:36:08.752Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google&#x27;s DevFest 2026 expects almost 1 million attendees at 800+ events",
+      "summary": "Events in 115 countries run until December 31, and Lisbon&#x27;s November 28 agenda gives 11 of 13 sessions to AI. What Google&#x27;s agent push means for ad tech code. Google on October 30, 2026 set out the scale of DevFest 2026, its annual series of developer conferences run by local volunteer groups: more than 800…",
+      "excerpt": "Events in 115 countries run until December 31, and Lisbon&#x27;s November 28 agenda gives 11 of 13 sessions to AI. What Google&#x27;s agent push means for ad tech code. Google on October 30, 2026 set out the scale of DevFest 2026, its annual series of developer conferences run by local volunteer groups: more than 800 events in 115 countries between October 1 and December 31, with almost 1 million attendees expected to learn how to \"build, secure, and scale in the agentic era.\" The post appeared a month after the series had begun. One of those events, Lisbon DevFest 2026 on Saturday, November 28, shows what the brief looks like on the ground: 13 sessions in a single day, 11 of them built around AI tools, Gemini or AI agents. Google helps volunteer groups run hundreds of one-day conferences for software developers around the world, and it says more than 800 of them will take place by the end of 2026. In Lisbon, almost every talk on November 28 is about building with AI, including AI agents that carry out tasks without step-by-step instructions. The tools taught at these events are the same ones now turning up in ad tech, analytics and publisher software, so the agenda gives an early…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "1424c726c753b5cc",
       "title": "Check My Ads says Google profits twice from publisher content",

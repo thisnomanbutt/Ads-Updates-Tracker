@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-30T22:21:25.059Z",
+  "updatedAt": "2026-10-31T12:31:50.550Z",
   "model": null,
-  "count": 219,
+  "count": 220,
   "items": [
+    {
+      "id": "1424c726c753b5cc",
+      "title": "Check My Ads says Google profits twice from publisher content",
+      "link": "https://ppc.land/check-my-ads-says-google-profits-twice-from-publisher-content/",
+      "published": "2026-10-31T07:41:49.000Z",
+      "fetchedAt": "2026-10-31T12:31:50.550Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Check My Ads says Google profits twice from publisher content",
+      "summary": "Publisher links inside AI Overviews get clicked on 1% of visits, and MFA sites took 15% of 2023 ad spend, the report says. Can KYC on ad payouts fix that gap? Check My Ads Institute, a Washington-based non-profit that campaigns for advertising market reform, published a report on October 7, 2026 arguing that Google and…",
+      "excerpt": "Publisher links inside AI Overviews get clicked on 1% of visits, and MFA sites took 15% of 2023 ad spend, the report says. Can KYC on ad payouts fix that gap? Check My Ads Institute, a Washington-based non-profit that campaigns for advertising market reform, published a report on October 7, 2026 arguing that Google and the programmatic advertising system are draining revenue from the news publishers whose work they rely on. Titled The Crocodile Effect: How Platforms Eat Their Own Supply Chains and written by Anastasia Micich, the report describes two separate pressures on newsrooms - Google's AI-generated answers at the top of search results, and websites built only to capture advertising budgets - and calls for antitrust action to break up Google alongside know-your-customer rules for every company that pays publishers for ad space. The document contains no original research. Its figures come from academic studies, trade press, court coverage and Check My Ads' own earlier publications, and several of them date from 2020 to 2024. It also does not mention the opt-out control Google made available to every website in the world on August 31, 2026, five weeks before publication. A…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "d532fb2c3e6ddd6d",
       "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",

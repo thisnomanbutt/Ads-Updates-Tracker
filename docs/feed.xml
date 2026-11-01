@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:06:39 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google tells advertisers AI search queries now run 3x longer</title>
+      <link>https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/</link>
+      <guid isPermaLink="false">4a2efd2159852c28</guid>
+      <pubDate>Sun, 01 Nov 2026 05:37:46 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>One in six searches is multimodal, Google&amp;#x27;s Shivani Mohan told advertisers. Google&amp;#x27;s May data limited that to US AI Mode. Which other figures lack a baseline? Google's Ads Decoded podcast on October 28 published a 25-minute episode in which Shivani Mohan, Search Vice President of Data Science and User…</p><p>Source: <a href="https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google&amp;#x27;s DevFest 2026 expects almost 1 million attendees at 800+ events</title>
       <link>https://ppc.land/googles-devfest-2026-expects-almost-1-million-attendees-at-800-events/</link>
@@ -397,14 +405,6 @@
       <pubDate>Thu, 22 Oct 2026 13:00:00 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything from building awareness via Vertical Video Unification and driving performance with Search Ads 360 to taking customers from CTV to the checkout cart.</p><p>Source: <a href="https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/">Google Marketing Platform Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads New Translation Tool</title>
-      <link>https://www.seroundtable.com/google-ads-translation-tool-42351.html</link>
-      <guid isPermaLink="false">bcf020f6d119e99e</guid>
-      <pubDate>Thu, 22 Oct 2026 11:41:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads is now rolling out the Translation tool within the advertiser console. This allows advertisers to &quot;Translate your campaigns to reach global customers and boost your conversions,&quot; Google wrote. I think this is part of the new help document we covered on localization tool for Search campaigns but I can be…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-translation-tool-42351.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

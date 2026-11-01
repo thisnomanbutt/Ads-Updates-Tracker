@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-10-31T21:36:08.752Z",
+  "updatedAt": "2026-11-01T06:06:39.220Z",
   "model": null,
-  "count": 221,
+  "count": 222,
   "items": [
+    {
+      "id": "4a2efd2159852c28",
+      "title": "Google tells advertisers AI search queries now run 3x longer",
+      "link": "https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/",
+      "published": "2026-11-01T05:37:46.000Z",
+      "fetchedAt": "2026-11-01T06:06:39.220Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google tells advertisers AI search queries now run 3x longer",
+      "summary": "One in six searches is multimodal, Google&#x27;s Shivani Mohan told advertisers. Google&#x27;s May data limited that to US AI Mode. Which other figures lack a baseline? Google's Ads Decoded podcast on October 28 published a 25-minute episode in which Shivani Mohan, Search Vice President of Data Science and User…",
+      "excerpt": "One in six searches is multimodal, Google&#x27;s Shivani Mohan told advertisers. Google&#x27;s May data limited that to US AI Mode. Which other figures lack a baseline? Google's Ads Decoded podcast on October 28 published a 25-minute episode in which Shivani Mohan, Search Vice President of Data Science and User Experience Research at Google, said that query length \"has increased 3x\" and that \"one in every six searches is multimodal.\" Host Ginny Marvin, Google's Ads Product Liaison, closed the episode by stating that ads in Google's AI search surfaces are matched to \"both the query and the content of the AI response,\" and pointed retailers to six optional product data fields. Neither figure came with a market, a time period or a baseline, and both match numbers Google published in May with narrower qualifiers attached. A Google executive who leads research on how people use Google Search went on Google's advertising podcast and said people now type much longer questions and often search with pictures, video or voice. That matters to businesses that buy ads, because Google says its ads in AI answers are picked using the whole AI answer, not just the words someone typed. The two big…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "03aab045e9a67ba5",
       "title": "Google&#x27;s DevFest 2026 expects almost 1 million attendees at 800+ events",

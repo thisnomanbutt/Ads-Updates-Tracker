@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 06:05:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:55:34 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Lookalike Audience Suggestions for Leads Campaigns</title>
+      <link>https://www.jonloomer.com/qvt/lookalike-audience-suggestions-leads-campaigns/</link>
+      <guid isPermaLink="false">ade5ddbf8a622c7c</guid>
+      <pubDate>Mon, 02 Nov 2026 14:30:25 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Does Meta want advertisers to provide lookalike audience suggestions for leads? I’ve documented how Meta has deprioritized audience suggestions over the years. It started with removing language about prioritizing your suggestions before going broader. Meta has also made suggestion options far less prominent in the…</p><p>Source: <a href="https://www.jonloomer.com/qvt/lookalike-audience-suggestions-leads-campaigns/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Strategists Using AI-Generated Fake Names &amp; Profile Photos</title>
+      <link>https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html</link>
+      <guid isPermaLink="false">df5c0e92a651d8e7</guid>
+      <pubDate>Mon, 02 Nov 2026 12:31:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads Strategists, who are part of the Google Extended Workforce, are using AI-generated profile photos and names when reaching out to advertisers. An email sent from Kassy Garcia from Google to Joe Youngblood seems legit but when you look up who Kassy Garcia is, you won't find anything. Joe Youngblood posted…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Promotion Offers Within Promotions</title>
+      <link>https://www.seroundtable.com/google-ads-promotion-offers-42425.html</link>
+      <guid isPermaLink="false">e53964c22565da6a</guid>
+      <pubDate>Mon, 02 Nov 2026 12:11:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has added a new &quot;Promotions offers&quot; section within the Promotions section in Google Ads. This lets you quickly filter your promotions by these three statuses, offered, expired and invalidated. This was spotted by Thomas Eccel who posted about this on LinkedIn and wrote, &quot;Spotted a new section inside Promotions…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-promotion-offers-42425.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] ChatGPT ad visits earn shops $0.89 against $2.45 for Google search ads</title>
+      <link>https://ppc.land/chatgpt-ad-visits-earn-shops-0-89-against-2-45-for-google-search-ads/</link>
+      <guid isPermaLink="false">29d68a6ee8df9f62</guid>
+      <pubDate>Mon, 02 Nov 2026 11:46:55 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>At Google&amp;#x27;s rate of return a ChatGPT ad click is worth about $0.26 to advertisers, while one known account paid $1.72. Can ads cover what a free user costs? Paid clicks from ChatGPT's ads are worth a fraction of what advertisers are known to pay for them, according to a working paper by Maximilian Kaiser of the…</p><p>Source: <a href="https://ppc.land/chatgpt-ad-visits-earn-shops-0-89-against-2-45-for-google-search-ads/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Advertisers in 10 more countries can&amp;#x27;t opt out of Google&amp;#x27;s AI Mode ads</title>
       <link>https://ppc.land/advertisers-in-10-more-countries-cant-opt-out-of-googles-ai-mode-ads/</link>
@@ -373,38 +405,6 @@
       <pubDate>Fri, 23 Oct 2026 11:05:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads has added a new &quot;Sourced videos&quot; on/off toggle setting to the asset optimization section. This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically. This new toggle was spotted by Reva Minkoff who posted about it on LinkedIn and wrote, &quot;Has anyone…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-sourced-videos-42365.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta&amp;#x27;s AI rewrites the ads. From October 30, advertisers carry the risk</title>
-      <link>https://ppc.land/metas-ai-rewrites-the-ads-from-october-30-advertisers-carry-the-risk/</link>
-      <guid isPermaLink="false">4d52c0a795b6b76f</guid>
-      <pubDate>Thu, 22 Oct 2026 19:37:49 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta&amp;#x27;s October 30 terms make advertisers solely responsible for its AI ad edits and let it crawl their sites, in a week of 26% ad growth and a $25bn court fine. Bookshop.org, the online bookseller, found that one of its Meta ads contained an illustration nobody at the company had made. An account update had opted…</p><p>Source: <a href="https://ppc.land/metas-ai-rewrites-the-ads-from-october-30-advertisers-carry-the-risk/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing beta launch of Display &amp; Video 360 API v5</title>
-      <link>http://ads-developers.googleblog.com/2026/10/announcing-beta-launch-of-display-video.html</link>
-      <guid isPermaLink="false">6b1fa103c2c68b78</guid>
-      <pubDate>Thu, 22 Oct 2026 18:43:54 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>We’re pleased to announce that Display &amp; Video 360 API v5 is available in public beta starting today. Here is a subset of changes introduced in v5: Full management of advertiser-level YouTube video and channel exclusion targeting. Support for Digital Out of Home InsertionOrder resources. Updated Inventory Source…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/10/announcing-beta-launch-of-display-video.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] LinkedIn job-title targeting reaches Google DV360 CTV buys in the US</title>
-      <link>https://ppc.land/linkedin-job-title-targeting-reaches-google-dv360-ctv-buys-in-the-us/</link>
-      <guid isPermaLink="false">adae36d986152666</guid>
-      <pubDate>Thu, 22 Oct 2026 18:03:58 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>DV360 buyers can now apply LinkedIn job title, industry and seniority data to US streaming TV via Microsoft Monetize. What carries over from the DSP routes? LinkedIn today made its Connected TV advertising product available for programmatic purchase through Google's Display &amp; Video 360, letting buyers inside Google's…</p><p>Source: <a href="https://ppc.land/linkedin-job-title-targeting-reaches-google-dv360-ctv-buys-in-the-us/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta makes advertisers solely responsible for its AI ad edits from Oct 30</title>
-      <link>https://ppc.land/meta-makes-advertisers-solely-responsible-for-its-ai-ad-edits-from-oct-30/</link>
-      <guid isPermaLink="false">e045ef729fe407f5</guid>
-      <pubDate>Thu, 22 Oct 2026 17:46:02 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Agencies say Advantage+ adds sitelinks, translations and AI images to ads they never opted in. Exverus pulled live ads. Who pays when Meta&amp;#x27;s own tools err? Advertisers on Facebook and Instagram will be &quot;solely responsible&quot; for whatever Meta's artificial intelligence features create or change in their ads,…</p><p>Source: <a href="https://ppc.land/meta-makes-advertisers-solely-responsible-for-its-ai-ad-edits-from-oct-30/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-11-02T15:55:33.947Z",
+  "updatedAt": "2026-11-03T00:58:43.308Z",
   "model": null,
-  "count": 229,
+  "count": 230,
   "items": [
+    {
+      "id": "4b2506118399608e",
+      "title": "Google ad tags gain full visitor IP addresses in server-side GTM in 2027",
+      "link": "https://ppc.land/google-ad-tags-gain-full-visitor-ip-addresses-in-server-side-gtm-in-2027/",
+      "published": "2026-11-02T20:24:16.000Z",
+      "fetchedAt": "2026-11-03T00:58:43.308Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google ad tags gain full visitor IP addresses in server-side GTM in 2027",
+      "summary": "From January 11, Google Ads, DV360, SA360 and CM360 tags get unredacted IP addresses while Analytics keeps redaction. Who can opt out, and what consent applies? Google has begun notifying advertisers that, starting January 11, 2027, server-side Google Tag Manager will allow tags \"to process standard network signals…",
+      "excerpt": "From January 11, Google Ads, DV360, SA360 and CM360 tags get unredacted IP addresses while Analytics keeps redaction. Who can opt out, and what consent applies? Google has begun notifying advertisers that, starting January 11, 2027, server-side Google Tag Manager will allow tags \"to process standard network signals like IP address to facilitate improvements to ads measurement and personalisation.\" Server containers will move from container-wide IP address redaction to tag-level processing, and tags that send data to Google Ads, Display & Video 360, Search Ads 360 and Campaign Manager 360 \"will now accept the full IP address,\" according to Google. Google Analytics tags will keep redacting it. Google describes the way out of the new behavior as an opt-out, with instructions in a Help Centre article that the notice does not name. Some websites send their tracking data through their own server first, using a Google tool, and that server has been able to hide visitors' internet addresses from every tag in one go. From January 11, 2027, the tags that feed Google's four advertising products will get the full address unless the website owner switches the change off, while Google's…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "ade5ddbf8a622c7c",
       "title": "Lookalike Audience Suggestions for Leads Campaigns",

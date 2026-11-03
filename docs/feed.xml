@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:55:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:58:43 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google ad tags gain full visitor IP addresses in server-side GTM in 2027</title>
+      <link>https://ppc.land/google-ad-tags-gain-full-visitor-ip-addresses-in-server-side-gtm-in-2027/</link>
+      <guid isPermaLink="false">4b2506118399608e</guid>
+      <pubDate>Mon, 02 Nov 2026 20:24:16 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>From January 11, Google Ads, DV360, SA360 and CM360 tags get unredacted IP addresses while Analytics keeps redaction. Who can opt out, and what consent applies? Google has begun notifying advertisers that, starting January 11, 2027, server-side Google Tag Manager will allow tags &quot;to process standard network signals…</p><p>Source: <a href="https://ppc.land/google-ad-tags-gain-full-visitor-ip-addresses-in-server-side-gtm-in-2027/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Lookalike Audience Suggestions for Leads Campaigns</title>
       <link>https://www.jonloomer.com/qvt/lookalike-audience-suggestions-leads-campaigns/</link>
@@ -397,14 +405,6 @@
       <pubDate>Fri, 23 Oct 2026 11:11:00 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is testing a scrolling marquee on some of the sponsored results within Google Search. Google will load in the reviews/ratings, number of visits and a visit site link in one of these tests. In the other test, Google underlines the domain name in the ad snippet. This was spotted by Alex Greenland who posted…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Asset Optimization Sourced Videos On/Off Toggle</title>
-      <link>https://www.seroundtable.com/google-ads-sourced-videos-42365.html</link>
-      <guid isPermaLink="false">e4daac03bf3e0184</guid>
-      <pubDate>Fri, 23 Oct 2026 11:05:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads has added a new &quot;Sourced videos&quot; on/off toggle setting to the asset optimization section. This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically. This new toggle was spotted by Reva Minkoff who posted about it on LinkedIn and wrote, &quot;Has anyone…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-sourced-videos-42365.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

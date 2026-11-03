@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-11-03T14:16:40.478Z",
+  "updatedAt": "2026-11-03T23:24:41.570Z",
   "model": null,
-  "count": 233,
+  "count": 234,
   "items": [
+    {
+      "id": "5813bfa508a34d3b",
+      "title": "5 Ways Meta Could Improve Audience Segments",
+      "link": "https://www.jonloomer.com/meta-audience-segments/",
+      "published": "2026-11-03T16:03:37.000Z",
+      "fetchedAt": "2026-11-03T23:24:41.570Z",
+      "sourceId": "jon-loomer",
+      "sourceName": "Jon Loomer Digital",
+      "sourceType": "press",
+      "platform": "Meta Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "5 Ways Meta Could Improve Audience Segments",
+      "summary": "When Meta introduced audience segments for manual Sales campaigns in 2024 , they changed everything I knew about targeting. More than two years later, not nearly enough advertisers are getting the value out of audience segments that they should. I’m not going to use this post to highlight all of the many wonders of…",
+      "excerpt": "When Meta introduced audience segments for manual Sales campaigns in 2024 , they changed everything I knew about targeting. More than two years later, not nearly enough advertisers are getting the value out of audience segments that they should. I’m not going to use this post to highlight all of the many wonders of Audience Segments . I’ve covered this feature extensively , and I even created a free mini-course on it if you want to learn more. Today, I want to focus on the unfortunate problems with this feature. These problems don’t make audience segments any less valuable, but they prevent this amazing tool from being infinitely more useful. Some of these issues are so mind-numbingly frustrating and obvious that I’m not sure why I have to mention them. Folks within Meta, if you’re reading this, I’m begging you to make some important improvements. Let’s get to it… 1. Make Available for All Campaign Objectives It’s easy to forget that the origin of audience segments was Advantage+ Shopping Campaigns. Since we had no control over targeting with those campaigns, audience segments gave us insight into who was seeing and acting on our ads. They even allowed us to set an Existing…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "e0068998cc4e6265",
       "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries",

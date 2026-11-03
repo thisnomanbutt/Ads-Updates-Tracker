@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 14:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:24:41 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] 5 Ways Meta Could Improve Audience Segments</title>
+      <link>https://www.jonloomer.com/meta-audience-segments/</link>
+      <guid isPermaLink="false">5813bfa508a34d3b</guid>
+      <pubDate>Tue, 03 Nov 2026 16:03:37 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>When Meta introduced audience segments for manual Sales campaigns in 2024 , they changed everything I knew about targeting. More than two years later, not nearly enough advertisers are getting the value out of audience segments that they should. I’m not going to use this post to highlight all of the many wonders of…</p><p>Source: <a href="https://www.jonloomer.com/meta-audience-segments/">Jon Loomer Digital</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads PMax Campaigns May Filter Out Navigational &amp; Brand Queries</title>
       <link>https://www.seroundtable.com/google-ads-pmax-brand-queries-42438.html</link>
@@ -397,14 +405,6 @@
       <pubDate>Sat, 24 Oct 2026 17:35:36 GMT</pubDate>
       <category>Deprecation or removal</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Deprecation or removal · Impact: Low</p><p>Lists for 260 TV models from 77 brands name the ad and telemetry packages to switch off. What does that leave for the sellers of smart TV home screen inventory? A post by an individual developer, Gathin, about cleaning up their parents' television on October 17, 2026, has turned into an open-source project that, by…</p><p>Source: <a href="https://ppc.land/cleanyourtv-gains-30-900-github-stars-by-removing-google-tv-home-screen-ads/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Search campaigns lose 50% Display budget split in February 2027</title>
-      <link>https://ppc.land/google-ads-search-campaigns-lose-50-display-budget-split-in-february-2027/</link>
-      <guid isPermaLink="false">0120c0f9958fe714</guid>
-      <pubDate>Sat, 24 Oct 2026 07:18:53 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Display Expansion spent unused Search budget on Display under a 50% allocation set in the backend, Google now says. Who picks the split once that setup ends? Google's help page for Display Expansion on Search campaigns now states how the feature has been dividing budgets: ads ran on the Google Display Network from…</p><p>Source: <a href="https://ppc.land/google-ads-search-campaigns-lose-50-display-budget-split-in-february-2027/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

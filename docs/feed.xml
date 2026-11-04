@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:23:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:45:49 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Introducing Graph API v27.0 and Marketing API v27.0</title>
+      <link>https://developers.facebook.com/blog/post/2026/11/04/introducing-graph-api-v27-and-marketing-api-v27/</link>
+      <guid isPermaLink="false">46fad6d3f6f32778</guid>
+      <pubDate>Wed, 04 Nov 2026 18:00:22 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · API or developer · Impact: Medium</p><p>Graph API v27.0 and Marketing API v27.0 include new capabilities, deprecations, and breaking changes. Review the highlights below and visit the V27.0 changelog for the complete list of changes and details. Graph API - Legacy features: Starting November 4, 2026, new apps cannot use multi-ID requests, date/time…</p><p>Source: <a href="https://developers.facebook.com/blog/post/2026/11/04/introducing-graph-api-v27-and-marketing-api-v27/">Meta for Developers Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads New Help Document For Promotion Mode</title>
+      <link>https://www.seroundtable.com/google-ads-promotion-mode-help-document-42446.html</link>
+      <guid isPermaLink="false">0390c1d0959acb21</guid>
+      <pubDate>Wed, 04 Nov 2026 12:51:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads has posted a super comprehensive help document for Promotion mode. Promotion mode lets you advertise for short-term sales by temporarily lowering your Target ROAS and applying an optional extra daily budget during your promotional window. There is this new help document that digs into the Google Ads feature.…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-promotion-mode-help-document-42446.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google AI Mode Now With Up To Four Ads</title>
+      <link>https://www.seroundtable.com/google-ai-mode-four-ads-42443.html</link>
+      <guid isPermaLink="false">acede8bb233f12d0</guid>
+      <pubDate>Wed, 04 Nov 2026 12:41:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google can now show up to four Google Ads in the AI Mode responses for a single query. I mean, I am not sure if this is new, being that Google Ads has been showing four ads for search results officially since 2016 but we do know Google said it will show more ads , more often, in AI Mode during its earnings call. Sachin…</p><p>Source: <a href="https://www.seroundtable.com/google-ai-mode-four-ads-42443.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] 5 Ways Meta Could Improve Audience Segments</title>
       <link>https://www.jonloomer.com/meta-audience-segments/</link>
@@ -381,30 +405,6 @@
       <pubDate>Sun, 25 Oct 2026 13:45:19 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Match, landing page, headline and description sources now sit beside each search term for AI Max campaigns. Google&amp;#x27;s help page does not yet list the columns. Google Ads advertisers running AI Max for Search campaigns can now see, query by query, whether a click came from their own keywords or from Google's…</p><p>Source: <a href="https://ppc.land/google-ads-search-terms-report-adds-4-source-columns-for-ai-max-traffic/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google AI writes positive-only review summaries into Search ads in 4 markets</title>
-      <link>https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/</link>
-      <guid isPermaLink="false">e51e7218e29015e7</guid>
-      <pubDate>Sun, 25 Oct 2026 13:42:52 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Advertisers cannot edit the text, which Google shows only when it predicts better ad performance. The undated help page leaves out opt-out and sourcing details. Google has published a help page describing AI-generated review summaries that appear inside Search ads in the United States, the United Kingdom, Australia and…</p><p>Source: <a href="https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google lets Shopping and PMax campaigns lower ROAS targets by up to 30%</title>
-      <link>https://ppc.land/google-lets-shopping-and-pmax-campaigns-lower-roas-targets-by-up-to-30/</link>
-      <guid isPermaLink="false">98888c92d45b756d</guid>
-      <pubDate>Sun, 25 Oct 2026 13:39:52 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Tolerance runs from 5% to 30% for Shopping and PMax advertisers, but portfolio bid strategies switch the feature off. How far can results drift from target? Google Ads has published a help page setting out how Smart Bidding Exploration works across Search, Performance Max and Shopping campaigns, setting out the rules…</p><p>Source: <a href="https://ppc.land/google-lets-shopping-and-pmax-campaigns-lower-roas-targets-by-up-to-30/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] CleanYourTV gains 30,900 GitHub stars by removing Google TV home screen ads</title>
-      <link>https://ppc.land/cleanyourtv-gains-30-900-github-stars-by-removing-google-tv-home-screen-ads/</link>
-      <guid isPermaLink="false">055039b171747cbd</guid>
-      <pubDate>Sat, 24 Oct 2026 17:35:36 GMT</pubDate>
-      <category>Deprecation or removal</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Deprecation or removal · Impact: Low</p><p>Lists for 260 TV models from 77 brands name the ad and telemetry packages to switch off. What does that leave for the sellers of smart TV home screen inventory? A post by an individual developer, Gathin, about cleaning up their parents' television on October 17, 2026, has turned into an open-source project that, by…</p><p>Source: <a href="https://ppc.land/cleanyourtv-gains-30-900-github-stars-by-removing-google-tv-home-screen-ads/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

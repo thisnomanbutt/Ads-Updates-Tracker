@@ -5,7 +5,63 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:45:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:47:44 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google AI Mode gains a fourth ad slot below some answers</title>
+      <link>https://ppc.land/google-ai-mode-gains-a-fourth-ad-slot-below-some-answers/</link>
+      <guid isPermaLink="false">294c0afed906173d</guid>
+      <pubDate>Thu, 05 Nov 2026 05:44:37 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>HubSpot, Yext, Siteimprove and eintelligenceweb ads stacked under one AI SEO answer in AI Mode. Google has not said how widely it runs or whether it will stay. Google's AI search experience has displayed four text ads stacked beneath a single answer, according to Search Engine Roundtable , which reported on November 4,…</p><p>Source: <a href="https://ppc.land/google-ai-mode-gains-a-fourth-ad-slot-below-some-answers/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Both] EU study finds DMA has not opened Google, Meta and Amazon ad auction data</title>
+      <link>https://ppc.land/eu-study-finds-dma-has-not-opened-google-meta-and-amazon-ad-auction-data/</link>
+      <guid isPermaLink="false">279f210a9dc83bcc</guid>
+      <pubDate>Thu, 05 Nov 2026 05:00:09 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Both</strong> · Feature update · Impact: Low</p><p>Only 58% of 50 surveyed advertisers get raw log-level data from the three gatekeepers. Will Brussels use delegated acts or force a buy-side, sell-side split? A 571-page study commissioned by the European Commission concludes that the Digital Markets Act's advertising transparency rules have not given advertisers and…</p><p>Source: <a href="https://ppc.land/eu-study-finds-dma-has-not-opened-google-meta-and-amazon-ad-auction-data/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Explains Difference With Search Terms Match Type (Keywords)</title>
+      <link>https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html</link>
+      <guid isPermaLink="false">e7b18bc9118f3931</guid>
+      <pubDate>Wed, 04 Nov 2026 22:45:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Ginny Marvin, the Google Ads Liaison, explained why the Google Ads interface has two different metrics named search terms match type. One is named &quot;Search terms match type&quot; and the other is named &quot;Search terms match type (Keywords).&quot; Mike Ryan posted on X about this and wrote, &quot;I sense a disturbance in the force.&quot;…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Data Manager API now supports Google Ads call conversions and row-level diagnostics</title>
+      <link>http://ads-developers.googleblog.com/2026/11/data-manager-api-now-supports-google.html</link>
+      <guid isPermaLink="false">c2f0591e31b757f3</guid>
+      <pubDate>Wed, 04 Nov 2026 21:39:56 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>The latest release of the Data Manager API adds support for Google Ads call conversions. It also adds row-level details to diagnostics to help you find and fix the exact records that had problems during processing. Send call conversions to Google Ads You can now use the Data Manager API to send call conversions to…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/data-manager-api-now-supports-google.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Telemedicine advertisers gain a second Google ads certifier in 3 countries</title>
+      <link>https://ppc.land/telemedicine-advertisers-gain-a-second-google-ads-certifier-in-3-countries/</link>
+      <guid isPermaLink="false">1fdb67feba03bed1</guid>
+      <pubDate>Wed, 04 Nov 2026 21:17:18 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>NABP accreditation, at $1,075 per website, will count toward Google telehealth ad certification in the US, UK and Canada. When applications open is unclear. Google today posted a notice saying that telemedicine providers accredited by the National Association of Boards of Pharmacy (NABP) will be able to apply for…</p><p>Source: <a href="https://ppc.land/telemedicine-advertisers-gain-a-second-google-ads-certifier-in-3-countries/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta&amp;#x27;s API v27 may add catalog products to new ads by default</title>
+      <link>https://ppc.land/metas-api-v27-may-add-catalog-products-to-new-ads-by-default/</link>
+      <guid isPermaLink="false">17656eb388e5babf</guid>
+      <pubDate>Wed, 04 Nov 2026 21:13:31 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · API or developer · Impact: Low</p><p>From today on v27.0, and on all versions in about 90 days, new device-targeted Sales ad sets widen by default. Which catalog and lookalike API calls now fail? Meta today released Graph API v27.0 and Marketing API v27.0. On the new version, two features switch on by default for new ads, lookalike audience requests that…</p><p>Source: <a href="https://ppc.land/metas-api-v27-may-add-catalog-products-to-new-ads-by-default/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Upcoming changes to multi-party approvals in the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/11/upcoming-changes-to-multi-party.html</link>
+      <guid isPermaLink="false">e100f7d9b0ef2548</guid>
+      <pubDate>Wed, 04 Nov 2026 19:47:23 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Earlier this year, the Google Ads API started requiring multi-party approvals (MPA) when performing sensitive API actions. Starting the week of December 7, 2026 , we are introducing additional changes to improve the developer experience for multi-party approvals. What’s changing? Deferred access invitation creation: If…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/upcoming-changes-to-multi-party.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Introducing Graph API v27.0 and Marketing API v27.0</title>
       <link>https://developers.facebook.com/blog/post/2026/11/04/introducing-graph-api-v27-and-marketing-api-v27/</link>
@@ -349,62 +405,6 @@
       <pubDate>Sun, 25 Oct 2026 22:19:42 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Non-sexual child nudity gets a tier with at least 7 days of warning, while abuse content still means suspension on detection. What changes for ad accounts? Google on October 22, 2026 posted a notice in its Advertising Policies Help Center stating that the Google Ads policy on child sexual abuse and exploitation will be…</p><p>Source: <a href="https://ppc.land/google-ads-splits-child-safety-rules-into-two-penalty-tiers-from-january-11/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta says advertisers should let campaigns gather data</title>
-      <link>https://www.socialmediatoday.com/news/meta-says-advertisers-should-let-campaigns-gather-data/833906/</link>
-      <guid isPermaLink="false">f878a72a8028b3fe</guid>
-      <pubDate>Sun, 25 Oct 2026 22:11:16 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>The company’s new best practices guide cautioned marketers to give both ads and analytic systems time to assess results before tweaking components. In a new best practices guide, Meta said advertisers can maximize their ad campaign results this holiday season by ensuring that each campaign is clearly aligned with their…</p><p>Source: <a href="https://www.socialmediatoday.com/news/meta-says-advertisers-should-let-campaigns-gather-data/833906/">Social Media Today</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta says ad sets under 50 weekly conversions cost 28% more per purchase</title>
-      <link>https://ppc.land/meta-says-ad-sets-under-50-weekly-conversions-cost-28-more-per-purchase/</link>
-      <guid isPermaLink="false">d2f950e521b7c48f</guid>
-      <pubDate>Sun, 25 Oct 2026 22:10:58 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Weekly budget divided by 50 times cost per result caps ad sets for every advertiser. The supporting lift data dates from 2024 and 2025 - what holds for Q4 2026? Meta on October 21, 2026 published a peak season best-practice post on its Meta for Business site arguing that advertisers lose money during the holiday…</p><p>Source: <a href="https://ppc.land/meta-says-ad-sets-under-50-weekly-conversions-cost-28-more-per-purchase/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google&amp;#x27;s DV360 API v5 beta drops Customer Match audience management</title>
-      <link>https://ppc.land/googles-dv360-api-v5-beta-drops-customer-match-audience-management/</link>
-      <guid isPermaLink="false">bef2f54abccd8aff</guid>
-      <pubDate>Sun, 25 Oct 2026 22:07:23 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Cached inventory source IDs break and DOOH insertion orders turn readable for DV360 developers. Google set no v4 sunset date yet. How long can v4 code last? Google on October 22, 2026 opened version 5 of the Display &amp; Video 360 API in public beta, according to a post on the Google Ads Developer Blog signed by Trevor…</p><p>Source: <a href="https://ppc.land/googles-dv360-api-v5-beta-drops-customer-match-audience-management/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Quebec warranty law forces 3- to 6-year disclosures into Google Shopping ads</title>
-      <link>https://ppc.land/quebec-warranty-law-forces-3-to-6-year-disclosures-into-google-shopping-ads/</link>
-      <guid isPermaLink="false">19b06965126b59aa</guid>
-      <pubDate>Sun, 25 Oct 2026 21:15:13 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Stoves, TVs, phones and laptops sold to Quebec shoppers need a 3- to 6-year term shown by the price. Google displays it only later in 2026. What fills the gap? Google has added a warranty attribute to the Merchant Center product data specification so that retailers running Shopping ads and free listings in Canada can…</p><p>Source: <a href="https://ppc.land/quebec-warranty-law-forces-3-to-6-year-disclosures-into-google-shopping-ads/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google&amp;#x27;s help page trails its retention goal rollout to Search and Shopping</title>
-      <link>https://ppc.land/googles-help-page-trails-its-retention-goal-rollout-to-search-and-shopping/</link>
-      <guid isPermaLink="false">1e7c8494c3cb5c87</guid>
-      <pubDate>Sun, 25 Oct 2026 13:50:04 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Re-engagement still shows as Performance Max only in Google Ads documentation, three days after Google&amp;#x27;s holiday post. Which campaign types can use each mode? Google published a post on its Accelerate with Google site on October 22, 2026, setting out three changes to customer lifecycle goals in Google Ads ahead of…</p><p>Source: <a href="https://ppc.land/googles-help-page-trails-its-retention-goal-rollout-to-search-and-shopping/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads AI tool copies Search campaigns into 10 new languages</title>
-      <link>https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/</link>
-      <guid isPermaLink="false">2fb74db8cea32f8d</guid>
-      <pubDate>Sun, 25 Oct 2026 13:46:58 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Budgets copy across with no currency conversion, and only English (US) Search campaigns qualify. Performance Max support was due in September. Has it arrived? Google Ads advertisers now have access to an AI campaign localization tool that turns an existing English (US) Search campaign into a separate campaign in one of…</p><p>Source: <a href="https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads search terms report adds 4 source columns for AI Max traffic</title>
-      <link>https://ppc.land/google-ads-search-terms-report-adds-4-source-columns-for-ai-max-traffic/</link>
-      <guid isPermaLink="false">fcefe779be60fc3d</guid>
-      <pubDate>Sun, 25 Oct 2026 13:45:19 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Match, landing page, headline and description sources now sit beside each search term for AI Max campaigns. Google&amp;#x27;s help page does not yet list the columns. Google Ads advertisers running AI Max for Search campaigns can now see, query by query, whether a click came from their own keywords or from Google's…</p><p>Source: <a href="https://ppc.land/google-ads-search-terms-report-adds-4-source-columns-for-ai-max-traffic/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

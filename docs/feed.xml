@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:48:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:25:09 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Meta can add website offers to copied ads even with promotions turned off</title>
+      <link>https://ppc.land/meta-can-add-website-offers-to-copied-ads-even-with-promotions-turned-off/</link>
+      <guid isPermaLink="false">7bcbcf1ecb1cf823</guid>
+      <pubDate>Fri, 06 Nov 2026 18:14:04 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>One Commerce Manager checkbox covers all ads, so Facebook and Instagram advertisers can run discounts they never chose. Is it on by default? Meta has not said. Meta can display discounts it detects on an advertiser's website in Facebook and Instagram ads, including in a copy of an ad whose promotions had been switched…</p><p>Source: <a href="https://ppc.land/meta-can-add-website-offers-to-copied-ads-even-with-promotions-turned-off/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Both] Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google &amp; More SEO, PPC &amp; Local</title>
+      <link>https://www.seroundtable.com/video-11-06-2026-42469.html</link>
+      <guid isPermaLink="false">ad188aaf1700a11e</guid>
+      <pubDate>Fri, 06 Nov 2026 13:01:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Both</strong> · Feature update · Impact: Low</p><p>This week, we covered Facebook’s latest AI-slop strategy that likely will get hit by Google’s scaled content abuse policy. Google said important URLs can still show in Google Search even after a 400 status code, for some time. Did your homepage drop out of the index? That might be a sign of quality issues. Google…</p><p>Source: <a href="https://www.seroundtable.com/video-11-06-2026-42469.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Confirms Issues With Merchant Center, API &amp; Feeds</title>
+      <link>https://www.seroundtable.com/google-confirms-issues-with-merchant-center-42473.html</link>
+      <guid isPermaLink="false">8dc769289e24fcbb</guid>
+      <pubDate>Fri, 06 Nov 2026 12:16:00 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google has confirmed there is an ongoing issue right now with Google Merchant Center. The issue is with Merchant API, Merchant Center, and Feeds, Google posted at 5:26 am ET on the Google Merchant Center status page . Google wrote on November 6, 2026 at 10:26 AM UTC: We're investigating reports of an issue with…</p><p>Source: <a href="https://www.seroundtable.com/google-confirms-issues-with-merchant-center-42473.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads Expands AI Content Disclosure Label To More Regions</title>
       <link>https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html</link>
@@ -381,30 +405,6 @@
       <pubDate>Tue, 27 Oct 2026 05:08:13 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>One in 11 Facebook and Instagram ad files from 509 brands carried AI media, 70% built to look real. Labelling rules in New York and the EU already apply to ads. Resemble AI, a Mountain View company that sells software for detecting synthetic media, on October 22, 2026 published a study that scanned 37,768 image and…</p><p>Source: <a href="https://ppc.land/only-2-of-3-379-ai-flagged-meta-ad-files-disclosed-ai-use-resemble-ai-finds/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Pinterest sells ads through Amazon and Google DSPs in 3 regions, not Europe</title>
-      <link>https://ppc.land/pinterest-sells-ads-through-amazon-and-google-dsps-in-3-regions-not-europe/</link>
-      <guid isPermaLink="false">f3dbaa09542fb004</guid>
-      <pubDate>Mon, 26 Oct 2026 20:13:22 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Enterprise buyers reach Pinterest video and display deals through Magnite, its main supply partner. Prices, deal types and a date for Europe stay unpublished. Pinterest today made Programmatic Deals generally available in North America, South America and Asia Pacific. The product puts selected Pinterest display and…</p><p>Source: <a href="https://ppc.land/pinterest-sells-ads-through-amazon-and-google-dsps-in-3-regions-not-europe/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Ads Super Burst, First Impression Ads, and Aggregated View Time</title>
-      <link>https://www.jonloomer.com/qvt/ads-super-burst-first-impression-ads-aggregated-view-time/</link>
-      <guid isPermaLink="false">586e54b02b30ea3c</guid>
-      <pubDate>Mon, 26 Oct 2026 13:30:04 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>During the recent Brand Building Summit , Meta shared several updates. Here are the details of three new ad features… 1. Ads Super Burst Ads Super Burst allows advertisers to book a window of three to 24 hours to reach your audience. With category exclusivity, no other advertiser in your category can book the same…</p><p>Source: <a href="https://www.jonloomer.com/qvt/ads-super-burst-first-impression-ads-aggregated-view-time/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads AI-Generated Review Summaries Help Doc</title>
-      <link>https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html</link>
-      <guid isPermaLink="false">eae0ad4385ba72f0</guid>
-      <pubDate>Mon, 26 Oct 2026 11:41:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has published a new help document named About Review summaries that explains that &quot;review summaries on Search are AI-powered summaries of online reviews that appear directly as part of your Search ads.&quot; We have seen AI- generated summaries for sponsored results in Google for some time now , and now there is a…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

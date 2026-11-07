@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 19:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:59:16 GMT</lastBuildDate>
     <item>
       <title>[Meta Ads] Meta can add website offers to copied ads even with promotions turned off</title>
       <link>https://ppc.land/meta-can-add-website-offers-to-copied-ads-even-with-promotions-turned-off/</link>
@@ -13,6 +13,14 @@
       <pubDate>Fri, 06 Nov 2026 18:14:04 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>One Commerce Manager checkbox covers all ads, so Facebook and Instagram advertisers can run discounts they never chose. Is it on by default? Meta has not said. Meta can display discounts it detects on an advertiser's website in Facebook and Instagram ads, including in a copy of an ad whose promotions had been switched…</p><p>Source: <a href="https://ppc.land/meta-can-add-website-offers-to-copied-ads-even-with-promotions-turned-off/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Prepare for CocoaPods read-only mode: Migrate your iOS apps to Swift Package Manager</title>
+      <link>http://ads-developers.googleblog.com/2026/11/prepare-for-cocoapods-read-only-mode.html</link>
+      <guid isPermaLink="false">d26292ac52a6db63</guid>
+      <pubDate>Fri, 06 Nov 2026 17:58:57 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>On December 2, 2026 , the CocoaPods Specs repository will permanently transition to read-only mode. As a result, we will no longer publish new versions of the Google Mobile Ads SDK or mediation adapters for iOS to CocoaPods after this date. What this means for your iOS apps If you currently use CocoaPods to install the…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/prepare-for-cocoapods-read-only-mode.html">Google Ads Developer Blog</a></p>]]></description>
     </item>
     <item>
       <title>[Both] Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google &amp; More SEO, PPC &amp; Local</title>
@@ -397,14 +405,6 @@
       <pubDate>Tue, 27 Oct 2026 05:30:56 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Datasets already sending events are switched on by default, and matching runs on the shopper&amp;#x27;s own device. Meta has not said if recovered sales feed bidding. Meta will begin measuring some website purchases on shoppers' own phones and computers from November 12, 2026, through a new Meta Pixel setting that is…</p><p>Source: <a href="https://ppc.land/meta-pixel-will-count-more-conversions-from-nov-12-unless-advertisers-opt-out/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Only 2 of 3,379 AI-flagged Meta ad files disclosed AI use, Resemble AI finds</title>
-      <link>https://ppc.land/only-2-of-3-379-ai-flagged-meta-ad-files-disclosed-ai-use-resemble-ai-finds/</link>
-      <guid isPermaLink="false">7a549ad48385cd2b</guid>
-      <pubDate>Tue, 27 Oct 2026 05:08:13 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>One in 11 Facebook and Instagram ad files from 509 brands carried AI media, 70% built to look real. Labelling rules in New York and the EU already apply to ads. Resemble AI, a Mountain View company that sells software for detecting synthetic media, on October 22, 2026 published a study that scanned 37,768 image and…</p><p>Source: <a href="https://ppc.land/only-2-of-3-379-ai-flagged-meta-ad-files-disclosed-ai-use-resemble-ai-finds/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

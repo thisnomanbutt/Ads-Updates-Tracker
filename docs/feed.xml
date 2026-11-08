@@ -5,7 +5,47 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 22:06:44 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads asset scheduling gains 3 day ranges ahead of Black Friday</title>
+      <link>https://ppc.land/google-ads-asset-scheduling-gains-3-day-ranges-ahead-of-black-friday/</link>
+      <guid isPermaLink="false">397cb22d9fbe6539</guid>
+      <pubDate>Sun, 08 Nov 2026 13:39:27 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Sitelinks can now run Mondays-Fridays or Saturdays-Sundays from one schedule row, not five or two day entries. Has the unannounced change reached every account? Google Ads has added three predefined day ranges to the scheduling controls for assets such as sitelinks, so an advertiser can make an asset eligible on &quot;All…</p><p>Source: <a href="https://ppc.land/google-ads-asset-scheduling-gains-3-day-ranges-ahead-of-black-friday/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads gains new-customer-only bidding for Manual CPC campaigns</title>
+      <link>https://ppc.land/google-ads-gains-new-customer-only-bidding-for-manual-cpc-campaigns/</link>
+      <guid isPermaLink="false">ab3bc87a73f1b310</guid>
+      <pubDate>Sun, 08 Nov 2026 13:35:55 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Manual CPC advertisers still need a customer list to define new buyers, Higman says, and Google warns existing ones may see ads. Rollout scope is unconfirmed. Google Ads is offering advertisers who set their own cost-per-click bids a way to restrict a campaign to new customers without moving to automated bidding,…</p><p>Source: <a href="https://ppc.land/google-ads-gains-new-customer-only-bidding-for-manual-cpc-campaigns/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads drops language targeting from Search campaigns</title>
+      <link>https://ppc.land/google-ads-drops-language-targeting-from-search-campaigns/</link>
+      <guid isPermaLink="false">15196aa6a65a5725</guid>
+      <pubDate>Sun, 08 Nov 2026 13:34:05 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Performance Max keeps the setting only for YouTube, Display, Discover and Gmail, while Editor still shows it in one account. What now decides who sees which ad? Google Ads has removed the campaign-level language setting from Search campaigns, and the control was missing from at least one live advertiser account by…</p><p>Source: <a href="https://ppc.land/google-ads-drops-language-targeting-from-search-campaigns/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Search and Shopping campaigns gain channel reporting in 2027</title>
+      <link>https://ppc.land/google-ads-search-and-shopping-campaigns-gain-channel-reporting-in-2027/</link>
+      <guid isPermaLink="false">832d401216da3e48</guid>
+      <pubDate>Sun, 08 Nov 2026 13:31:25 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Seven channels, with YouTube search results counted as YouTube rather than Search partners, now define PMax reports. What moves when Search reports adopt them? Google has updated the Google Ads Help page that defines a Performance Max channel to say that the channel definitions it uses for Performance Max reporting…</p><p>Source: <a href="https://ppc.land/google-ads-search-and-shopping-campaigns-gain-channel-reporting-in-2027/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google ties consistent PMax spend to 15 conversions every 30 days</title>
+      <link>https://ppc.land/google-ties-consistent-pmax-spend-to-15-conversions-every-30-days/</link>
+      <guid isPermaLink="false">5edab0e1234b7be3</guid>
+      <pubDate>Sun, 08 Nov 2026 13:26:51 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Low-volume PMax advertisers get the bar Google already sets for Search Target ROAS bidding, on an undated page. Which conversions count, and at what level? Google has added a specific conversion volume to its troubleshooting guidance for Performance Max campaigns, stating that &quot;achieving stable performance requires at…</p><p>Source: <a href="https://ppc.land/google-ties-consistent-pmax-spend-to-15-conversions-every-30-days/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Demand Gen ads can now show discount tags on YouTube Shorts</title>
       <link>https://ppc.land/google-demand-gen-ads-can-now-show-discount-tags-on-youtube-shorts/</link>
@@ -365,46 +405,6 @@
       <pubDate>Wed, 28 Oct 2026 19:17:08 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Every eligible ad on Facebook and Instagram is now scored at over 1bn a second per GPU server, 100x the 2024 rate. What sits behind Meta&amp;#x27;s conversion claim? Meta today published the technical design of the second generation of Andromeda, the system that decides which ads on Facebook and Instagram reach the ranking…</p><p>Source: <a href="https://ppc.land/meta-says-andromeda-lifted-facebook-conversions-2-4-since-2025/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads API Version 26.1 Now Out Available</title>
-      <link>https://www.seroundtable.com/google-ads-api-version-261-42409.html</link>
-      <guid isPermaLink="false">50576f447cc9b3b5</guid>
-      <pubDate>Wed, 28 Oct 2026 19:08:00 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google Ads has just released a minor update to its Google Ads API, this is version 26.1. This update touches on assets, campaigns, local services, recommendations, reporting, and targeting. Google did not yet announce this on the Google Ads developer blog but I am sure they will mention something soon. Version 26.1 is…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-api-version-261-42409.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Adapt your ad strategy to meet the way people search today.</title>
-      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/</link>
-      <guid isPermaLink="false">8e20388429f08690</guid>
-      <pubDate>Wed, 28 Oct 2026 19:00:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Search is undergoing rapid changes — from new experiences and capabilities to evolving search habits — that directly impact the advertising landscape. In this episode of Ads Decoded, Google Ads Product Liaison Ginny Marvin sits down with Shivani Mohan, Vice President of Data Science and UXR for Search. Shivani and her…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Tests Sponsored Results With Apple Messages Button</title>
-      <link>https://www.seroundtable.com/google-ads-apple-messages-button-42400.html</link>
-      <guid isPermaLink="false">3527ec57dd6c9f95</guid>
-      <pubDate>Wed, 28 Oct 2026 11:56:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google is testing a new messaging button named Apple Messages on the Google Ads sponsored results. Google has placed messages button, message assets, on Google search ads for a long time now but I don't think I've seen the Apple Messages button before. This was spotted by Anthony Higman who wrote on X , &quot;Apple Messages…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-apple-messages-button-42400.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads &quot;All Conversions&quot; Tab Is Fully Live</title>
-      <link>https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html</link>
-      <guid isPermaLink="false">e00b59075b328dcd</guid>
-      <pubDate>Wed, 28 Oct 2026 11:51:00 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads seems to have rolled out the &quot;All conversions&quot; tab within the Goals and Conversions section. This allows advertisers to make one less click, where they can avoid clicking on &quot;View all conversion actions.&quot; This was first spotted by Thomas Eccel who posted about it on LinkedIn and wrote, &quot;You don't need to…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Pixel counts more sales from Nov 12 as AI ads go undisclosed</title>
-      <link>https://ppc.land/meta-pixel-counts-more-sales-from-nov-12-as-ai-ads-go-undisclosed/</link>
-      <guid isPermaLink="false">23ea96a21e5fcdda</guid>
-      <pubDate>Wed, 28 Oct 2026 06:03:05 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta switches on device-side conversion counting by default on November 12, while a scan of 37,768 Meta ad files finds only 2 of 3,379 AI-flagged files said so. Advertisers who use the Meta Pixel will find, from November 12, that their campaigns appear to sell a little more. Nothing about the campaigns will have…</p><p>Source: <a href="https://ppc.land/meta-pixel-counts-more-sales-from-nov-12-as-ai-ads-go-undisclosed/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

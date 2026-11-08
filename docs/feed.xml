@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:25:49 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Demand Gen ads can now show discount tags on YouTube Shorts</title>
+      <link>https://ppc.land/google-demand-gen-ads-can-now-show-discount-tags-on-youtube-shorts/</link>
+      <guid isPermaLink="false">5c3984f2f0045bf8</guid>
+      <pubDate>Sun, 08 Nov 2026 13:24:35 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Only campaigns built on a Merchant Center product feed qualify, and in-stream ads get the tags too. Google&amp;#x27;s own promotion asset guide still omits Demand Gen. Google has extended promotion assets to Demand Gen campaigns, allowing retailers to attach discount tags to ads running in YouTube Shorts and YouTube…</p><p>Source: <a href="https://ppc.land/google-demand-gen-ads-can-now-show-discount-tags-on-youtube-shorts/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Analytics Data Manager: duplicate Ads setups can log conversions twice</title>
+      <link>https://ppc.land/google-analytics-data-manager-duplicate-ads-setups-can-log-conversions-twice/</link>
+      <guid isPermaLink="false">5c28191dc2b08e39</guid>
+      <pubDate>Sun, 08 Nov 2026 06:51:52 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Data flows one way, from Analytics to Google Ads and GMP, in the beta released November 6. Roll-up properties are left out. No date for leaving beta is given. Google on November 6, 2026 released Data Manager in Google Analytics as a beta, placing a single hub for data streams, product links and first-party data imports…</p><p>Source: <a href="https://ppc.land/google-analytics-data-manager-duplicate-ads-setups-can-log-conversions-twice/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] WhatsApp event invites now reach people without a WhatsApp account</title>
       <link>https://ppc.land/whatsapp-event-invites-now-reach-people-without-a-whatsapp-account/</link>
@@ -389,22 +405,6 @@
       <pubDate>Wed, 28 Oct 2026 06:03:05 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta switches on device-side conversion counting by default on November 12, while a scan of 37,768 Meta ad files finds only 2 of 3,379 AI-flagged files said so. Advertisers who use the Meta Pixel will find, from November 12, that their campaigns appear to sell a little more. Nothing about the campaigns will have…</p><p>Source: <a href="https://ppc.land/meta-pixel-counts-more-sales-from-nov-12-as-ai-ads-go-undisclosed/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not</title>
-      <link>https://www.seroundtable.com/google-local-service-ad-confusion-42328.html</link>
-      <guid isPermaLink="false">48af56deccd8eb2a</guid>
-      <pubDate>Tue, 27 Oct 2026 11:31:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google advertisers are struggling to agree on whether a specific local ad unit in Google Search is a Local Service Ad or another type of local Google ad. Ryan posted a screenshot on X and asked, &quot;This bottom ad is LSA, right?&quot; He asked Anthony Higman, who responded, &quot;YES!!!!!! No one can tell BUT YES YOU ARE CORRECT!.…</p><p>Source: <a href="https://www.seroundtable.com/google-local-service-ad-confusion-42328.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Clarifies Upcoming Placement Control Changes</title>
-      <link>https://www.jonloomer.com/meta-placement-control-changes/</link>
-      <guid isPermaLink="false">a9d450eb2bf1ae4d</guid>
-      <pubDate>Tue, 27 Oct 2026 11:30:42 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Two months ago, I wrote a blog post about the upcoming changes to Meta ads placement controls . At the time, Meta hadn’t made an official announcement, so my reporting was based on what was publicly available, what Meta said privately, and what I could assume based on what was known. Two months later, Meta made a…</p><p>Source: <a href="https://www.jonloomer.com/meta-placement-control-changes/">Jon Loomer Digital</a></p>]]></description>
     </item>
   </channel>
 </rss>

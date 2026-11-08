@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:51:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:02:09 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] WhatsApp event invites now reach people without a WhatsApp account</title>
+      <link>https://ppc.land/whatsapp-event-invites-now-reach-people-without-a-whatsapp-account/</link>
+      <guid isPermaLink="false">0b1602f6d65dfe74</guid>
+      <pubDate>Sun, 08 Nov 2026 05:40:33 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Guests with no app can RSVP from a shared link but only see the address after replying. What Meta collects from those non-users remains unstated by the company. WhatsApp has started letting people send event invitations to friends who do not have a WhatsApp account. Those guests can see the details and RSVP through a…</p><p>Source: <a href="https://ppc.land/whatsapp-event-invites-now-reach-people-without-a-whatsapp-account/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google&amp;#x27;s Data Manager API accepts call conversions, but only hashed numbers</title>
+      <link>https://ppc.land/googles-data-manager-api-accepts-call-conversions-but-only-hashed-numbers/</link>
+      <guid isPermaLink="false">8a7c3fe730707b9a</guid>
+      <pubDate>Sun, 08 Nov 2026 05:36:34 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Version 1.9, released November 4, also lists each failed record&amp;#x27;s position for developers and data partners. Lead IDs arrive, but cannot yet drive attribution. Google on November 4, 2026 released version 1.9 of its Data Manager API, adding support for Google Ads call conversions, a list of the exact records that…</p><p>Source: <a href="https://ppc.land/googles-data-manager-api-accepts-call-conversions-but-only-hashed-numbers/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API sets December 7 deadline for user access approval changes</title>
+      <link>https://ppc.land/google-ads-api-sets-december-7-deadline-for-user-access-approval-changes/</link>
+      <guid isPermaLink="false">a287f9305d9f5b24</guid>
+      <pubDate>Sun, 08 Nov 2026 05:30:22 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Tools that manage Google Ads users can resolve 100 pending reviews per call instead of one, but invitation IDs arrive only after approval. Which versions lag? Google will change how its Ads API handles multi-party approvals starting the week of December 7, 2026, and has asked developers who use the security feature to…</p><p>Source: <a href="https://ppc.land/google-ads-api-sets-december-7-deadline-for-user-access-approval-changes/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta can add website offers to copied ads even with promotions turned off</title>
       <link>https://ppc.land/meta-can-add-website-offers-to-copied-ads-even-with-promotions-turned-off/</link>
@@ -381,30 +405,6 @@
       <pubDate>Tue, 27 Oct 2026 11:30:42 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Two months ago, I wrote a blog post about the upcoming changes to Meta ads placement controls . At the time, Meta hadn’t made an official announcement, so my reporting was based on what was publicly available, what Meta said privately, and what I could assume based on what was known. Two months later, Meta made a…</p><p>Source: <a href="https://www.jonloomer.com/meta-placement-control-changes/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Tests Dotted Underlined Links In Sponsored Results</title>
-      <link>https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html</link>
-      <guid isPermaLink="false">df1edf6c6a564527</guid>
-      <pubDate>Tue, 27 Oct 2026 11:21:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google is testing placing dotted underlined links in the sponsored results ad descriptions. When you click on them, you go to the ad destination's URL, like you would if you clicked on the title of the ad. We saw Google testing dotted underlined URLs , blue dotted underlined sitelinks , dotted underlined AI Overview…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy</title>
-      <link>https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html</link>
-      <guid isPermaLink="false">01611d0ac5bf9d37</guid>
-      <pubDate>Tue, 27 Oct 2026 11:11:00 GMT</pubDate>
-      <category>Policy or compliance</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google Ads said it will update its Child Sexual Abuse and Exploitation (CSAE) ads policy this coming January. Google said this is being done as part of a &quot;redesign of the policy, and to improve protections, clarity and transparency.&quot; Google will update the header of the policy to &quot;Child Safety.&quot; It will also be…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Pixel will count more conversions from Nov 12 unless advertisers opt out</title>
-      <link>https://ppc.land/meta-pixel-will-count-more-conversions-from-nov-12-unless-advertisers-opt-out/</link>
-      <guid isPermaLink="false">436425b75bac17ea</guid>
-      <pubDate>Tue, 27 Oct 2026 05:30:56 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Datasets already sending events are switched on by default, and matching runs on the shopper&amp;#x27;s own device. Meta has not said if recovered sales feed bidding. Meta will begin measuring some website purchases on shoppers' own phones and computers from November 12, 2026, through a new Meta Pixel setting that is…</p><p>Source: <a href="https://ppc.land/meta-pixel-will-count-more-conversions-from-nov-12-unless-advertisers-opt-out/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

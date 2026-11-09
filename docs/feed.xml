@@ -5,7 +5,71 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:31:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 22:22:43 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads MCP server gains 4 write tools, still can&amp;#x27;t change budgets</title>
+      <link>https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/</link>
+      <guid isPermaLink="false">169c343dbbb8c645</guid>
+      <pubDate>Mon, 09 Nov 2026 20:46:12 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Version 0.0.6 shipped November 2 with asset and label writes switched on in default installs. Who checks what AI agents commit while the guide says read-only? Google released version 0.0.6 of its open-source Google Ads MCP server on November 2, 2026, and with it the first tools in the project's public history that can…</p><p>Source: <a href="https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google moves Demand Gen Display opt-out to ad groups from December 1</title>
+      <link>https://ppc.land/google-moves-demand-gen-display-opt-out-to-ad-groups-from-december-1/</link>
+      <guid isPermaLink="false">8763785e3e5bd576</guid>
+      <pubDate>Mon, 09 Nov 2026 20:07:55 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Integrations setting target_content_network to false will hit an error, and Display-only ad groups get paused. Will new API-built ad groups stay off Display? Google today told developers that, starting the week of December 1, 2026, the Google Ads API will no longer accept the campaign-level setting that keeps Demand…</p><p>Source: <a href="https://ppc.land/google-moves-demand-gen-display-opt-out-to-ad-groups-from-december-1/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] YouTube to rejoin Billboard charts as ad-supported streams gain 67% weight</title>
+      <link>https://ppc.land/youtube-to-rejoin-billboard-charts-as-ad-supported-streams-gain-67-weight/</link>
+      <guid isPermaLink="false">138c6e58d736f7e0</guid>
+      <pubDate>Mon, 09 Nov 2026 20:05:26 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Artists need 1,500 ad-supported streams per Billboard 200 unit, down from 2,500, from charts dated January 16, 2027. Paid plays still count 1.5x - is it equal? YouTube today said its data will return to the U.S. Billboard charts starting in 2027, ending a withdrawal that began in January 2026 over how Billboard values…</p><p>Source: <a href="https://ppc.land/youtube-to-rejoin-billboard-charts-as-ad-supported-streams-gain-67-weight/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Brainlabs warns Meta&amp;#x27;s AI creative could leave brands unsure what worked</title>
+      <link>https://ppc.land/brainlabs-warns-metas-ai-creative-could-leave-brands-unsure-what-worked/</link>
+      <guid isPermaLink="false">2d2281f99ca58280</guid>
+      <pubDate>Mon, 09 Nov 2026 19:56:30 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Muse Image is still on its way to Advantage+ creative, Brainlabs&amp;#x27; Liz DeAngelis writes, as Meta advertisers weigh AI ads. Which brand grew by ceding creative? Advertisers who let Meta generate and keep adjusting their ad creative may end up with better campaign numbers and less understanding of why, according to a…</p><p>Source: <a href="https://ppc.land/brainlabs-warns-metas-ai-creative-could-leave-brands-unsure-what-worked/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Display targeting changes in Demand Gen campaigns starting the week of December 1, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/11/display-targeting-changes-in-demand-gen.html</link>
+      <guid isPermaLink="false">2a54d14a4014a3f3</guid>
+      <pubDate>Mon, 09 Nov 2026 17:02:52 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Starting the week of December 1, 2026, campaign-level Display targeting ( network_settings.target_content_network ) will default to enabled ( true ) for newly created Demand Gen campaigns. Display network targeting will be managed directly at the ad group level using channel controls (…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/display-targeting-changes-in-demand-gen.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads AI-Generated Summaries Above &amp; Within Ads</title>
+      <link>https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html</link>
+      <guid isPermaLink="false">c7c437e5096fa450</guid>
+      <pubDate>Mon, 09 Nov 2026 12:21:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google is testing more AI-generated summaries within its search ads. This one shows AI-generated summaries above the grouping of the sponsored results, summarizing all the ads from all the advertisers, with also AI-generated summaries below each ad description. When the AI-generated summaries are loading, there is the…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads New Asset Activity Section</title>
+      <link>https://www.seroundtable.com/google-ads-asset-activity-section-42481.html</link>
+      <guid isPermaLink="false">a86407a15ed1fa77</guid>
+      <pubDate>Mon, 09 Nov 2026 12:05:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads is testing a new section in the advertiser console named &quot;Asset Activity.&quot; Asset Activity is labeled &quot;Beta&quot; within Google Ads and it uses Google AI to give you information on your Google Ads assets, such as asset performance, asset diversity, competitor performance, industry trends and more. A number of…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-asset-activity-section-42481.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Holiday 100: Your guide to this year’s top trending gifts</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/</link>
+      <guid isPermaLink="false">53b9b558ec646e12</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Shop for everyone on your list with this curated guide based on the year’s biggest Search trends. Your browser does not support the audio element. We are sharing our annual Holiday 100 list to help you find thoughtful gifts based on the latest global search trends. This guide highlights popular items across tech, home,…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads asset scheduling gains 3 day ranges ahead of Black Friday</title>
       <link>https://ppc.land/google-ads-asset-scheduling-gains-3-day-ranges-ahead-of-black-friday/</link>
@@ -341,70 +405,6 @@
       <pubDate>Sat, 31 Oct 2026 07:41:49 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Publisher links inside AI Overviews get clicked on 1% of visits, and MFA sites took 15% of 2023 ad spend, the report says. Can KYC on ad payouts fix that gap? Check My Ads Institute, a Washington-based non-profit that campaigns for advertising market reform, published a report on October 7, 2026 arguing that Google and…</p><p>Source: <a href="https://ppc.land/check-my-ads-says-google-profits-twice-from-publisher-content/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google: Ads In AI Mode Earning Less Than Traditional Search Ads</title>
-      <link>https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html</link>
-      <guid isPermaLink="false">d532fb2c3e6ddd6d</guid>
-      <pubDate>Thu, 29 Oct 2026 14:15:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google announced earnings yesterday , and during the earnings call, Philipp Schindler, Google's senior vice president and chief business officer, said that ads in AI Mode have a &quot;lower monetization&quot; than ads in traditional search. &quot;It's worth noting that the strong growth in AI Mode queries had an impact because of the…</p><p>Source: <a href="https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google ad clicks gain 8% in Q3, slower than 11% over nine months</title>
-      <link>https://ppc.land/google-ad-clicks-gain-8-in-q3-slower-than-11-over-nine-months/</link>
-      <guid isPermaLink="false">0b69ccb89e09d806</guid>
-      <pubDate>Thu, 29 Oct 2026 12:43:24 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Each click cost advertisers 4% more and Google showed 14% fewer ads on partner sites. Alphabet&amp;#x27;s filing also lists $1.08tn of commitments stretching past 2031. Alphabet's quarterly report on Form 10-Q, dated October 28, 2026, contains the advertising measures its earnings release left out. Paid clicks on Google…</p><p>Source: <a href="https://ppc.land/google-ad-clicks-gain-8-in-q3-slower-than-11-over-nine-months/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google&amp;#x27;s ad growth slows to 10.5% as AI Mode ads go to 10 more markets</title>
-      <link>https://ppc.land/googles-ad-growth-slows-to-10-5-as-ai-mode-ads-go-to-10-more-markets/</link>
-      <guid isPermaLink="false">79a99ade1ba8202d</guid>
-      <pubDate>Thu, 29 Oct 2026 05:20:05 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Alphabet&amp;#x27;s Q3 ad revenue rose 10.5% to about $82 billion as AI Mode squeezed search ad slots, and Google said ads in AI Mode would now reach 10 more markets. Alphabet's quarterly results, published after the market closed on Wednesday, October 28, contained a number large enough to reassure almost anyone: revenue…</p><p>Source: <a href="https://ppc.land/googles-ad-growth-slows-to-10-5-as-ai-mode-ads-go-to-10-more-markets/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] YouTube ad revenue gains 9% to $11.2bn, its slowest growth of 2026</title>
-      <link>https://ppc.land/youtube-ad-revenue-gains-9-to-11-2bn-its-slowest-growth-of-2026/</link>
-      <guid isPermaLink="false">aa5a5858d9e9ca92</guid>
-      <pubDate>Thu, 29 Oct 2026 05:13:58 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Ad sales rose $152m on Q2 even as YouTube took a record 15.8% of US TV time in August. Music and Premium hit 150m subscribers. Are ads or fees driving growth? YouTube's advertising revenue rose 9% to $11.21 billion in the third quarter of 2026, Alphabet reported on October 28, the slowest growth of the three quarters…</p><p>Source: <a href="https://ppc.land/youtube-ad-revenue-gains-9-to-11-2bn-its-slowest-growth-of-2026/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Ads in AI Mode expand to new markets.</title>
-      <link>https://blog.google/products/ads-commerce/ads-in-ai-mode-global/</link>
-      <guid isPermaLink="false">f1af937fcc0acf6b</guid>
-      <pubDate>Wed, 28 Oct 2026 21:30:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>VP and GM, Google Search Ads and Ads on Google Experiences We’re bringing ads in AI Mode to new countries. As AI transforms how people search, queries are becoming increasingly conversational. In AI Mode, queries are, on average, three times longer than traditional searches. 1 AI helps us better understand what people…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-in-ai-mode-global/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] YouTube holiday playbook cites 30% creator ad lift with no source</title>
-      <link>https://ppc.land/youtube-holiday-playbook-cites-30-creator-ad-lift-with-no-source/</link>
-      <guid isPermaLink="false">7a098d6015cf4716</guid>
-      <pubDate>Wed, 28 Oct 2026 20:34:08 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Brands are told to make at least half of holiday ad assets creator-led and to budget for 50 conversions. Which of the figures in Google&amp;#x27;s guide can be checked? Google's YouTube holiday playbook for 2026, a 35-page guide for advertisers preparing for the November and December peak, states that Creator Partnerships…</p><p>Source: <a href="https://ppc.land/youtube-holiday-playbook-cites-30-creator-ad-lift-with-no-source/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ad Revenue Up 10.5% With Overall Revenue Up 25%</title>
-      <link>https://www.seroundtable.com/google-earnings-q326-42403.html</link>
-      <guid isPermaLink="false">dc705f2fce6074b1</guid>
-      <pubDate>Wed, 28 Oct 2026 20:10:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google reported its earnings today, its Q3 2026 earnings report showed search ad revenues up by 10.5% at $82 billion and overall revenue was up 25% at $127.6 billion. As you know, I specifically like to dig in as best as I can on the search ad revenue side to see how Google Ads has performed. Google's ad revenue was up…</p><p>Source: <a href="https://www.seroundtable.com/google-earnings-q326-42403.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta says Andromeda lifted Facebook conversions 2.4% since 2025</title>
-      <link>https://ppc.land/meta-says-andromeda-lifted-facebook-conversions-2-4-since-2025/</link>
-      <guid isPermaLink="false">b4a70b458eef78e2</guid>
-      <pubDate>Wed, 28 Oct 2026 19:17:08 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>Every eligible ad on Facebook and Instagram is now scored at over 1bn a second per GPU server, 100x the 2024 rate. What sits behind Meta&amp;#x27;s conversion claim? Meta today published the technical design of the second generation of Andromeda, the system that decides which ads on Facebook and Instagram reach the ranking…</p><p>Source: <a href="https://ppc.land/meta-says-andromeda-lifted-facebook-conversions-2-4-since-2025/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

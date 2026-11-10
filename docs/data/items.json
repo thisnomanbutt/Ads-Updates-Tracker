@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-11-10T07:19:28.712Z",
+  "updatedAt": "2026-11-10T19:44:45.829Z",
   "model": null,
-  "count": 269,
+  "count": 270,
   "items": [
+    {
+      "id": "0a32ee34cbf24c73",
+      "title": "Google Ads: Ads With Pay-Per-Lead Goals Terms",
+      "link": "https://www.seroundtable.com/google-ads-with-pay-per-lead-goals-terms-42490.html",
+      "published": "2026-11-10T12:31:00.000Z",
+      "fetchedAt": "2026-11-10T19:44:45.829Z",
+      "sourceId": "seroundtable",
+      "sourceName": "Search Engine Roundtable",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google Ads: Ads With Pay-Per-Lead Goals Terms",
+      "summary": "Google Ads is rolling out a new option named \"Ads with pay-per-lead goals terms.\" Advertisers must opt into this setting to activate it. Natasha Kaurra spotted this and posted about it on LinkedIn and shared a screenshot with more details on it, here is her share: She wrote about the terms in that link in that…",
+      "excerpt": "Google Ads is rolling out a new option named \"Ads with pay-per-lead goals terms.\" Advertisers must opt into this setting to activate it. Natasha Kaurra spotted this and posted about it on LinkedIn and shared a screenshot with more details on it, here is her share: She wrote about the terms in that link in that screenshot and summed it up saying: Your business must meet Google’s provider requirements and cooperate with verification checks. Google receives broad permission to use the content you submit, including business information and branding. Calls and messages generated through the ads may be monitored and recorded, with required permissions. Your business remains responsible for service quality and customer disputes. She added, \"One detail worth highlighting: these terms don’t explain lead prices, credit eligibility or guarantee booked jobs. Those require reviewing the separate platform policies. Seeing this setting alone also doesn’t confirm campaign eligibility or that an account has migrated.\" I don't have more information on this, yet. The content at the Search Engine Roundtable are the sole opinion of the authors and in no way reflect views of RustyBrick &reg;, Inc…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "169c343dbbb8c645",
       "title": "Google Ads MCP server gains 4 write tools, still can&#x27;t change budgets",

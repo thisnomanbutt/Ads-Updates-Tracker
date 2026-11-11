@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 19:44:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:22:40 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] 47 Meta Ads Creative Enhancements: What They Do and When to Turn Them Off</title>
+      <link>https://www.jonloomer.com/meta-ads-creative-enhancements/</link>
+      <guid isPermaLink="false">b182f71965ba9267</guid>
+      <pubDate>Tue, 10 Nov 2026 23:39:45 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta advertisers are tired of turning off creative enhancements. I hear it all the time, and this cry has only become louder during the past year. It’s understandable. Say what you will about whether you need to turn enhancements off (I’ll get to that), but the number of Meta’s tweaks and adjustments that make your ad…</p><p>Source: <a href="https://www.jonloomer.com/meta-ads-creative-enhancements/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] The Google Ads Developer Blog is moving!</title>
+      <link>http://ads-developers.googleblog.com/2026/11/the-google-ads-developer-blog-is-moving.html</link>
+      <guid isPermaLink="false">2b92ffcf427b242b</guid>
+      <pubDate>Tue, 10 Nov 2026 18:57:08 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we’re announcing the move of the Google Ads Developer Blog from Blogger to the Google for Developers platform, where it will be joining the Google Advertising and Measurement Developers Hub and be known as the Google Advertising and Measurement Developer Blog . You’re probably already familiar with this platform:…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/the-google-ads-developer-blog-is-moving.html">Google Ads Developer Blog</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads: Ads With Pay-Per-Lead Goals Terms</title>
       <link>https://www.seroundtable.com/google-ads-with-pay-per-lead-goals-terms-42490.html</link>
@@ -389,22 +405,6 @@
       <pubDate>Sun, 01 Nov 2026 21:32:03 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Philadelphia injury firm&amp;#x27;s ad pre-filled a text to its toll-free line. Google&amp;#x27;s iOS list of 42 countries omits the US. A test, or the SMS asset in Apple&amp;#x27;s name? A Google Search ad for a Philadelphia personal injury firm has been seen carrying a green Apple Messages button that, when tapped on an iPhone,…</p><p>Source: <a href="https://ppc.land/google-search-ad-gains-apple-messages-button-that-sends-iphone-users-to-sms/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google tells advertisers AI search queries now run 3x longer</title>
-      <link>https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/</link>
-      <guid isPermaLink="false">4a2efd2159852c28</guid>
-      <pubDate>Sun, 01 Nov 2026 05:37:46 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>One in six searches is multimodal, Google&amp;#x27;s Shivani Mohan told advertisers. Google&amp;#x27;s May data limited that to US AI Mode. Which other figures lack a baseline? Google's Ads Decoded podcast on October 28 published a 25-minute episode in which Shivani Mohan, Search Vice President of Data Science and User…</p><p>Source: <a href="https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google&amp;#x27;s DevFest 2026 expects almost 1 million attendees at 800+ events</title>
-      <link>https://ppc.land/googles-devfest-2026-expects-almost-1-million-attendees-at-800-events/</link>
-      <guid isPermaLink="false">03aab045e9a67ba5</guid>
-      <pubDate>Sat, 31 Oct 2026 15:08:24 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Events in 115 countries run until December 31, and Lisbon&amp;#x27;s November 28 agenda gives 11 of 13 sessions to AI. What Google&amp;#x27;s agent push means for ad tech code. Google on October 30, 2026 set out the scale of DevFest 2026, its annual series of developer conferences run by local volunteer groups: more than 800…</p><p>Source: <a href="https://ppc.land/googles-devfest-2026-expects-almost-1-million-attendees-at-800-events/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

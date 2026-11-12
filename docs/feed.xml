@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 19:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:12:05 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] AI labels won&amp;#x27;t save public figure impersonators from Google Ads suspension</title>
+      <link>https://ppc.land/ai-labels-wont-save-public-figure-impersonators-from-google-ads-suspension/</link>
+      <guid isPermaLink="false">20676e2aaf6e8426</guid>
+      <pubDate>Thu, 12 Nov 2026 06:09:03 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Advertisers using AI likenesses of singers, athletes or YouTubers face suspension on detection, with no warning. What changed, and what did Google leave out? On November 11, 2026, Google clarified that ads using artificial intelligence to impersonate public figures are not allowed under its Unacceptable Business…</p><p>Source: <a href="https://ppc.land/ai-labels-wont-save-public-figure-impersonators-from-google-ads-suspension/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API Version 26.2 Now Out Available</title>
+      <link>https://www.seroundtable.com/google-ads-api-version-262-42517.html</link>
+      <guid isPermaLink="false">b6e52a5106c75a0f</guid>
+      <pubDate>Wed, 11 Nov 2026 20:45:00 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google Ads has just released a minor update to its Google Ads API - version 26.2. This update touches on assets, campaigns, reporting, and more general updates. Google hasn't announced this on the Google Ads developer blog yet, but I am sure they will mention it soon. Version 26.2 is labeled a minor release, and the…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-api-version-262-42517.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] New Google Ads Overview Page: Customer Journey Insights</title>
       <link>https://www.seroundtable.com/google-ads-customer-journey-insights-42510.html</link>
@@ -389,22 +405,6 @@
       <pubDate>Mon, 02 Nov 2026 20:24:16 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>From January 11, Google Ads, DV360, SA360 and CM360 tags get unredacted IP addresses while Analytics keeps redaction. Who can opt out, and what consent applies? Google has begun notifying advertisers that, starting January 11, 2027, server-side Google Tag Manager will allow tags &quot;to process standard network signals…</p><p>Source: <a href="https://ppc.land/google-ad-tags-gain-full-visitor-ip-addresses-in-server-side-gtm-in-2027/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Lookalike Audience Suggestions for Leads Campaigns</title>
-      <link>https://www.jonloomer.com/qvt/lookalike-audience-suggestions-leads-campaigns/</link>
-      <guid isPermaLink="false">ade5ddbf8a622c7c</guid>
-      <pubDate>Mon, 02 Nov 2026 14:30:25 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Does Meta want advertisers to provide lookalike audience suggestions for leads? I’ve documented how Meta has deprioritized audience suggestions over the years. It started with removing language about prioritizing your suggestions before going broader. Meta has also made suggestion options far less prominent in the…</p><p>Source: <a href="https://www.jonloomer.com/qvt/lookalike-audience-suggestions-leads-campaigns/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Strategists Using AI-Generated Fake Names &amp; Profile Photos</title>
-      <link>https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html</link>
-      <guid isPermaLink="false">df5c0e92a651d8e7</guid>
-      <pubDate>Mon, 02 Nov 2026 12:31:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads Strategists, who are part of the Google Extended Workforce, are using AI-generated profile photos and names when reaching out to advertisers. An email sent from Kassy Garcia from Google to Joe Youngblood seems legit but when you look up who Kassy Garcia is, you won't find anything. Joe Youngblood posted…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

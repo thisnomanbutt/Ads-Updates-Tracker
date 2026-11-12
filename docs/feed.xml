@@ -5,7 +5,127 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 07:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:55:11 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Publishers face Google AI ad labels in California, South Korea and Vietnam</title>
+      <link>https://ppc.land/publishers-face-google-ai-ad-labels-in-california-south-korea-and-vietnam/</link>
+      <guid isPermaLink="false">e9894dd1bb66df1f</guid>
+      <pubDate>Thu, 12 Nov 2026 19:46:30 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Third-party programmatic ads get no automatic AI label, and video sites without the IMA SDK must add icon support. Who now owes each AI disclosure, and where? Google today told AdSense publishers that visible AI labels may begin to appear on ads served to their websites and apps in California, South Korea and Vietnam,…</p><p>Source: <a href="https://ppc.land/publishers-face-google-ai-ad-labels-in-california-south-korea-and-vietnam/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google AI Mode gains local retailer ads after Search growth slows to 12%</title>
+      <link>https://ppc.land/google-ai-mode-gains-local-retailer-ads-after-search-growth-slows-to-12/</link>
+      <guid isPermaLink="false">775004303461c94e</guid>
+      <pubDate>Thu, 12 Nov 2026 13:57:21 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Four sponsored placements appeared in one AI Mode answer for retail shoppers, two weeks after Google said AI Mode earns less. Can more ads lift Q4 Search sales? Google is showing a pack of sponsored products from local retailers beneath some AI Mode answers, and a second set of paid listings inside the product panel…</p><p>Source: <a href="https://ppc.land/google-ai-mode-gains-local-retailer-ads-after-search-growth-slows-to-12/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google ad tags gain full IPs on January 11 unless sGTM owners build a fix</title>
+      <link>https://ppc.land/google-ad-tags-gain-full-ips-on-january-11-unless-sgtm-owners-build-a-fix-2/</link>
+      <guid isPermaLink="false">36ab29c87a6efb6a</guid>
+      <pubDate>Thu, 12 Nov 2026 13:37:26 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Opt-out zeroes the last IPv4 octet for Ads, DV360, SA360 and CM360 tags; Analytics-only containers are unaffected. What happens to requests without consent? Owners of server-side Google Tag Manager containers who want to stop Google's advertising tags receiving full visitor IP addresses from January 11, 2027 will have…</p><p>Source: <a href="https://ppc.land/google-ad-tags-gain-full-ips-on-january-11-unless-sgtm-owners-build-a-fix-2/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google ad tags gain full IPs on January 11 unless sGTM owners build a fix</title>
+      <link>https://ppc.land/google-ad-tags-gain-full-ips-on-january-11-unless-sgtm-owners-build-a-fix/</link>
+      <guid isPermaLink="false">7987d5ff8ffc0033</guid>
+      <pubDate>Thu, 12 Nov 2026 13:25:46 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Opt-out zeroes the last IPv4 octet for Ads, DV360, SA360 and CM360 tags; Analytics-only containers are unaffected. What happens to requests without consent? Owners of server-side Google Tag Manager containers who want to stop Google's advertising tags receiving full visitor IP addresses from January 11, 2027 will have…</p><p>Source: <a href="https://ppc.land/google-ad-tags-gain-full-ips-on-january-11-unless-sgtm-owners-build-a-fix/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] We’re introducing a new transparency tool for invalid traffic in Google Ads.</title>
+      <link>https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/</link>
+      <guid isPermaLink="false">78dd73e1ef313fa0</guid>
+      <pubDate>Thu, 12 Nov 2026 13:00:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>VP &amp; General Manager, Ads Privacy and Safety We’ve long built defenses directly into our ad systems to block invalid traffic, helping businesses get the most out of their budgets and spend with confidence. Today, we’re rolling out the Invalid Traffic Overview Card in Google Ads to give advertisers front-end…</p><p>Source: <a href="https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads New Invalid Traffic (IVT) Overview Card</title>
+      <link>https://www.seroundtable.com/google-ads-invalid-traffic-ivt-overview-card-42513.html</link>
+      <guid isPermaLink="false">971ce9ba29c603d1</guid>
+      <pubDate>Thu, 12 Nov 2026 13:00:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads announced a new Invalid Traffic (IVT) overview card within Google Search. Google's Keerat Sharma wrote , &quot;We’re rolling out the Invalid Traffic Overview Card in Google Ads to give advertisers front-end transparency into how we protect their campaigns.&quot; This will allow advertisers to see the actual amount…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-invalid-traffic-ivt-overview-card-42513.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Disallows Impersonate Public Figures With AI Even If Disclosed</title>
+      <link>https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html</link>
+      <guid isPermaLink="false">995f81ce42e98afd</guid>
+      <pubDate>Thu, 12 Nov 2026 12:51:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads clarified in its unacceptable Business Practices policy that impersonating public figures using AI isn’t allowed, even if they disclose that they were generated or edited using AI. Yes, you can use AI but not in this case and when you use AI, you should disclose it . Note: Ads that impersonate public figures…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads shows its first-party data uplift only when it tops 1%</title>
+      <link>https://ppc.land/google-ads-shows-its-first-party-data-uplift-only-when-it-tops-1/</link>
+      <guid isPermaLink="false">cde03a8b5b103b65</guid>
+      <pubDate>Thu, 12 Nov 2026 12:47:23 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Website conversion actions need 100 conversions in 14 days, and enhanced conversions for web is left out. What can a figure that Google computes itself prove? Google has published a help page setting out how the data strength uplift metric in Google Ads is calculated, where it appears and when it is withheld, and one…</p><p>Source: <a href="https://ppc.land/google-ads-shows-its-first-party-data-uplift-only-when-it-tops-1/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns</title>
+      <link>https://ppc.land/google-ads-editor-2-14-turns-on-ai-max-by-default-for-new-search-campaigns/</link>
+      <guid isPermaLink="false">76051197103da82a</guid>
+      <pubDate>Thu, 12 Nov 2026 12:44:59 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Final URL expansion also starts switched on, and Shopping advertisers lose the local inventory toggle. Which of the 10 changes in the release will move budgets? Google has released version 2.14 of Google Ads Editor, its free desktop application for bulk campaign work, and the update changes what a new Search campaign…</p><p>Source: <a href="https://ppc.land/google-ads-editor-2-14-turns-on-ai-max-by-default-for-new-search-campaigns/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Disallows Targeting Users Based On Prohibited Content Interests</title>
+      <link>https://www.seroundtable.com/google-ads-prohibits-targeting-users-42518.html</link>
+      <guid isPermaLink="false">0109840ddfb4d2d1</guid>
+      <pubDate>Thu, 12 Nov 2026 12:41:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads has added a single line to the Restricted targeting in Personalized advertising policy . Google wrote, &quot;Additionally, advertisers are not allowed to target users based on an interest in categories prohibited in Google’s ad network .&quot; Google has updated its Personalized Advertising Policy to clarify that…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-prohibits-targeting-users-42518.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads 'Found On Site' Icon &amp; More Pages Label On Sponsored Results</title>
+      <link>https://www.seroundtable.com/google-ads-found-on-site-label-42496.html</link>
+      <guid isPermaLink="false">41254da6cf0768ed</guid>
+      <pubDate>Thu, 12 Nov 2026 12:31:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google is testing a new label on its sponsored results on Google Ads named &quot;Found on site.&quot; The label also has a text with a magnifying glass icon next to it. Next to the label is a site link that you can click on. Here is a screenshot of this from Sachin Patel who posted this on SEW - he said, &quot;Google is testing a new…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-found-on-site-label-42496.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Editor Version 2.14 Is Now Available</title>
+      <link>https://www.seroundtable.com/google-ads-editor-version-2-14-42515.html</link>
+      <guid isPermaLink="false">60dcad2fc3448da9</guid>
+      <pubDate>Thu, 12 Nov 2026 12:21:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google has released version 2.14 of the Google Ads Editor, which includes 10 new features. The full list of features is below, as Google posted on its site. You can download the updated version of Ads Editor over here . Google Ads Editor is a free, downloadable application for managing your Google Ads campaigns. The…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-editor-version-2-14-42515.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Data Strength Uplift Metric Doc</title>
+      <link>https://www.seroundtable.com/google-ads-data-strength-uplift-metric-42516.html</link>
+      <guid isPermaLink="false">5c2bd6962f623aac</guid>
+      <pubDate>Thu, 12 Nov 2026 12:11:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads has posted a new help document about the data strength uplift metric . This comes a month after Google posted another help document on Data Strength Best Practices . &quot;The data strength uplift metric gives you a clearer picture of the value your first-party data setup delivers in Google Ads,&quot; Google wrote.…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-data-strength-uplift-metric-42516.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google&amp;#x27;s old Ads Developer Blog feed gets no new posts after November 10</title>
+      <link>https://ppc.land/googles-old-ads-developer-blog-feed-gets-no-new-posts-after-november-10/</link>
+      <guid isPermaLink="false">3547ee989949618f</guid>
+      <pubDate>Thu, 12 Nov 2026 08:36:04 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Feed subscribers tracking Google Ads API changes need a new address, a 25-post feed for all ad products. Pre-2024 posts stay on Blogger, outside the new feed. Google is moving the Google Ads Developer Blog, the channel through which it tells agencies, tool vendors and in-house engineers about breaking changes to its…</p><p>Source: <a href="https://ppc.land/googles-old-ads-developer-blog-feed-gets-no-new-posts-after-november-10/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google says CDN bot blocks can drop products from Shopping and ads</title>
+      <link>https://ppc.land/google-says-cdn-bot-blocks-can-drop-products-from-shopping-and-ads/</link>
+      <guid isPermaLink="false">c84030074b393296</guid>
+      <pubDate>Thu, 12 Nov 2026 07:52:35 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Sites moving to a CDN can see Googlebot surge onto cold caches and origin servers. Google caps 429 or 503 brakes at 1-2 days. Why does a faster site get hit? On November 11, 2026, Google published guidance on a problem that, by its own account, catches site owners at the very moment they think they have solved their…</p><p>Source: <a href="https://ppc.land/google-says-cdn-bot-blocks-can-drop-products-from-shopping-and-ads/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] AI labels won&amp;#x27;t save public figure impersonators from Google Ads suspension</title>
       <link>https://ppc.land/ai-labels-wont-save-public-figure-impersonators-from-google-ads-suspension/</link>
@@ -285,126 +405,6 @@
       <pubDate>Thu, 05 Nov 2026 12:05:00 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads announced that, in addition to the original telemedicine certification options , Google is adding a new one from the National Association of Boards of Pharmacy (NABP)’s Healthcare Merchant Accreditation Program . This goes into effect this month, November 2026. LegitScript Healthcare Merchant Certification…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-telemedicine-certification-42460.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google AI Mode gains a fourth ad slot below some answers</title>
-      <link>https://ppc.land/google-ai-mode-gains-a-fourth-ad-slot-below-some-answers/</link>
-      <guid isPermaLink="false">294c0afed906173d</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:37 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>HubSpot, Yext, Siteimprove and eintelligenceweb ads stacked under one AI SEO answer in AI Mode. Google has not said how widely it runs or whether it will stay. Google's AI search experience has displayed four text ads stacked beneath a single answer, according to Search Engine Roundtable , which reported on November 4,…</p><p>Source: <a href="https://ppc.land/google-ai-mode-gains-a-fourth-ad-slot-below-some-answers/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Both] EU study finds DMA has not opened Google, Meta and Amazon ad auction data</title>
-      <link>https://ppc.land/eu-study-finds-dma-has-not-opened-google-meta-and-amazon-ad-auction-data/</link>
-      <guid isPermaLink="false">279f210a9dc83bcc</guid>
-      <pubDate>Thu, 05 Nov 2026 05:00:09 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Both</strong> · Feature update · Impact: Low</p><p>Only 58% of 50 surveyed advertisers get raw log-level data from the three gatekeepers. Will Brussels use delegated acts or force a buy-side, sell-side split? A 571-page study commissioned by the European Commission concludes that the Digital Markets Act's advertising transparency rules have not given advertisers and…</p><p>Source: <a href="https://ppc.land/eu-study-finds-dma-has-not-opened-google-meta-and-amazon-ad-auction-data/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Explains Difference With Search Terms Match Type (Keywords)</title>
-      <link>https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html</link>
-      <guid isPermaLink="false">e7b18bc9118f3931</guid>
-      <pubDate>Wed, 04 Nov 2026 22:45:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Ginny Marvin, the Google Ads Liaison, explained why the Google Ads interface has two different metrics named search terms match type. One is named &quot;Search terms match type&quot; and the other is named &quot;Search terms match type (Keywords).&quot; Mike Ryan posted on X about this and wrote, &quot;I sense a disturbance in the force.&quot;…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Data Manager API now supports Google Ads call conversions and row-level diagnostics</title>
-      <link>http://ads-developers.googleblog.com/2026/11/data-manager-api-now-supports-google.html</link>
-      <guid isPermaLink="false">c2f0591e31b757f3</guid>
-      <pubDate>Wed, 04 Nov 2026 21:39:56 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>The latest release of the Data Manager API adds support for Google Ads call conversions. It also adds row-level details to diagnostics to help you find and fix the exact records that had problems during processing. Send call conversions to Google Ads You can now use the Data Manager API to send call conversions to…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/data-manager-api-now-supports-google.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Telemedicine advertisers gain a second Google ads certifier in 3 countries</title>
-      <link>https://ppc.land/telemedicine-advertisers-gain-a-second-google-ads-certifier-in-3-countries/</link>
-      <guid isPermaLink="false">1fdb67feba03bed1</guid>
-      <pubDate>Wed, 04 Nov 2026 21:17:18 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>NABP accreditation, at $1,075 per website, will count toward Google telehealth ad certification in the US, UK and Canada. When applications open is unclear. Google today posted a notice saying that telemedicine providers accredited by the National Association of Boards of Pharmacy (NABP) will be able to apply for…</p><p>Source: <a href="https://ppc.land/telemedicine-advertisers-gain-a-second-google-ads-certifier-in-3-countries/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta&amp;#x27;s API v27 may add catalog products to new ads by default</title>
-      <link>https://ppc.land/metas-api-v27-may-add-catalog-products-to-new-ads-by-default/</link>
-      <guid isPermaLink="false">17656eb388e5babf</guid>
-      <pubDate>Wed, 04 Nov 2026 21:13:31 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · API or developer · Impact: Low</p><p>From today on v27.0, and on all versions in about 90 days, new device-targeted Sales ad sets widen by default. Which catalog and lookalike API calls now fail? Meta today released Graph API v27.0 and Marketing API v27.0. On the new version, two features switch on by default for new ads, lookalike audience requests that…</p><p>Source: <a href="https://ppc.land/metas-api-v27-may-add-catalog-products-to-new-ads-by-default/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Upcoming changes to multi-party approvals in the Google Ads API</title>
-      <link>http://ads-developers.googleblog.com/2026/11/upcoming-changes-to-multi-party.html</link>
-      <guid isPermaLink="false">e100f7d9b0ef2548</guid>
-      <pubDate>Wed, 04 Nov 2026 19:47:23 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Earlier this year, the Google Ads API started requiring multi-party approvals (MPA) when performing sensitive API actions. Starting the week of December 7, 2026 , we are introducing additional changes to improve the developer experience for multi-party approvals. What’s changing? Deferred access invitation creation: If…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/upcoming-changes-to-multi-party.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Introducing Graph API v27.0 and Marketing API v27.0</title>
-      <link>https://developers.facebook.com/blog/post/2026/11/04/introducing-graph-api-v27-and-marketing-api-v27/</link>
-      <guid isPermaLink="false">46fad6d3f6f32778</guid>
-      <pubDate>Wed, 04 Nov 2026 18:00:22 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · API or developer · Impact: Medium</p><p>Graph API v27.0 and Marketing API v27.0 include new capabilities, deprecations, and breaking changes. Review the highlights below and visit the V27.0 changelog for the complete list of changes and details. Graph API - Legacy features: Starting November 4, 2026, new apps cannot use multi-ID requests, date/time…</p><p>Source: <a href="https://developers.facebook.com/blog/post/2026/11/04/introducing-graph-api-v27-and-marketing-api-v27/">Meta for Developers Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads New Help Document For Promotion Mode</title>
-      <link>https://www.seroundtable.com/google-ads-promotion-mode-help-document-42446.html</link>
-      <guid isPermaLink="false">0390c1d0959acb21</guid>
-      <pubDate>Wed, 04 Nov 2026 12:51:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads has posted a super comprehensive help document for Promotion mode. Promotion mode lets you advertise for short-term sales by temporarily lowering your Target ROAS and applying an optional extra daily budget during your promotional window. There is this new help document that digs into the Google Ads feature.…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-promotion-mode-help-document-42446.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google AI Mode Now With Up To Four Ads</title>
-      <link>https://www.seroundtable.com/google-ai-mode-four-ads-42443.html</link>
-      <guid isPermaLink="false">acede8bb233f12d0</guid>
-      <pubDate>Wed, 04 Nov 2026 12:41:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google can now show up to four Google Ads in the AI Mode responses for a single query. I mean, I am not sure if this is new, being that Google Ads has been showing four ads for search results officially since 2016 but we do know Google said it will show more ads , more often, in AI Mode during its earnings call. Sachin…</p><p>Source: <a href="https://www.seroundtable.com/google-ai-mode-four-ads-42443.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] 5 Ways Meta Could Improve Audience Segments</title>
-      <link>https://www.jonloomer.com/meta-audience-segments/</link>
-      <guid isPermaLink="false">5813bfa508a34d3b</guid>
-      <pubDate>Tue, 03 Nov 2026 16:03:37 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>When Meta introduced audience segments for manual Sales campaigns in 2024 , they changed everything I knew about targeting. More than two years later, not nearly enough advertisers are getting the value out of audience segments that they should. I’m not going to use this post to highlight all of the many wonders of…</p><p>Source: <a href="https://www.jonloomer.com/meta-audience-segments/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads PMax Campaigns May Filter Out Navigational &amp; Brand Queries</title>
-      <link>https://www.seroundtable.com/google-ads-pmax-brand-queries-42438.html</link>
-      <guid isPermaLink="false">e0068998cc4e6265</guid>
-      <pubDate>Tue, 03 Nov 2026 12:21:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads updated its How Performance Max interacts with other campaigns in your account help document to add a new section on how &quot;Performance Max campaigns may also filter out navigational or brand-specific search queries to prioritize serving them through dedicated Search campaigns.&quot; This document change was…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-pmax-brand-queries-42438.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Asset Scheduling With Day Grouping (Weekends/Weekdays)</title>
-      <link>https://www.seroundtable.com/google-ads-asset-scheduling-day-grouping-42433.html</link>
-      <guid isPermaLink="false">6d51ef8bce4fb744</guid>
-      <pubDate>Tue, 03 Nov 2026 12:11:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads improved the asset scheduling advanced options to let you group days, such as weekends versus weekdays and more. This can be found under the advanced options within asset scheduling in Google Ads. Bia Camargo posted about this on LinkedIn and wrote, &quot;Google Ads now has more flexible asset scheduling. Under…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-asset-scheduling-day-grouping-42433.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google moves brand AI Overviews aside as buyers question search budgets</title>
-      <link>https://ppc.land/google-moves-brand-ai-overviews-aside-as-buyers-question-search-budgets/</link>
-      <guid isPermaLink="false">acbe5def4811dbac</guid>
-      <pubDate>Tue, 03 Nov 2026 06:19:17 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google shifted AI Overviews for brand searches to the right column on November 2, as buyers told Digiday that 10% to 30% of search budgets face new scrutiny. For more than a decade the right-hand column of a Google results page belonged to the knowledge panel, a tidy box of facts a brand could claim, correct and…</p><p>Source: <a href="https://ppc.land/google-moves-brand-ai-overviews-aside-as-buyers-question-search-budgets/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google ad tags gain full visitor IP addresses in server-side GTM in 2027</title>
-      <link>https://ppc.land/google-ad-tags-gain-full-visitor-ip-addresses-in-server-side-gtm-in-2027/</link>
-      <guid isPermaLink="false">4b2506118399608e</guid>
-      <pubDate>Mon, 02 Nov 2026 20:24:16 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>From January 11, Google Ads, DV360, SA360 and CM360 tags get unredacted IP addresses while Analytics keeps redaction. Who can opt out, and what consent applies? Google has begun notifying advertisers that, starting January 11, 2027, server-side Google Tag Manager will allow tags &quot;to process standard network signals…</p><p>Source: <a href="https://ppc.land/google-ad-tags-gain-full-visitor-ip-addresses-in-server-side-gtm-in-2027/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

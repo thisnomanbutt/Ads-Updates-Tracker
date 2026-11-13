@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:46:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:42:58 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Search News Buzz Video Recap: Google November Core Update Is Here, ChatGPT Business Hub Gives Us Clicks, Yahoo Pivot Search &amp; Google Ads Invalid Traffic</title>
+      <link>https://www.seroundtable.com/video-11-13-2026-42523.html</link>
+      <guid isPermaLink="false">dc072447ac545f55</guid>
+      <pubDate>Fri, 13 Nov 2026 13:01:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has begun the rollout of the November 2026 core update. Google also had search ranking volatility on November 8th and 9th. Google released a major update to Google Search with Gemini 4 Hydrogen days after Gemini 4 Carbon came out. And to top all of that off, Google Search Console had a logging error for its…</p><p>Source: <a href="https://www.seroundtable.com/video-11-13-2026-42523.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Merchant Center Promotions Titles Now Disallows Redemption Dates</title>
+      <link>https://www.seroundtable.com/google-merchant-center-promotions-titles-date-42488.html</link>
+      <guid isPermaLink="false">9ad243b2a04aa901</guid>
+      <pubDate>Fri, 13 Nov 2026 12:41:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has updated the editorial requirements for Merchant Center titles saying you can no longer &quot;include dates in any format&quot; within the title of the listing in the redemption section. Previously, the document allowed some date formats, I believe. The document that has this change is over here , it says: Promotion…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-promotions-titles-date-42488.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Merchant Center Deal Ends Annotation No Longer Experimental</title>
+      <link>https://www.seroundtable.com/google-merchant-center-deal-ends-annotation-removes-experimental-42522.html</link>
+      <guid isPermaLink="false">9fbeb592feb13ad8</guid>
+      <pubDate>Fri, 13 Nov 2026 12:31:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has dropped the &quot;experimental&quot; label from the Deal Ends annotation for Google Merchant Center Product Listing Ads. Google has also said this feature is no longer available in India; previously, it was. Google has updated the deals annotation help document in Merchant Center to: (1) Remove the words…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-deal-ends-annotation-removes-experimental-42522.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Updates Conversion Lift Set Up Documentation</title>
+      <link>https://www.seroundtable.com/google-ads-conversion-lift-set-up-doc-update-42530.html</link>
+      <guid isPermaLink="false">1a93ae690d673880</guid>
+      <pubDate>Fri, 13 Nov 2026 12:21:00 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads updated its Conversion Lift help documentation primarily to provide more detailed technical requirements and troubleshooting guidance for advertisers setting up incrementality studies. There are a lot of changes to the document but here are the big ones. The Set up Conversion Lift based on users…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-conversion-lift-set-up-doc-update-42530.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads now shows how much invalid traffic advertisers did not pay for</title>
       <link>https://ppc.land/google-ads-now-shows-how-much-invalid-traffic-advertisers-did-not-pay-for/</link>
@@ -373,38 +405,6 @@
       <pubDate>Fri, 06 Nov 2026 17:58:57 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>On December 2, 2026 , the CocoaPods Specs repository will permanently transition to read-only mode. As a result, we will no longer publish new versions of the Google Mobile Ads SDK or mediation adapters for iOS to CocoaPods after this date. What this means for your iOS apps If you currently use CocoaPods to install the…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/prepare-for-cocoapods-read-only-mode.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Both] Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google &amp; More SEO, PPC &amp; Local</title>
-      <link>https://www.seroundtable.com/video-11-06-2026-42469.html</link>
-      <guid isPermaLink="false">ad188aaf1700a11e</guid>
-      <pubDate>Fri, 06 Nov 2026 13:01:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Both</strong> · Feature update · Impact: Low</p><p>This week, we covered Facebook’s latest AI-slop strategy that likely will get hit by Google’s scaled content abuse policy. Google said important URLs can still show in Google Search even after a 400 status code, for some time. Did your homepage drop out of the index? That might be a sign of quality issues. Google…</p><p>Source: <a href="https://www.seroundtable.com/video-11-06-2026-42469.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Confirms Issues With Merchant Center, API &amp; Feeds</title>
-      <link>https://www.seroundtable.com/google-confirms-issues-with-merchant-center-42473.html</link>
-      <guid isPermaLink="false">8dc769289e24fcbb</guid>
-      <pubDate>Fri, 06 Nov 2026 12:16:00 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Google has confirmed there is an ongoing issue right now with Google Merchant Center. The issue is with Merchant API, Merchant Center, and Feeds, Google posted at 5:26 am ET on the Google Merchant Center status page . Google wrote on November 6, 2026 at 10:26 AM UTC: We're investigating reports of an issue with…</p><p>Source: <a href="https://www.seroundtable.com/google-confirms-issues-with-merchant-center-42473.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Expands AI Content Disclosure Label To More Regions</title>
-      <link>https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html</link>
-      <guid isPermaLink="false">3cca45c6915c62b9</guid>
-      <pubDate>Thu, 05 Nov 2026 12:51:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads has expanded the regions where you must disclose whether AI was used in your ads. Google added California, South Korea, and Vietnam to the list, which already included the European Union, India, and New York. Google updated a few documents already with this information including Use AI content label settings…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads PMax Channel Report Definitions Coming To Search &amp; Shopping</title>
-      <link>https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html</link>
-      <guid isPermaLink="false">ad251d42354ad47e</guid>
-      <pubDate>Thu, 05 Nov 2026 12:41:00 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google updated its Definition: Performance Max channel help document to specify that channel definitions are coming to the Performance Max channel report for standard Search and Shopping reports in 2027. The help document added a new note that reads: Note: These channel definitions are visible in the Performance Max…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

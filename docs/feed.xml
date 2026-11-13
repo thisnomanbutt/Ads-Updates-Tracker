@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:55:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:46:51 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads now shows how much invalid traffic advertisers did not pay for</title>
+      <link>https://ppc.land/google-ads-now-shows-how-much-invalid-traffic-advertisers-did-not-pay-for/</link>
+      <guid isPermaLink="false">d06239ee6988ac5f</guid>
+      <pubDate>Thu, 12 Nov 2026 20:22:09 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Lead-gen advertisers saw exposure to invalid leads fall 30% on average in 2026, Google says. A new card adds a savings figure, but how is that estimate built? Google today began rolling out a card in Google Ads that puts two sums in front of advertisers: the amount the company says it saved them by filtering invalid…</p><p>Source: <a href="https://ppc.land/google-ads-now-shows-how-much-invalid-traffic-advertisers-did-not-pay-for/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Publishers face Google AI ad labels in California, South Korea and Vietnam</title>
       <link>https://ppc.land/publishers-face-google-ai-ad-labels-in-california-south-korea-and-vietnam/</link>
@@ -397,14 +405,6 @@
       <pubDate>Thu, 05 Nov 2026 12:41:00 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google updated its Definition: Performance Max channel help document to specify that channel definitions are coming to the Performance Max channel report for standard Search and Shopping reports in 2027. The help document added a new note that reads: Note: These channel definitions are visible in the Performance Max…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Gains A New Telemedicine Certification Option</title>
-      <link>https://www.seroundtable.com/google-ads-telemedicine-certification-42460.html</link>
-      <guid isPermaLink="false">1a4500f3283ade9c</guid>
-      <pubDate>Thu, 05 Nov 2026 12:05:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads announced that, in addition to the original telemedicine certification options , Google is adding a new one from the National Association of Boards of Pharmacy (NABP)’s Healthcare Merchant Accreditation Program . This goes into effect this month, November 2026. LegitScript Healthcare Merchant Certification…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-telemedicine-certification-42460.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

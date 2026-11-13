@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-11-12T19:55:10.743Z",
+  "updatedAt": "2026-11-13T06:46:51.679Z",
   "model": null,
-  "count": 294,
+  "count": 295,
   "items": [
+    {
+      "id": "d06239ee6988ac5f",
+      "title": "Google Ads now shows how much invalid traffic advertisers did not pay for",
+      "link": "https://ppc.land/google-ads-now-shows-how-much-invalid-traffic-advertisers-did-not-pay-for/",
+      "published": "2026-11-12T20:22:09.000Z",
+      "fetchedAt": "2026-11-13T06:46:51.679Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google Ads now shows how much invalid traffic advertisers did not pay for",
+      "summary": "Lead-gen advertisers saw exposure to invalid leads fall 30% on average in 2026, Google says. A new card adds a savings figure, but how is that estimate built? Google today began rolling out a card in Google Ads that puts two sums in front of advertisers: the amount the company says it saved them by filtering invalid…",
+      "excerpt": "Lead-gen advertisers saw exposure to invalid leads fall 30% on average in 2026, Google says. A new card adds a savings figure, but how is that estimate built? Google today began rolling out a card in Google Ads that puts two sums in front of advertisers: the amount the company says it saved them by filtering invalid traffic before billing, and the credits it issued for invalid activity caught after an invoice had gone out. The announcement came in a three-paragraph post on Google's Ads & Commerce Blog by Keerat Sharma, VP & General Manager, Ads Privacy and Safety, titled \"We're introducing a new transparency tool for invalid traffic in Google Ads.\" The post names the feature the Invalid Traffic Overview Card. It also carries the only new statistic Google offered today, and that number is not about the card at all. It concerns leads. Most of the operational detail arrived separately, in a three-post thread from Google's official Ads Liaison account on X. The thread says the card is \"Rolling out globally starting this week,\" that its savings figure covers \"your selected date range,\" and that a View details link opens daily and campaign-level data that can be downloaded. Google is…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "e9894dd1bb66df1f",
       "title": "Publishers face Google AI ad labels in California, South Korea and Vietnam",

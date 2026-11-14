@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 18:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:25:11 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google&amp;#x27;s DV360 API v5 can now create responsive YouTube ads</title>
+      <link>https://ppc.land/googles-dv360-api-v5-can-now-create-responsive-youtube-ads/</link>
+      <guid isPermaLink="false">fd87baaac50c833c</guid>
+      <pubDate>Sat, 14 Nov 2026 20:03:32 GMT</pubDate>
+      <category>API or developer</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Four YouTube line item types qualify, yet agencies still build line items and ad groups by SDF or by hand. What else stays outside the API during the v5 beta? Google on November 12, 2026 added the ability to create, update and delete responsive YouTube ads to version 5 of the Display &amp; Video 360 API, according to a…</p><p>Source: <a href="https://ppc.land/googles-dv360-api-v5-can-now-create-responsive-youtube-ads/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Lunio cuts Google brand bids when no rival is in the auction</title>
+      <link>https://ppc.land/lunio-cuts-google-brand-bids-when-no-rival-is-in-the-auction/</link>
+      <guid isPermaLink="false">ee43b8a75355a9e3</guid>
+      <pubDate>Sat, 14 Nov 2026 19:55:09 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Revvim-powered tool moves uncontested Google Search and Shopping brand clicks to a low-bid campaign within the hour. What share of the savings does Lunio keep? Lunio, a company best known for filtering invalid clicks out of paid media campaigns, on November 12, 2026 announced a partnership with Revvim and the launch of…</p><p>Source: <a href="https://ppc.land/lunio-cuts-google-brand-bids-when-no-rival-is-in-the-auction/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google&amp;#x27;s DV360 to let YouTube creators link videos to advertisers by code</title>
+      <link>https://ppc.land/googles-dv360-to-let-youtube-creators-link-videos-to-advertisers-by-code/</link>
+      <guid isPermaLink="false">28b7e1cef5b3ed28</guid>
+      <pubDate>Sat, 14 Nov 2026 19:40:37 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Creator-made links will skip channel searches and approval steps for DV360 advertisers boosting YouTube videos. No launch date yet - and who can undo a link? Google said on November 13, 2026 that Display &amp; Video 360, its enterprise platform for buying programmatic and YouTube advertising, &quot;will soon support shared…</p><p>Source: <a href="https://ppc.land/googles-dv360-to-let-youtube-creators-link-videos-to-advertisers-by-code/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Search News Buzz Video Recap: Google November Core Update Is Here, ChatGPT Business Hub Gives Us Clicks, Yahoo Pivot Search &amp; Google Ads Invalid Traffic</title>
       <link>https://www.seroundtable.com/video-11-13-2026-42523.html</link>
@@ -381,30 +405,6 @@
       <pubDate>Sun, 08 Nov 2026 05:36:34 GMT</pubDate>
       <category>API or developer</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Version 1.9, released November 4, also lists each failed record&amp;#x27;s position for developers and data partners. Lead IDs arrive, but cannot yet drive attribution. Google on November 4, 2026 released version 1.9 of its Data Manager API, adding support for Google Ads call conversions, a list of the exact records that…</p><p>Source: <a href="https://ppc.land/googles-data-manager-api-accepts-call-conversions-but-only-hashed-numbers/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads API sets December 7 deadline for user access approval changes</title>
-      <link>https://ppc.land/google-ads-api-sets-december-7-deadline-for-user-access-approval-changes/</link>
-      <guid isPermaLink="false">a287f9305d9f5b24</guid>
-      <pubDate>Sun, 08 Nov 2026 05:30:22 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Tools that manage Google Ads users can resolve 100 pending reviews per call instead of one, but invitation IDs arrive only after approval. Which versions lag? Google will change how its Ads API handles multi-party approvals starting the week of December 7, 2026, and has asked developers who use the security feature to…</p><p>Source: <a href="https://ppc.land/google-ads-api-sets-december-7-deadline-for-user-access-approval-changes/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta can add website offers to copied ads even with promotions turned off</title>
-      <link>https://ppc.land/meta-can-add-website-offers-to-copied-ads-even-with-promotions-turned-off/</link>
-      <guid isPermaLink="false">7bcbcf1ecb1cf823</guid>
-      <pubDate>Fri, 06 Nov 2026 18:14:04 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · New feature · Impact: Low</p><p>One Commerce Manager checkbox covers all ads, so Facebook and Instagram advertisers can run discounts they never chose. Is it on by default? Meta has not said. Meta can display discounts it detects on an advertiser's website in Facebook and Instagram ads, including in a copy of an ad whose promotions had been switched…</p><p>Source: <a href="https://ppc.land/meta-can-add-website-offers-to-copied-ads-even-with-promotions-turned-off/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Prepare for CocoaPods read-only mode: Migrate your iOS apps to Swift Package Manager</title>
-      <link>http://ads-developers.googleblog.com/2026/11/prepare-for-cocoapods-read-only-mode.html</link>
-      <guid isPermaLink="false">d26292ac52a6db63</guid>
-      <pubDate>Fri, 06 Nov 2026 17:58:57 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>On December 2, 2026 , the CocoaPods Specs repository will permanently transition to read-only mode. As a result, we will no longer publish new versions of the Google Mobile Ads SDK or mediation adapters for iOS to CocoaPods after this date. What this means for your iOS apps If you currently use CocoaPods to install the…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/prepare-for-cocoapods-read-only-mode.html">Google Ads Developer Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

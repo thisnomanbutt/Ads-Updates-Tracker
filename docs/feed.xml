@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:31:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:03:18 GMT</lastBuildDate>
+    <item>
+      <title>[Meta Ads] Six seconds can now count as a watched video ad on Meta</title>
+      <link>https://ppc.land/six-seconds-can-now-count-as-a-watched-video-ad-on-meta/</link>
+      <guid isPermaLink="false">3c83d4a382d79e66</guid>
+      <pubDate>Mon, 16 Nov 2026 20:53:26 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Awareness and engagement advertisers, auction or reservation, can pick it over the 15-second default. How Meta&amp;#x27;s reports treat the shorter view is unstated. Meta has added a 6-second setting to ThruPlay, the video ad goal that by default counts a view once someone has watched 15 seconds, according to a LinkedIn…</p><p>Source: <a href="https://ppc.land/six-seconds-can-now-count-as-a-watched-video-ad-on-meta/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] How to find the best Black Friday deals and shop smarter</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/</link>
+      <guid isPermaLink="false">a04feb7149f51493</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Track deals, compare prices, and check off your holiday gift list this Black Friday and Cyber Monday. Your browser does not support the audio element. We are introducing new shopping features to help you find the best holiday deals and gifts across retailers. You can use Universal Cart to track price drops, Gemini to…</p><p>Source: <a href="https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] YouTube swaps Skip for Next on some ads as Amazon puts ads inside Audible</title>
       <link>https://ppc.land/youtube-swaps-skip-for-next-on-some-ads-as-amazon-puts-ads-inside-audible/</link>
@@ -389,22 +405,6 @@
       <pubDate>Sun, 08 Nov 2026 13:31:25 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Seven channels, with YouTube search results counted as YouTube rather than Search partners, now define PMax reports. What moves when Search reports adopt them? Google has updated the Google Ads Help page that defines a Performance Max channel to say that the channel definitions it uses for Performance Max reporting…</p><p>Source: <a href="https://ppc.land/google-ads-search-and-shopping-campaigns-gain-channel-reporting-in-2027/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google ties consistent PMax spend to 15 conversions every 30 days</title>
-      <link>https://ppc.land/google-ties-consistent-pmax-spend-to-15-conversions-every-30-days/</link>
-      <guid isPermaLink="false">5edab0e1234b7be3</guid>
-      <pubDate>Sun, 08 Nov 2026 13:26:51 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Low-volume PMax advertisers get the bar Google already sets for Search Target ROAS bidding, on an undated page. Which conversions count, and at what level? Google has added a specific conversion volume to its troubleshooting guidance for Performance Max campaigns, stating that &quot;achieving stable performance requires at…</p><p>Source: <a href="https://ppc.land/google-ties-consistent-pmax-spend-to-15-conversions-every-30-days/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Demand Gen ads can now show discount tags on YouTube Shorts</title>
-      <link>https://ppc.land/google-demand-gen-ads-can-now-show-discount-tags-on-youtube-shorts/</link>
-      <guid isPermaLink="false">5c3984f2f0045bf8</guid>
-      <pubDate>Sun, 08 Nov 2026 13:24:35 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Only campaigns built on a Merchant Center product feed qualify, and in-stream ads get the tags too. Google&amp;#x27;s own promotion asset guide still omits Demand Gen. Google has extended promotion assets to Demand Gen campaigns, allowing retailers to attach discount tags to ads running in YouTube Shorts and YouTube…</p><p>Source: <a href="https://ppc.land/google-demand-gen-ads-can-now-show-discount-tags-on-youtube-shorts/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

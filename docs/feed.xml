@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:52:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:31:18 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] YouTube swaps Skip for Next on some ads as Amazon puts ads inside Audible</title>
+      <link>https://ppc.land/youtube-swaps-skip-for-next-on-some-ads-as-amazon-puts-ads-inside-audible/</link>
+      <guid isPermaLink="false">66d2384a9b1c2c8c</guid>
+      <pubDate>Mon, 16 Nov 2026 05:43:49 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>YouTube relabelled the skip button on some ads as Next, Amazon began showing Sponsored Products inside Audible free during beta, and TikTok added a new tier. PPC Land is now also on WhatsApp, with a new PPC Land channel carrying its stories. Sunday, November 15, 2026 was a quiet day for the trade press and a revealing…</p><p>Source: <a href="https://ppc.land/youtube-swaps-skip-for-next-on-some-ads-as-amazon-puts-ads-inside-audible/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google opens PMax household income exclusions to select advertisers</title>
+      <link>https://ppc.land/google-opens-pmax-household-income-exclusions-to-select-advertisers/</link>
+      <guid isPermaLink="false">6b61e6026b27b2a2</guid>
+      <pubDate>Sun, 15 Nov 2026 19:37:48 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Beta advertisers can exclude any of seven income brackets, while Google&amp;#x27;s help page still says PMax exclusions stop at age and gender. Which countries qualify? Google has added household income to the demographic exclusions available in Performance Max campaigns, though only for &quot;select advertisers in beta,&quot;…</p><p>Source: <a href="https://ppc.land/google-opens-pmax-household-income-exclusions-to-select-advertisers/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] YouTube drops the word &amp;#x27;Skip&amp;#x27; from some ad buttons in favour of &amp;#x27;Next&amp;#x27;</title>
+      <link>https://ppc.land/youtube-drops-the-word-skip-from-some-ad-buttons-in-favour-of-next/</link>
+      <guid isPermaLink="false">38358fe232e1271e</guid>
+      <pubDate>Sun, 15 Nov 2026 19:33:46 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Higman&amp;#x27;s example put &amp;#x27;Next&amp;#x27; under a &amp;#x27;Fewer interruptions after this break&amp;#x27; label. For advertisers, the question: does a tap end the ad break or cue another ad? YouTube has been seen showing a button labelled &quot;Next&quot; in the place where the &quot;Skip&quot; button normally appears on video ads. Anthony…</p><p>Source: <a href="https://ppc.land/youtube-drops-the-word-skip-from-some-ad-buttons-in-favour-of-next/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google&amp;#x27;s DV360 API v5 can now create responsive YouTube ads</title>
       <link>https://ppc.land/googles-dv360-api-v5-can-now-create-responsive-youtube-ads/</link>
@@ -381,30 +405,6 @@
       <pubDate>Sun, 08 Nov 2026 13:24:35 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Only campaigns built on a Merchant Center product feed qualify, and in-stream ads get the tags too. Google&amp;#x27;s own promotion asset guide still omits Demand Gen. Google has extended promotion assets to Demand Gen campaigns, allowing retailers to attach discount tags to ads running in YouTube Shorts and YouTube…</p><p>Source: <a href="https://ppc.land/google-demand-gen-ads-can-now-show-discount-tags-on-youtube-shorts/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Analytics Data Manager: duplicate Ads setups can log conversions twice</title>
-      <link>https://ppc.land/google-analytics-data-manager-duplicate-ads-setups-can-log-conversions-twice/</link>
-      <guid isPermaLink="false">5c28191dc2b08e39</guid>
-      <pubDate>Sun, 08 Nov 2026 06:51:52 GMT</pubDate>
-      <category>Reporting or measurement</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Data flows one way, from Analytics to Google Ads and GMP, in the beta released November 6. Roll-up properties are left out. No date for leaving beta is given. Google on November 6, 2026 released Data Manager in Google Analytics as a beta, placing a single hub for data streams, product links and first-party data imports…</p><p>Source: <a href="https://ppc.land/google-analytics-data-manager-duplicate-ads-setups-can-log-conversions-twice/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] WhatsApp event invites now reach people without a WhatsApp account</title>
-      <link>https://ppc.land/whatsapp-event-invites-now-reach-people-without-a-whatsapp-account/</link>
-      <guid isPermaLink="false">0b1602f6d65dfe74</guid>
-      <pubDate>Sun, 08 Nov 2026 05:40:33 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Guests with no app can RSVP from a shared link but only see the address after replying. What Meta collects from those non-users remains unstated by the company. WhatsApp has started letting people send event invitations to friends who do not have a WhatsApp account. Those guests can see the details and RSVP through a…</p><p>Source: <a href="https://ppc.land/whatsapp-event-invites-now-reach-people-without-a-whatsapp-account/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google&amp;#x27;s Data Manager API accepts call conversions, but only hashed numbers</title>
-      <link>https://ppc.land/googles-data-manager-api-accepts-call-conversions-but-only-hashed-numbers/</link>
-      <guid isPermaLink="false">8a7c3fe730707b9a</guid>
-      <pubDate>Sun, 08 Nov 2026 05:36:34 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Low</p><p>Version 1.9, released November 4, also lists each failed record&amp;#x27;s position for developers and data partners. Lead IDs arrive, but cannot yet drive attribution. Google on November 4, 2026 released version 1.9 of its Data Manager API, adding support for Google Ads call conversions, a list of the exact records that…</p><p>Source: <a href="https://ppc.land/googles-data-manager-api-accepts-call-conversions-but-only-hashed-numbers/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

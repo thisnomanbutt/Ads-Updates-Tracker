@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 07:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:56:10 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] New Google Ads Search Journey Awareness Help Document</title>
+      <link>https://www.seroundtable.com/google-ads-search-journey-awareness-doc-42551.html</link>
+      <guid isPermaLink="false">bdca04d796c4a44b</guid>
+      <pubDate>Tue, 17 Nov 2026 12:15:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads posted a new help document named About Search Journey Awareness . Journey-Aware Bidding is not new, but I believe this help document is new. Google explained, &quot;Search Journey Awareness is an improvement to Google Ads Smart Bidding.&quot; Google added, &quot;By tracking your customer's entire path, from their first…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-search-journey-awareness-doc-42551.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Brand Guidelines New Add Visual Guidelines</title>
+      <link>https://www.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-42538.html</link>
+      <guid isPermaLink="false">0184f535705a1e35</guid>
+      <pubDate>Tue, 17 Nov 2026 12:11:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads added a new option under the brand guidelines for Performance Max campaigns to add visual guidelines. This says, &quot;Now you can add style references and preferences to help steer how images are created and enhanced for your ads.&quot; This was first spotted by Marcin Wsół who posted on LinkedIn and then Hana…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-42538.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Maps&amp;#x27; AI starts phoning salons as Amazon rewrites its ad rulebook</title>
       <link>https://ppc.land/google-maps-ai-starts-phoning-salons-as-amazon-rewrites-its-ad-rulebook/</link>
@@ -389,22 +405,6 @@
       <pubDate>Sun, 08 Nov 2026 13:39:27 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Sitelinks can now run Mondays-Fridays or Saturdays-Sundays from one schedule row, not five or two day entries. Has the unannounced change reached every account? Google Ads has added three predefined day ranges to the scheduling controls for assets such as sitelinks, so an advertiser can make an asset eligible on &quot;All…</p><p>Source: <a href="https://ppc.land/google-ads-asset-scheduling-gains-3-day-ranges-ahead-of-black-friday/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads gains new-customer-only bidding for Manual CPC campaigns</title>
-      <link>https://ppc.land/google-ads-gains-new-customer-only-bidding-for-manual-cpc-campaigns/</link>
-      <guid isPermaLink="false">ab3bc87a73f1b310</guid>
-      <pubDate>Sun, 08 Nov 2026 13:35:55 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Manual CPC advertisers still need a customer list to define new buyers, Higman says, and Google warns existing ones may see ads. Rollout scope is unconfirmed. Google Ads is offering advertisers who set their own cost-per-click bids a way to restrict a campaign to new customers without moving to automated bidding,…</p><p>Source: <a href="https://ppc.land/google-ads-gains-new-customer-only-bidding-for-manual-cpc-campaigns/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads drops language targeting from Search campaigns</title>
-      <link>https://ppc.land/google-ads-drops-language-targeting-from-search-campaigns/</link>
-      <guid isPermaLink="false">15196aa6a65a5725</guid>
-      <pubDate>Sun, 08 Nov 2026 13:34:05 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Performance Max keeps the setting only for YouTube, Display, Discover and Gmail, while Editor still shows it in one account. What now decides who sees which ad? Google Ads has removed the campaign-level language setting from Search campaigns, and the control was missing from at least one live advertiser account by…</p><p>Source: <a href="https://ppc.land/google-ads-drops-language-targeting-from-search-campaigns/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

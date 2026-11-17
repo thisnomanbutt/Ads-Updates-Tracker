@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-11-16T22:03:18.678Z",
+  "updatedAt": "2026-11-17T07:56:01.554Z",
   "model": null,
-  "count": 307,
+  "count": 308,
   "items": [
+    {
+      "id": "e7d5ae91dac108be",
+      "title": "Google Maps&#x27; AI starts phoning salons as Amazon rewrites its ad rulebook",
+      "link": "https://ppc.land/google-maps-ai-starts-phoning-salons-as-amazon-rewrites-its-ad-rulebook/",
+      "published": "2026-11-17T06:12:26.000Z",
+      "fetchedAt": "2026-11-17T07:56:01.554Z",
+      "sourceId": "ppc-land",
+      "sourceName": "PPC Land",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Feature update",
+      "impact": "Low",
+      "headline": "Google Maps&#x27; AI starts phoning salons as Amazon rewrites its ad rulebook",
+      "summary": "Google&#x27;s Ask Maps now calls salons and garages for open slots, Amazon rewrote its housing, health and pork ad rules, and ChatGPT links sites in half of chats. Monday, November 16, 2026 was the day software started picking up the phone. Google gave the assistant inside Maps the ability to call hair salons, groomers…",
+      "excerpt": "Google&#x27;s Ask Maps now calls salons and garages for open slots, Amazon rewrote its housing, health and pork ad rules, and ChatGPT links sites in half of chats. Monday, November 16, 2026 was the day software started picking up the phone. Google gave the assistant inside Maps the ability to call hair salons, groomers and garages to find open appointments, extended the same assistant to more than 30 European countries and pointed holiday travellers towards hotel and ticket bookings inside AI Mode. Amazon, meanwhile, quietly rewrote large parts of its advertising rulebook, banning ZIP code targeting for housing ads, demanding fresh proof for health endorsements and closing ten Middle Eastern and North African markets to pork. ChatGPT was found to link to outside websites in nearly half of its conversations, up from one in ten in early October, while LVMH signed its 17 media brands up with OpenAI. YouTube changed what a public view count means, Meta shortened what counts as a watched video, Baidu's advertising revenue fell by more than a fifth, Taboola closed a London deal and Amazon cast a new James Bond. The common thread is measurement and permission: who gets counted, who gets…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "3c83d4a382d79e66",
       "title": "Six seconds can now count as a watched video ad on Meta",

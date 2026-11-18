@@ -5,7 +5,47 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 07:30:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:32:08 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Win the holiday shopping season with November’s Demand Gen Drop.</title>
+      <link>https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/</link>
+      <guid isPermaLink="false">beafe2d1087dd249</guid>
+      <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Demand Gen helps your brand find and convert high-value shoppers on YouTube. Transform your holiday campaigns into an interactive storefront with these Demand Gen solutions: Visit the Demand Gen Drops Hub to learn more about the latest product updates.</p><p>Source: <a href="https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop.</title>
+      <link>https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/</link>
+      <guid isPermaLink="false">8042c37a6aec5221</guid>
+      <pubDate>Wed, 18 Nov 2026 14:00:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>Google Marketing Platform Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop. Marta Martinez Managing Director, Google Marketing Platform Nov 18, 2026 Drive your best omnichannel ROI this holiday shopping season with the latest Google Marketing Platform Drop. Here’s what’s…</p><p>Source: <a href="https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/">Google Marketing Platform Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Releases Several AI Max For Search For Travel Campaigns Help Docs</title>
+      <link>https://www.seroundtable.com/google-ads-ai-max-for-search-for-travel-campaigns-docs-42564.html</link>
+      <guid isPermaLink="false">10126df2ceaa52c4</guid>
+      <pubDate>Wed, 18 Nov 2026 12:51:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has released several new Google Ads help documents on the topic of AI Max for Search for Travel campaigns. This comes as Google begins to migrate Travel campaigns to the new Search campaigns for Travel in Google Ads. There is a new landing page for these documents, but here is each one: About AI Max for Search…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-max-for-search-for-travel-campaigns-docs-42564.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads New Commercial Exemptions To US Election Advertising Policy</title>
+      <link>https://www.seroundtable.com/google-ads-commercial-exemptions-us-elections-42547.html</link>
+      <guid isPermaLink="false">4be18a0f8a68fe13</guid>
+      <pubDate>Wed, 18 Nov 2026 12:41:00 GMT</pubDate>
+      <category>Policy or compliance</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Policy or compliance · Impact: Low</p><p>Google Ads has added a new exemption to its political content policy for &quot;Commercial exceptions to US Election Ads.&quot; This essentially exempts ads that feature candidates solely for government programs or commercial products, without political references, from US Election Ads verification. It explicitly exempts certain…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-commercial-exemptions-us-elections-42547.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads PMax Setup Now With Channel Prioritization &amp; Promo Mode</title>
+      <link>https://www.seroundtable.com/google-ads-pmax-setup-update-42561.html</link>
+      <guid isPermaLink="false">c07539a12f98642e</guid>
+      <pubDate>Wed, 18 Nov 2026 12:21:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads has added two features to the Performance Max campaign set up screen for Channel Prioritization and Promo Mode. While Channel Prioritization and Promo Mode are not new, it is reportedly new within this campaign set up screen. Thomas Eccel spotted this and wrote on LinkedIn , &quot;PMax News! Two new settings now…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-pmax-setup-update-42561.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Meta Ads] Meta Ads Promotions and Email Sign-up Offers: What They Do and How to Turn Them Off</title>
       <link>https://www.jonloomer.com/meta-ads-promotions-email-sign-up-offers/</link>
@@ -365,46 +405,6 @@
       <pubDate>Mon, 09 Nov 2026 20:46:12 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Version 0.0.6 shipped November 2 with asset and label writes switched on in default installs. Who checks what AI agents commit while the guide says read-only? Google released version 0.0.6 of its open-source Google Ads MCP server on November 2, 2026, and with it the first tools in the project's public history that can…</p><p>Source: <a href="https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google moves Demand Gen Display opt-out to ad groups from December 1</title>
-      <link>https://ppc.land/google-moves-demand-gen-display-opt-out-to-ad-groups-from-december-1/</link>
-      <guid isPermaLink="false">8763785e3e5bd576</guid>
-      <pubDate>Mon, 09 Nov 2026 20:07:55 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Integrations setting target_content_network to false will hit an error, and Display-only ad groups get paused. Will new API-built ad groups stay off Display? Google today told developers that, starting the week of December 1, 2026, the Google Ads API will no longer accept the campaign-level setting that keeps Demand…</p><p>Source: <a href="https://ppc.land/google-moves-demand-gen-display-opt-out-to-ad-groups-from-december-1/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] YouTube to rejoin Billboard charts as ad-supported streams gain 67% weight</title>
-      <link>https://ppc.land/youtube-to-rejoin-billboard-charts-as-ad-supported-streams-gain-67-weight/</link>
-      <guid isPermaLink="false">138c6e58d736f7e0</guid>
-      <pubDate>Mon, 09 Nov 2026 20:05:26 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Artists need 1,500 ad-supported streams per Billboard 200 unit, down from 2,500, from charts dated January 16, 2027. Paid plays still count 1.5x - is it equal? YouTube today said its data will return to the U.S. Billboard charts starting in 2027, ending a withdrawal that began in January 2026 over how Billboard values…</p><p>Source: <a href="https://ppc.land/youtube-to-rejoin-billboard-charts-as-ad-supported-streams-gain-67-weight/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Meta Ads] Brainlabs warns Meta&amp;#x27;s AI creative could leave brands unsure what worked</title>
-      <link>https://ppc.land/brainlabs-warns-metas-ai-creative-could-leave-brands-unsure-what-worked/</link>
-      <guid isPermaLink="false">2d2281f99ca58280</guid>
-      <pubDate>Mon, 09 Nov 2026 19:56:30 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Muse Image is still on its way to Advantage+ creative, Brainlabs&amp;#x27; Liz DeAngelis writes, as Meta advertisers weigh AI ads. Which brand grew by ceding creative? Advertisers who let Meta generate and keep adjusting their ad creative may end up with better campaign numbers and less understanding of why, according to a…</p><p>Source: <a href="https://ppc.land/brainlabs-warns-metas-ai-creative-could-leave-brands-unsure-what-worked/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Display targeting changes in Demand Gen campaigns starting the week of December 1, 2026</title>
-      <link>http://ads-developers.googleblog.com/2026/11/display-targeting-changes-in-demand-gen.html</link>
-      <guid isPermaLink="false">2a54d14a4014a3f3</guid>
-      <pubDate>Mon, 09 Nov 2026 17:02:52 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>Starting the week of December 1, 2026, campaign-level Display targeting ( network_settings.target_content_network ) will default to enabled ( true ) for newly created Demand Gen campaigns. Display network targeting will be managed directly at the ad group level using channel controls (…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/display-targeting-changes-in-demand-gen.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads AI-Generated Summaries Above &amp; Within Ads</title>
-      <link>https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html</link>
-      <guid isPermaLink="false">c7c437e5096fa450</guid>
-      <pubDate>Mon, 09 Nov 2026 12:21:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google is testing more AI-generated summaries within its search ads. This one shows AI-generated summaries above the grouping of the sponsored results, summarizing all the ads from all the advertisers, with also AI-generated summaries below each ad description. When the AI-generated summaries are loading, there is the…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html">Search Engine Roundtable</a></p>]]></description>
     </item>
   </channel>
 </rss>

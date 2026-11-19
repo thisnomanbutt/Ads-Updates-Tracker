@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:27:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:38:32 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Build strategic A/B tests to grow your ad performance.</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-ab-testing/</link>
+      <guid isPermaLink="false">307526a591b2315d</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Medium</p><p>In an era of rapid AI innovation, experimentation can serve as a strategic compass. In the latest episode of Ads Decoded, Ads Product Liaison Ginny Marvin sits down with product leads Sagar Shah and Al Nevarez to explore how A/B testing validates AI Max features, budget shifts, and Smart Bidding strategies. Explore the…</p><p>Source: <a href="https://blog.google/products/ads-commerce/ads-decoded-ab-testing/">Google Ads &amp; Commerce Blog</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Both] InMobi lets seven AI agents run small firms&amp;#x27; Google, Meta and ChatGPT ads</title>
+      <link>https://ppc.land/inmobi-lets-seven-ai-agents-run-small-firms-google-meta-and-chatgpt-ads/</link>
+      <guid isPermaLink="false">fed143f40e9b938e</guid>
+      <pubDate>Thu, 19 Nov 2026 09:15:53 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Both</strong> · Feature update · Impact: Low</p><p>Just 4% of 800 US small advertisers and agencies can launch a campaign the same day, per InMobi&amp;#x27;s survey. Who checks the True ROAS figure the new tool reports? On November 18, 2026, InMobi launched InMobi Accelerate, a platform that uses seven AI agents to plan, build, launch and measure advertising campaigns for…</p><p>Source: <a href="https://ppc.land/inmobi-lets-seven-ai-agents-run-small-firms-google-meta-and-chatgpt-ads/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google loses bid to overturn Colombia&amp;#x27;s under-18 data consent orders</title>
+      <link>https://ppc.land/google-loses-bid-to-overturn-colombias-under-18-data-consent-orders/</link>
+      <guid isPermaLink="false">d35dc4ff3e8e1deb</guid>
+      <pubDate>Thu, 19 Nov 2026 07:53:08 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Cookies on devices in Colombia count as local data collection, judges held, binding a US firm with no office there. What must Google now prove to regulators? A Colombian administrative court has rejected every claim Google LLC brought against the country's data protection authority, ruling on November 5, 2026 that a US…</p><p>Source: <a href="https://ppc.land/google-loses-bid-to-overturn-colombias-under-18-data-consent-orders/">PPC Land</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Win the holiday shopping season with November’s Demand Gen Drop.</title>
       <link>https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/</link>
@@ -381,30 +405,6 @@
       <pubDate>Tue, 10 Nov 2026 23:39:45 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>Meta advertisers are tired of turning off creative enhancements. I hear it all the time, and this cry has only become louder during the past year. It’s understandable. Say what you will about whether you need to turn enhancements off (I’ll get to that), but the number of Meta’s tweaks and adjustments that make your ad…</p><p>Source: <a href="https://www.jonloomer.com/meta-ads-creative-enhancements/">Jon Loomer Digital</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] The Google Ads Developer Blog is moving!</title>
-      <link>http://ads-developers.googleblog.com/2026/11/the-google-ads-developer-blog-is-moving.html</link>
-      <guid isPermaLink="false">2b92ffcf427b242b</guid>
-      <pubDate>Tue, 10 Nov 2026 18:57:08 GMT</pubDate>
-      <category>API or developer</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · API or developer · Impact: Medium</p><p>Today we’re announcing the move of the Google Ads Developer Blog from Blogger to the Google for Developers platform, where it will be joining the Google Advertising and Measurement Developers Hub and be known as the Google Advertising and Measurement Developer Blog . You’re probably already familiar with this platform:…</p><p>Source: <a href="http://ads-developers.googleblog.com/2026/11/the-google-ads-developer-blog-is-moving.html">Google Ads Developer Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads: Ads With Pay-Per-Lead Goals Terms</title>
-      <link>https://www.seroundtable.com/google-ads-with-pay-per-lead-goals-terms-42490.html</link>
-      <guid isPermaLink="false">0a32ee34cbf24c73</guid>
-      <pubDate>Tue, 10 Nov 2026 12:31:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads is rolling out a new option named &quot;Ads with pay-per-lead goals terms.&quot; Advertisers must opt into this setting to activate it. Natasha Kaurra spotted this and posted about it on LinkedIn and shared a screenshot with more details on it, here is her share: She wrote about the terms in that link in that…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-with-pay-per-lead-goals-terms-42490.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads MCP server gains 4 write tools, still can&amp;#x27;t change budgets</title>
-      <link>https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/</link>
-      <guid isPermaLink="false">169c343dbbb8c645</guid>
-      <pubDate>Mon, 09 Nov 2026 20:46:12 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Version 0.0.6 shipped November 2 with asset and label writes switched on in default installs. Who checks what AI agents commit while the guide says read-only? Google released version 0.0.6 of its open-source Google Ads MCP server on November 2, 2026, and with it the first tools in the project's public history that can…</p><p>Source: <a href="https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

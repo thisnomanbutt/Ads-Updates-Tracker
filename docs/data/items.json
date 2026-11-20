@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-11-20T07:17:24.476Z",
+  "updatedAt": "2026-11-20T20:22:09.498Z",
   "model": null,
-  "count": 326,
+  "count": 327,
   "items": [
+    {
+      "id": "e4d5d75f94a1e574",
+      "title": "Google Expands & Clarifies Sexual Content Advertising Policy Examples",
+      "link": "https://www.seroundtable.com/google-expands-sexual-content-advertising-policy-42548.html",
+      "published": "2026-11-20T12:31:00.000Z",
+      "fetchedAt": "2026-11-20T20:22:09.498Z",
+      "sourceId": "seroundtable",
+      "sourceName": "Search Engine Roundtable",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Policy or compliance",
+      "impact": "Low",
+      "headline": "Google Expands & Clarifies Sexual Content Advertising Policy Examples",
+      "summary": "Google has again updated its sexual content policy for Google Ads, like it did just last month . This time it added more detailed examples of both prohibited and permitted content across nudity, partial nudity, sexual merchandise, and sexual entertainment. Google wrote , \"Google has updated the Sexual content policy…",
+      "excerpt": "Google has again updated its sexual content policy for Google Ads, like it did just last month . This time it added more detailed examples of both prohibited and permitted content across nudity, partial nudity, sexual merchandise, and sexual entertainment. Google wrote , \"Google has updated the Sexual content policy article to provide additional examples and clearer information to advertisers. This does not change enforcement of the policy.\" But if you dig in, there are a lot, I mean, a lot of changes. About 300 words were added to the document, here are some allowed examples: Simple or unrealistic sketches (like stick figures or line drawings) of figures without clothes that don't include details of intimate body parts and don’t look like real nudity Depictions of nudity in the context of classical or historic art (like paintings, drawings, or sculptures), which has a wide general audience for all ages Majority of buttocks covered, such as a person depicted wearing bikini cut or tanga cut underwear. Partial breast nudity in an educational context, such as how to perform a breast self-exam, or in the context of breastfeeding. Sexual merchandise section was added and it says. Sex…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "13694df815074551",
       "title": "Ad platforms get their own line in Google Analytics budget plans",

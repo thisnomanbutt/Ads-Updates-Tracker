@@ -5,7 +5,39 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:40:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:54:27 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Ad code is no shield: Google&amp;#x27;s back button spam rule hits the page</title>
+      <link>https://ppc.land/ad-code-is-no-shield-googles-back-button-spam-rule-hits-the-page/</link>
+      <guid isPermaLink="false">43dc87d96325f8d0</guid>
+      <pubDate>Mon, 23 Nov 2026 21:00:55 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Pages reached from Discover or from social media now fall squarely under the June 15 rule, while app hand-offs do not. Where does that leave ad partners&amp;#x27; code? Google today added a frequently asked questions section to the back button hijacking policy in its spam policies for web search, answering five questions…</p><p>Source: <a href="https://ppc.land/ad-code-is-no-shield-googles-back-button-spam-rule-hits-the-page/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] Custom Attribution Setup in Events Manager</title>
+      <link>https://www.jonloomer.com/qvt/custom-attribution-setup/</link>
+      <guid isPermaLink="false">2bbcf41441139ae1</guid>
+      <pubDate>Mon, 23 Nov 2026 16:30:52 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Reporting or measurement · Impact: Low</p><p>You can now set up custom attribution… Meta announced custom attribution recently as a way to provide different options for how conversions are reported. If you use a third-party analytics partner, in particular, this could prove useful. How to Set It Up Within the Settings tab of Events Manager, you may see a new…</p><p>Source: <a href="https://www.jonloomer.com/qvt/custom-attribution-setup/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Meta Ads] First Impression Ads</title>
+      <link>https://www.jonloomer.com/qvt/first-impression-ads/</link>
+      <guid isPermaLink="false">6da8627d81757b8c</guid>
+      <pubDate>Mon, 23 Nov 2026 14:30:17 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Meta Ads</strong> · Feature update · Impact: Low</p><p>This could end badly… A few weeks ago, Meta announced the test of a feature in the US called First Impression Ads . This allows advertisers to book the first ad people see in their feeds. Understand that this isn’t some new ad unit that will look any different or a new placement. It’s not new inventory at all. And that…</p><p>Source: <a href="https://www.jonloomer.com/qvt/first-impression-ads/">Jon Loomer Digital</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Purchase Signal Annotations Documentation</title>
+      <link>https://www.seroundtable.com/google-ads-purchase-signal-annotations-42587.html</link>
+      <guid isPermaLink="false">36ffce0a681f1555</guid>
+      <pubDate>Mon, 23 Nov 2026 12:21:00 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google has published a new Google Ads help document on purchase signal annotations . That is the feature you sometimes see in the search ads that have labels like &quot;100+ sold last 30 days.&quot; These are aimed at highlighting ads with high-demand items by showcasing purchase volume. We actually saw this ad label in the wild…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-purchase-signal-annotations-42587.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads surcharges hit 3% in France and Italy from January 2027</title>
       <link>https://ppc.land/google-ads-surcharges-hit-3-in-france-and-italy-from-january-2027/</link>
@@ -373,38 +405,6 @@
       <pubDate>Thu, 12 Nov 2026 13:00:00 GMT</pubDate>
       <category>New feature</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>VP &amp; General Manager, Ads Privacy and Safety We’ve long built defenses directly into our ad systems to block invalid traffic, helping businesses get the most out of their budgets and spend with confidence. Today, we’re rolling out the Invalid Traffic Overview Card in Google Ads to give advertisers front-end…</p><p>Source: <a href="https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/">Google Ads &amp; Commerce Blog</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads New Invalid Traffic (IVT) Overview Card</title>
-      <link>https://www.seroundtable.com/google-ads-invalid-traffic-ivt-overview-card-42513.html</link>
-      <guid isPermaLink="false">971ce9ba29c603d1</guid>
-      <pubDate>Thu, 12 Nov 2026 13:00:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Ads announced a new Invalid Traffic (IVT) overview card within Google Search. Google's Keerat Sharma wrote , &quot;We’re rolling out the Invalid Traffic Overview Card in Google Ads to give advertisers front-end transparency into how we protect their campaigns.&quot; This will allow advertisers to see the actual amount…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-invalid-traffic-ivt-overview-card-42513.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Disallows Impersonate Public Figures With AI Even If Disclosed</title>
-      <link>https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html</link>
-      <guid isPermaLink="false">995f81ce42e98afd</guid>
-      <pubDate>Thu, 12 Nov 2026 12:51:00 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Google Ads clarified in its unacceptable Business Practices policy that impersonating public figures using AI isn’t allowed, even if they disclose that they were generated or edited using AI. Yes, you can use AI but not in this case and when you use AI, you should disclose it . Note: Ads that impersonate public figures…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads shows its first-party data uplift only when it tops 1%</title>
-      <link>https://ppc.land/google-ads-shows-its-first-party-data-uplift-only-when-it-tops-1/</link>
-      <guid isPermaLink="false">cde03a8b5b103b65</guid>
-      <pubDate>Thu, 12 Nov 2026 12:47:23 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Website conversion actions need 100 conversions in 14 days, and enhanced conversions for web is left out. What can a figure that Google computes itself prove? Google has published a help page setting out how the data strength uplift metric in Google Ads is calculated, where it appears and when it is withheld, and one…</p><p>Source: <a href="https://ppc.land/google-ads-shows-its-first-party-data-uplift-only-when-it-tops-1/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Editor 2.14 turns on AI Max by default for new Search campaigns</title>
-      <link>https://ppc.land/google-ads-editor-2-14-turns-on-ai-max-by-default-for-new-search-campaigns/</link>
-      <guid isPermaLink="false">76051197103da82a</guid>
-      <pubDate>Thu, 12 Nov 2026 12:44:59 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Final URL expansion also starts switched on, and Shopping advertisers lose the local inventory toggle. Which of the 10 changes in the release will move budgets? Google has released version 2.14 of Google Ads Editor, its free desktop application for bulk campaign work, and the update changes what a new Search campaign…</p><p>Source: <a href="https://ppc.land/google-ads-editor-2-14-turns-on-ai-max-by-default-for-new-search-campaigns/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

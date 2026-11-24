@@ -1,8 +1,31 @@
 {
-  "updatedAt": "2026-11-24T09:55:33.490Z",
+  "updatedAt": "2026-11-24T22:27:22.638Z",
   "model": null,
-  "count": 339,
+  "count": 340,
   "items": [
+    {
+      "id": "37f5047470e0d702",
+      "title": "Google Ads Book Appointment Conversion Goals",
+      "link": "https://www.seroundtable.com/google-ads-book-appointment-conversion-goal-42599.html",
+      "published": "2026-11-24T12:11:00.000Z",
+      "fetchedAt": "2026-11-24T22:27:22.638Z",
+      "sourceId": "seroundtable",
+      "sourceName": "Search Engine Roundtable",
+      "sourceType": "press",
+      "platform": "Google Ads",
+      "category": "Reporting or measurement",
+      "impact": "Low",
+      "headline": "Google Ads Book Appointment Conversion Goals",
+      "summary": "Google Ads has updated its About Partner bookings help document to now be About the Book Appointment conversion goal . \"The Book Appointment conversion goal helps you measure and optimize campaigns to drive scheduled appointments, reservations, and service bookings,\" Google wrote. Google Ads offers three ways to track…",
+      "excerpt": "Google Ads has updated its About Partner bookings help document to now be About the Book Appointment conversion goal . \"The Book Appointment conversion goal helps you measure and optimize campaigns to drive scheduled appointments, reservations, and service bookings,\" Google wrote. Google Ads offers three ways to track appointment conversions under the Book Appointment conversion goal. They include partner bookings, book appointment or call from ads conversion actions. Google breaks down each method in this updated help document. You can find your appointment conversion actions grouped under the “Book Appointment” goal in the Summary page within the Goals menu. Google added, \"Google Ads doesn't allow appointment booking links or goals for healthcare campaigns. While healthcare advertisers might find the appointment booking goal option in their account, they shouldn't select or use it.\" This was spotted by PPC News Feed who wrote, \"Google Ads has introduced a Book Appointment conversion goal, allowing service businesses to better measure and optimize campaigns for driving scheduled appointments.\" Again, this is not a new document, it was just massively updated. The old version is…",
+      "whatChanged": "",
+      "whyItMatters": "",
+      "action": "",
+      "products": [],
+      "effectiveDate": "",
+      "followUp": false,
+      "aiSummary": false
+    },
     {
       "id": "43dc87d96325f8d0",
       "title": "Ad code is no shield: Google&#x27;s back button spam rule hits the page",

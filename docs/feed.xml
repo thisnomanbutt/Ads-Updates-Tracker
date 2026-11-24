@@ -5,7 +5,15 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 09:55:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 22:27:23 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads Book Appointment Conversion Goals</title>
+      <link>https://www.seroundtable.com/google-ads-book-appointment-conversion-goal-42599.html</link>
+      <guid isPermaLink="false">37f5047470e0d702</guid>
+      <pubDate>Tue, 24 Nov 2026 12:11:00 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads has updated its About Partner bookings help document to now be About the Book Appointment conversion goal . &quot;The Book Appointment conversion goal helps you measure and optimize campaigns to drive scheduled appointments, reservations, and service bookings,&quot; Google wrote. Google Ads offers three ways to track…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-book-appointment-conversion-goal-42599.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Ad code is no shield: Google&amp;#x27;s back button spam rule hits the page</title>
       <link>https://ppc.land/ad-code-is-no-shield-googles-back-button-spam-rule-hits-the-page/</link>
@@ -397,14 +405,6 @@
       <pubDate>Thu, 12 Nov 2026 13:25:46 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Opt-out zeroes the last IPv4 octet for Ads, DV360, SA360 and CM360 tags; Analytics-only containers are unaffected. What happens to requests without consent? Owners of server-side Google Tag Manager containers who want to stop Google's advertising tags receiving full visitor IP addresses from January 11, 2027 will have…</p><p>Source: <a href="https://ppc.land/google-ad-tags-gain-full-ips-on-january-11-unless-sgtm-owners-build-a-fix/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] We’re introducing a new transparency tool for invalid traffic in Google Ads.</title>
-      <link>https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/</link>
-      <guid isPermaLink="false">78dd73e1ef313fa0</guid>
-      <pubDate>Thu, 12 Nov 2026 13:00:00 GMT</pubDate>
-      <category>New feature</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Medium</p><p>VP &amp; General Manager, Ads Privacy and Safety We’ve long built defenses directly into our ad systems to block invalid traffic, helping businesses get the most out of their budgets and spend with confidence. Today, we’re rolling out the Invalid Traffic Overview Card in Google Ads to give advertisers front-end…</p><p>Source: <a href="https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/">Google Ads &amp; Commerce Blog</a></p>]]></description>
     </item>
   </channel>
 </rss>

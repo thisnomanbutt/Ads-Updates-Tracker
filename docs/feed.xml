@@ -5,7 +5,31 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:42:33 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google frees US candidates&amp;#x27; business ads from election ad rules</title>
+      <link>https://ppc.land/google-frees-us-candidates-business-ads-from-election-ad-rules/</link>
+      <guid isPermaLink="false">db43cc5abfc65014</guid>
+      <pubDate>Wed, 25 Nov 2026 20:24:13 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Ads showing US officeholders as insurance or real estate agents skip election checks if politics stays out. Which ten regions still restrict political ads? Google has carved a narrow exception into its United States election advertising rules for politicians with day jobs. An update to the Google Ads Political content…</p><p>Source: <a href="https://ppc.land/google-frees-us-candidates-business-ads-from-election-ad-rules/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] The typical Google Ads sale costs European shops 14% more, Channable finds</title>
+      <link>https://ppc.land/the-typical-google-ads-sale-costs-european-shops-14-more-channable-finds/</link>
+      <guid isPermaLink="false">54dc7daea1e8fdbf</guid>
+      <pubDate>Wed, 25 Nov 2026 19:51:25 GMT</pubDate>
+      <category>Feature update</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Median cost per sale went from €14.41 to €16.47 for over 10,000 EU online shops while click prices held flat. Will Black Friday weekend push the rise past 20%? The median cost of winning a sale through Google Ads in Europe rose 14% in a year, from €14.41 in October 2025 to €16.47 in October 2026, according to benchmark…</p><p>Source: <a href="https://ppc.land/the-typical-google-ads-sale-costs-european-shops-14-more-channable-finds/">PPC Land</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Encourages Dynamically Scoring Conversion Values Hack</title>
+      <link>https://www.seroundtable.com/google-ads-dynamically-scoring-conversion-values-42609.html</link>
+      <guid isPermaLink="false">d0fa0a94f2ad6f5e</guid>
+      <pubDate>Wed, 25 Nov 2026 12:51:00 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Ginny Marvin, the Google Ads Liaison, said that the Google Ads platform &quot;we strongly encourage&quot; &quot;dynamically scoring conversion values&quot; and they do not consider it a &quot;hack&quot; of any kind. &quot;Optimizing for deep conversion actions and feeding high-fidelity, first-party data is the best way to steer the system to what you…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-dynamically-scoring-conversion-values-42609.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google Ads Book Appointment Conversion Goals</title>
       <link>https://www.seroundtable.com/google-ads-book-appointment-conversion-goal-42599.html</link>
@@ -381,30 +405,6 @@
       <pubDate>Thu, 12 Nov 2026 19:46:30 GMT</pubDate>
       <category>Feature update</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Third-party programmatic ads get no automatic AI label, and video sites without the IMA SDK must add icon support. Who now owes each AI disclosure, and where? Google today told AdSense publishers that visible AI labels may begin to appear on ads served to their websites and apps in California, South Korea and Vietnam,…</p><p>Source: <a href="https://ppc.land/publishers-face-google-ai-ad-labels-in-california-south-korea-and-vietnam/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google AI Mode gains local retailer ads after Search growth slows to 12%</title>
-      <link>https://ppc.land/google-ai-mode-gains-local-retailer-ads-after-search-growth-slows-to-12/</link>
-      <guid isPermaLink="false">775004303461c94e</guid>
-      <pubDate>Thu, 12 Nov 2026 13:57:21 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Four sponsored placements appeared in one AI Mode answer for retail shoppers, two weeks after Google said AI Mode earns less. Can more ads lift Q4 Search sales? Google is showing a pack of sponsored products from local retailers beneath some AI Mode answers, and a second set of paid listings inside the product panel…</p><p>Source: <a href="https://ppc.land/google-ai-mode-gains-local-retailer-ads-after-search-growth-slows-to-12/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google ad tags gain full IPs on January 11 unless sGTM owners build a fix</title>
-      <link>https://ppc.land/google-ad-tags-gain-full-ips-on-january-11-unless-sgtm-owners-build-a-fix-2/</link>
-      <guid isPermaLink="false">36ab29c87a6efb6a</guid>
-      <pubDate>Thu, 12 Nov 2026 13:37:26 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Opt-out zeroes the last IPv4 octet for Ads, DV360, SA360 and CM360 tags; Analytics-only containers are unaffected. What happens to requests without consent? Owners of server-side Google Tag Manager containers who want to stop Google's advertising tags receiving full visitor IP addresses from January 11, 2027 will have…</p><p>Source: <a href="https://ppc.land/google-ad-tags-gain-full-ips-on-january-11-unless-sgtm-owners-build-a-fix-2/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google ad tags gain full IPs on January 11 unless sGTM owners build a fix</title>
-      <link>https://ppc.land/google-ad-tags-gain-full-ips-on-january-11-unless-sgtm-owners-build-a-fix/</link>
-      <guid isPermaLink="false">7987d5ff8ffc0033</guid>
-      <pubDate>Thu, 12 Nov 2026 13:25:46 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Opt-out zeroes the last IPv4 octet for Ads, DV360, SA360 and CM360 tags; Analytics-only containers are unaffected. What happens to requests without consent? Owners of server-side Google Tag Manager containers who want to stop Google's advertising tags receiving full visitor IP addresses from January 11, 2027 will have…</p><p>Source: <a href="https://ppc.land/google-ad-tags-gain-full-ips-on-january-11-unless-sgtm-owners-build-a-fix/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>

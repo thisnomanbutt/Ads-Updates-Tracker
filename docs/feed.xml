@@ -5,7 +5,23 @@
     <link>https://github.com</link>
     <description>Plain-English summaries of new features, renames, deprecations and policy changes on Google Ads and Meta Ads.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:17:49 GMT</lastBuildDate>
+    <item>
+      <title>[Google Ads] Google Ads Search Insights Tool</title>
+      <link>https://www.seroundtable.com/google-ads-search-insights-42626.html</link>
+      <guid isPermaLink="false">f413e2e448f9f3bd</guid>
+      <pubDate>Fri, 27 Nov 2026 12:21:00 GMT</pubDate>
+      <category>Reporting or measurement</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads has a search ads insights tool, also known as search insights, that shows you emerging and declining trends related to your topic or category. I don't think this is super new, as I found some Google Ads documents and blog posts on it recently but I have never covered it before. Govind Singh spotted this and…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-search-insights-42626.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
+    <item>
+      <title>[Google Ads] Google Merchant Center Ads Opportunities With New Features?</title>
+      <link>https://www.seroundtable.com/google-merchant-center-ads-opportunities-42621.html</link>
+      <guid isPermaLink="false">f66a6c13f578616e</guid>
+      <pubDate>Fri, 27 Nov 2026 12:11:00 GMT</pubDate>
+      <category>New feature</category>
+      <description><![CDATA[<p><strong>Google Ads</strong> · New feature · Impact: Low</p><p>Google Merchant Center may be rolling out the Ads opportunities feature in Google Merchant Center for Agencies , which we covered twice already . Now, some advertisers are seeing the &quot;new&quot; label on the &quot;Ads opportunities&quot; section in the console. In the old screenshots I have of this console, it was just called…</p><p>Source: <a href="https://www.seroundtable.com/google-merchant-center-ads-opportunities-42621.html">Search Engine Roundtable</a></p>]]></description>
+    </item>
     <item>
       <title>[Google Ads] Google frees US candidates&amp;#x27; business ads from election ad rules</title>
       <link>https://ppc.land/google-frees-us-candidates-business-ads-from-election-ad-rules/</link>
@@ -389,22 +405,6 @@
       <pubDate>Fri, 13 Nov 2026 12:21:00 GMT</pubDate>
       <category>Reporting or measurement</category>
       <description><![CDATA[<p><strong>Google Ads</strong> · Reporting or measurement · Impact: Low</p><p>Google Ads updated its Conversion Lift help documentation primarily to provide more detailed technical requirements and troubleshooting guidance for advertisers setting up incrementality studies. There are a lot of changes to the document but here are the big ones. The Set up Conversion Lift based on users…</p><p>Source: <a href="https://www.seroundtable.com/google-ads-conversion-lift-set-up-doc-update-42530.html">Search Engine Roundtable</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads now shows how much invalid traffic advertisers did not pay for</title>
-      <link>https://ppc.land/google-ads-now-shows-how-much-invalid-traffic-advertisers-did-not-pay-for/</link>
-      <guid isPermaLink="false">d06239ee6988ac5f</guid>
-      <pubDate>Thu, 12 Nov 2026 20:22:09 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Lead-gen advertisers saw exposure to invalid leads fall 30% on average in 2026, Google says. A new card adds a savings figure, but how is that estimate built? Google today began rolling out a card in Google Ads that puts two sums in front of advertisers: the amount the company says it saved them by filtering invalid…</p><p>Source: <a href="https://ppc.land/google-ads-now-shows-how-much-invalid-traffic-advertisers-did-not-pay-for/">PPC Land</a></p>]]></description>
-    </item>
-    <item>
-      <title>[Google Ads] Publishers face Google AI ad labels in California, South Korea and Vietnam</title>
-      <link>https://ppc.land/publishers-face-google-ai-ad-labels-in-california-south-korea-and-vietnam/</link>
-      <guid isPermaLink="false">e9894dd1bb66df1f</guid>
-      <pubDate>Thu, 12 Nov 2026 19:46:30 GMT</pubDate>
-      <category>Feature update</category>
-      <description><![CDATA[<p><strong>Google Ads</strong> · Feature update · Impact: Low</p><p>Third-party programmatic ads get no automatic AI label, and video sites without the IMA SDK must add icon support. Who now owes each AI disclosure, and where? Google today told AdSense publishers that visible AI labels may begin to appear on ads served to their websites and apps in California, South Korea and Vietnam,…</p><p>Source: <a href="https://ppc.land/publishers-face-google-ai-ad-labels-in-california-south-korea-and-vietnam/">PPC Land</a></p>]]></description>
     </item>
   </channel>
 </rss>
